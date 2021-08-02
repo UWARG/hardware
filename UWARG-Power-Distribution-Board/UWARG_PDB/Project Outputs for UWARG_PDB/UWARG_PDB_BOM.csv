@@ -1,0 +1,10 @@
+Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1,LCSC Part #
+
+"","CAP_100nF_50V_0603","CAP CER 100NF 50V X7R 0603","C1","1","KEMET","C0603C104K5RACAUTO","Volume Production","LCSC","C129621","0.01275","0.63746","C129621"
+"","CAP_10uF_50V_0805","CAP CER 10UF 50V X5R 0805","C2, C3, C4, C5, C6, C7, C8","7","Murata","GRM21BR61H106KE43L","Unknown","LCSC","C440198","0.14127","0.98886","C440198"
+"","CON_2POS_SCREW_TERM","TERM BLK 2POS SIDE ENTRY 5MM","J1, J2","2","Phoenix Contact","PT1,5/2-5.0-H","Unknown","Digi-Key","277-1667-ND","","",""
+"","IND_3.3uH_8.5A","IND 3.3UH 8.5A 22M OHM","L1","1","Shun Xiang Nuo Elec","SMMS0650-3R3M","","LCSC","C149581","","","C149581"
+"","PMOS_30V_14A","MOSFET P-CH 30V 14A SO-8","Q1","1","Alpha & Omega Semicon","AO4407C","","LCSC","C469397","","","C469397"
+"","RES_57.6kO_0603_1%","RES 57.6K OHM 1% 1/10W 0603","R1","1","Uniroyal Elec","0603WAF5762T5E","","LCSC","C23082","","","C23082"
+"","RES_10kO_0603_1%","RES 10K OHM 1% 1/10W 0603","R2","1","Uniroyal","0603WAF1002T5E","Unknown","LCSC","C25804","","","C25804"
+"","TPS565201DDCR","IC REG BUCK ADJ 5A TSOT23-6","U1","1","Texas Instruments","TPS565201DDCR","Unknown","LCSC","C327676","1.59","1.59","C327676"

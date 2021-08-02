@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\thsjig\Documents\GitHub\UWARG-Power-Distribution-Board\UWARG_PDB\Project Outputs for UWARG_PDB\Pick Place\Pick Place for PDB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20-07-21
+Time:       19:42
+Revision:   c3c11285d8aa8d9f05bdc420242c311ae396cdc1
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"L1","IND_3.3uH_8.5A","TopLayer","SMMS0650-3R3M","17.6000","20.7000","90","IND 3.3UH 8.5A 22M OHM"
+"U1","TPS565201DDCR","TopLayer","TPS565201DDCR","17.6000","13.6000","270","IC REG BUCK ADJ 5A TSOT23-6"
+"R2","RES_10kO_0603_1%","TopLayer","RES0603","16.6500","8.9000","90","RES 10K OHM 1% 1/10W 0603"
+"R1","RES_57.6kO_0603_1%","TopLayer","RES0603","14.7250","8.9000","270","RES 57.6K OHM 1% 1/10W 0603"
+"Q1","PMOS_30V_14A","TopLayer","SO-8_PMOS_AO4407C","5.1020","15.1208","180","MOSFET P-CH 30V 14A SO-8"
+"J2","CON_2POS_SCREW_TERM","TopLayer","1935161","6.1000","23.6000","180","TERM BLK 2POS SIDE ENTRY 5MM"
+"J1","CON_2POS_SCREW_TERM","TopLayer","1935161","6.1000","6.6000","0","TERM BLK 2POS SIDE ENTRY 5MM"
+"C8","CAP_10uF_50V_0805","TopLayer","CAP0805","12.3750","26.9250","270","CAP CER 10UF 50V X5R 0805"
+"C7","CAP_10uF_50V_0805","TopLayer","CAP0805","14.3750","26.9250","270","CAP CER 10UF 50V X5R 0805"
+"C6","CAP_10uF_50V_0805","TopLayer","CAP0805","16.3750","26.9250","270","CAP CER 10UF 50V X5R 0805"
+"C5","CAP_10uF_50V_0805","TopLayer","CAP0805","18.3750","26.9250","270","CAP CER 10UF 50V X5R 0805"
+"C4","CAP_10uF_50V_0805","TopLayer","CAP0805","14.7000","12.4000","90","CAP CER 10UF 50V X5R 0805"
+"C3","CAP_10uF_50V_0805","TopLayer","CAP0805","12.6000","12.4000","90","CAP CER 10UF 50V X5R 0805"
+"C2","CAP_10uF_50V_0805","TopLayer","CAP0805","10.5000","12.4000","90","CAP CER 10UF 50V X5R 0805"
+"C1","CAP_100nF_50V_0603","TopLayer","CAP0603","20.3000","13.1000","90","CAP CER 100NF 50V X7R 0603"

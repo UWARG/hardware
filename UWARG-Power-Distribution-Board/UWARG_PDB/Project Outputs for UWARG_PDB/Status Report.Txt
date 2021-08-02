@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:42:44 PM On 2021-07-20
+
+Output: PDB
+Type  : NC Drill
+From  : PCB Document [PDB.PcbDoc]
+   Generated File[PDB.TXT]
+   Generated File[PDB.LDP]
+   Generated File[PDB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:42:44 PM On 2021-07-20
