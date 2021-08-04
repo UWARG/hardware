@@ -1,11 +1,11 @@
-# Power Distribution Board
+# 24V-5V Buck Converter
 
 Describe board functionality
 Add link to design calculatiion spreadsheet
 
 ## Images
 
-Add image of assembled PCB
+![Assembled PCB](https://github.com/UWARG/hardware/blob/master/Projects/24V-5V%20Buck%20Converter/image0.jpeg)
 
 ## Designers
 
