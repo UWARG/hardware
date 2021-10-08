@@ -58,6 +58,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JOSIXWNE
 
 [Document2]
+DocumentPath=microSD_Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VUYESOJW
+
+[Document3]
 DocumentPath=Zeropilot 2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJKADABG
 
-[Document3]
+[Document4]
 DocumentPath=..\..\Libraries\WARG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECENJMSA
 
-[Document4]
+[Document5]
 DocumentPath=..\..\Libraries\WARG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,9 +123,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HSLCWCEF
 
-[Document5]
+[Document6]
 DocumentPath=H7Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
