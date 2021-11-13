@@ -125,6 +125,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANYPJXJN
 
+[ProjectVariant1]
+UniqueID=2496A06B-2279-4A1B-9AD8-59751E36E6E8
+Description=5V_NANO
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R3|UniqueId=\FNOFQYKO|Kind=1|AlternatePart= 
+Variation2=Designator=R1|UniqueId=\KPWZYIDV|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=61357FCF-220D-4DF1-BB5A-1082649AE9A3
+Description=5V_PDB
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R2|UniqueId=\TGZWKJPP|Kind=1|AlternatePart= 
+Variation2=Designator=R4|UniqueId=\XMETDGYN|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Gimbal\Design Rule Check - Gimbal.html
 DItemRevisionGUID=
@@ -287,7 +307,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON3D1169 (XP-4100 Series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
