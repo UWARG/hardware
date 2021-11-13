@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\seung\Documents\GitHub\hardware\Projects\Gimbal\Gimbal.PcbDoc
 Date     : 2021-11-13
-Time     : 3:50:44 PM
+Time     : 4:04:40 PM
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (InPolygon),(InComponent('MH1'))
 Rule Violations :0
