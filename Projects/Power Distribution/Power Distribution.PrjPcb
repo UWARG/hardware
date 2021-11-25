@@ -41,7 +41,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Power Distribution.SchDoc
+DocumentPath=SH1 - POWER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FXVPQCSA
+
+[Document2]
+DocumentPath=SH2 - 5V BUCK CONVERTER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -57,7 +74,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGTBFOSC
 
-[Document2]
+[Document3]
+DocumentPath=SH3 - CONNECTORS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QZEGPHDG
+
+[Document4]
 DocumentPath=Power Distribution.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVPSUYVQ
 
-[Document3]
+[Document5]
 DocumentPath=..\..\Libraries\WARG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSLCWCEF
 
-[Document4]
+[Document6]
 DocumentPath=..\..\Libraries\WARG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECENJMSA
 
-[Document5]
+[Document7]
 DocumentPath=Power Distribution.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1

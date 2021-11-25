@@ -1,0 +1,43 @@
+Altium Designer System: Library Component Rule Check
+PCB File : WARG
+Date     : 2021-11-24
+Time     : 10:45:37 PM
+
+
+Name                Warnings
+------------------------------------------------------------------
+AO4407C                  Duplicate Pad Name On Pads Pad Free-3(2.823mm,-0.656mm) on Top Layer And Pad Free-3(2.823mm,-1.926mm) on Top Layer
+AO4407C                  Duplicate Pad Name On Pads Pad Free-3(2.823mm,0.614mm) on Top Layer And Pad Free-3(2.823mm,-1.926mm) on Top Layer
+AO4407C                  Duplicate Pad Name On Pads Pad Free-3(2.823mm,1.884mm) on Top Layer And Pad Free-3(2.823mm,-1.926mm) on Top Layer
+AO4407C                  Duplicate Pad Name On Pads Pad Free-1(-2.827mm,0.614mm) on Top Layer And Pad Free-1(-2.827mm,-0.656mm) on Top Layer
+AO4407C                  Duplicate Pad Name On Pads Pad Free-1(-2.827mm,1.884mm) on Top Layer And Pad Free-1(-2.827mm,-0.656mm) on Top Layer
+
+P120PK_POT               Duplicate Pad Name On Pads Pad Free-2(-1.35mm,10mm) on Multi-Layer And Pad Free-2(8.85mm,10mm) on Multi-Layer
+P120PK_POT               Duplicate Pad Name On Pads Pad Free-2(7.5mm,0mm) on Multi-Layer And Pad Free-2(8.85mm,10mm) on Multi-Layer
+
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(1.37mm,-1.37mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(1.37mm,0mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(-1.37mm,1.37mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(-1.37mm,-1.37mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(-1.37mm,0mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(0mm,1.37mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(0mm,-1.37mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+DRV8353FSRTAR            Duplicate Pad Name On Pads Pad Free-41(0mm,0mm) on Top Layer And Pad Free-41(1.37mm,1.37mm) on Top Layer
+
+IRLTS2242TRPBF           Duplicate Pad Name On Pads Pad Free-3(-1.1mm,0mm) on Top Layer And Pad Free-3(-1.1mm,0.95mm) on Top Layer
+IRLTS2242TRPBF           Duplicate Pad Name On Pads Pad Free-3(1.1mm,0.95mm) on Top Layer And Pad Free-3(-1.1mm,0.95mm) on Top Layer
+IRLTS2242TRPBF           Duplicate Pad Name On Pads Pad Free-3(1.1mm,0mm) on Top Layer And Pad Free-3(-1.1mm,0.95mm) on Top Layer
+
+SI7850ADP-T1-GE3         Duplicate Pad Name On Pads Pad Free-3(-2.732mm,0.635mm) on Top Layer And Pad Free-3(-2.732mm,1.905mm) on Top Layer
+SI7850ADP-T1-GE3         Duplicate Pad Name On Pads Pad Free-3(-2.732mm,-0.635mm) on Top Layer And Pad Free-3(-2.732mm,1.905mm) on Top Layer
+SI7850ADP-T1-GE3         Duplicate Pad Name On Pads Pad Free-1(2.733mm,0.635mm) on Top Layer And Pad Free-1(2.733mm,1.905mm) on Top Layer
+SI7850ADP-T1-GE3         Duplicate Pad Name On Pads Pad Free-1(2.733mm,-0.635mm) on Top Layer And Pad Free-1(2.733mm,1.905mm) on Top Layer
+SI7850ADP-T1-GE3         Duplicate Pad Name On Pads Pad Free-1(2.733mm,-1.905mm) on Top Layer And Pad Free-1(2.733mm,1.905mm) on Top Layer
+SI7850ADP-T1-GE3         Duplicate Pad Name On Pads Pad Free-1(0.618mm,0.005mm) on Top Layer And Pad Free-1(2.733mm,1.905mm) on Top Layer
+
+TSM260P02CX6-RFG         Duplicate Pad Name On Pads Pad Free-D(-0.95mm,1.2mm) on Top Layer And Pad Free-D(0mm,1.2mm) on Top Layer
+TSM260P02CX6-RFG         Duplicate Pad Name On Pads Pad Free-D(0mm,-1.2mm) on Top Layer And Pad Free-D(0mm,1.2mm) on Top Layer
+TSM260P02CX6-RFG         Duplicate Pad Name On Pads Pad Free-D(-0.95mm,-1.2mm) on Top Layer And Pad Free-D(0mm,1.2mm) on Top Layer
+
+200MSP1T2B4M2QE          Duplicate Pad Name On Pads Pad Free-2(0mm,0mm) on Multi-Layer And Pad Free-2(2.54mm,0mm) on Multi-Layer
+
