@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Firmware Training Shield.PcbDoc   2021-11-27  12:17:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Firmware Training Shield.TXT
+ASCII RectHoles File : Firmware Training Shield-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             48        PTH        6.92inch (175.86mm)
+T2      39mil (0.991mm)                                           Round             14        PTH        1.50inch (38.10mm)
+T3      39mil (1.001mm)                                           Round             10        PTH        1.52inch (38.66mm)
+T4      43mil (1.1mm)                                             Round             3         PTH        0.30inch (7.50mm)
+T5      79mil (1.999mm)                                           Rectangle         2         PTH        0.88inch (22.24mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              77
+
+Total Processing Time (hh:mm:ss) : 00:00:00

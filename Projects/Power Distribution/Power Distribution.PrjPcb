@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Power Distribution
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -47,7 +47,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,7 +64,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -75,23 +75,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HGTBFOSC
 
 [Document3]
-DocumentPath=SH3 - CONNECTORS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QZEGPHDG
-
-[Document4]
 DocumentPath=Power Distribution.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVPSUYVQ
 
-[Document5]
+[Document4]
 DocumentPath=..\..\Libraries\WARG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSLCWCEF
 
-[Document6]
+[Document5]
 DocumentPath=..\..\Libraries\WARG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECENJMSA
 
-[Document7]
+[Document6]
 DocumentPath=Power Distribution.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Power Distribution
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -317,7 +300,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon MF110/910 Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
