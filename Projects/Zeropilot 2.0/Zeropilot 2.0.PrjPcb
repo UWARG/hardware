@@ -233,10 +233,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJKADABG
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Zeropilot 2.0\Design Rule Check - Zeropilot 2.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
