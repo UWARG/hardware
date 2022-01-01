@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Documents\GitHub\Projects\Zeropilot 2.0\Zeropilot 2.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=zeropilot 2.0.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_1_Blind_Vias|DrillFile=zeropilot 2.0.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_2_Blind_Vias|DrillFile=zeropilot 2.0.tx2|DrillLayers=gtl,g1,g2

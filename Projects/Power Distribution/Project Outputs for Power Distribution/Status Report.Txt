@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Power Distribution.PcbDoc]
-   Generated File[Power Distribution.TXT]
-   Generated File[Power Distribution.LDP]
-   Generated File[Power Distribution.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:18:43 AM On 2022-01-01
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Power Distribution.PrjPcb]
+   Generated File[Bill of Materials-Power Distribution.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 6:05:17 PM On 2021-12-30
+Finished Output Generation At 12:18:45 AM On 2022-01-01
