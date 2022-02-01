@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:00:00 AM On 2022-02-01
+
+Output: Save As/Export Schematic
+Type  : Universal Exporter
+From  : Project [BLDC Motor Controller.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 12:00:00 AM On 2022-02-01

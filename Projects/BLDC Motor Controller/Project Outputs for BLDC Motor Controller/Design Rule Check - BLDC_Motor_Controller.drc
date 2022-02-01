@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\uwarg git repo - can pull\hardware\Projects\BLDC Motor Controller\BLDC_Motor_Controller.PcbDoc
-Date     : 2022-01-31
-Time     : 11:49:52 PM
+Date     : 2022-02-01
+Time     : 12:34:59 AM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -63,4 +63,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
