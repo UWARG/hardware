@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for BLDC Motor Controller
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=8AA3F381-F062-4ACC-A283-4D4808E3DDAD
 VaultGUID=300BA218-C733-4A56-9CB9-4FE2B8026886
@@ -299,7 +299,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for BLDC Motor Controller
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
