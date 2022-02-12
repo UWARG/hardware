@@ -236,6 +236,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=BLDC_Motor_Controller - Copy.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LKJBLSNS
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BLDC Motor Controller\Design Rule Check - BLDC_Motor_Controller.html
 DItemRevisionGUID=

@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\uwarg git repo - can pull\hardware\Projects\BLDC Motor Controller\BLDC_Motor_Controller.PcbDoc
-Date     : 2022-02-06
-Time     : 7:26:42 PM
+Date     : 2022-02-12
+Time     : 3:19:07 AM
 
-Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,49 +15,49 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=160mil) (Preferred=10mil) (InNet('VBUS') or InNet('GND'))
+Processing Rule : Width Constraint (Min=0.254mm) (Max=4.064mm) (Preferred=0.254mm) (InNet('VBUS') or InNet('GND'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=10mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.203mm) (Max=0.254mm) (Preferred=0.254mm) (InNet('NetJ4_1', 'NetJ4_2','NetJ4_3','NetJ4_4','NetJ4_5', 'NetJ4_6'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=30mil) (InNet('NetR9_2') OR InNet('NetR7_2') OR InNet('NetR4_2'))
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1.27mm) (Preferred=1.016mm) (InNet('NetQ1_2' , 'NetQ6_3' , 'NetQ6_2' , 'NetQ5_3' , 'NetQ5_2' , 'NetQ4_3' , 'NetQ4_2' , 'NetQ3_2' , 'NetQ2_2',  'NetC14_1', 'NetC15_1', 'NetC16_1','NetC17_1','NetC18_1','NetC19_1', 'NetC14_2', 'NetC15_2', 'NetC16_2', 'COMP_A', 'COMP_B', 'COMP_C', 'NetR11_1', 'NetR8_2', 'NetR5_2', 'NetR3_2', 'NetC3_1'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=50mil) (InNet('VBUS'))
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=1.27mm) (InNet('VBUS'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=10mil) (Preferred=10mil) (InNet('NetJ4_1', 'NetJ4_2','NetJ4_3','NetJ4_4','NetJ4_5', 'NetJ4_6'))
+Processing Rule : Width Constraint (Min=0.203mm) (Max=0.254mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=40mil) (InNet('NetQ1_2' , 'NetQ6_3' , 'NetQ6_2' , 'NetQ5_3' , 'NetQ5_2' , 'NetQ4_3' , 'NetQ4_2' , 'NetQ3_2' , 'NetQ2_2',  'NetC14_1', 'NetC15_1', 'NetC16_1','NetC17_1','NetC18_1','NetC19_1', 'NetC14_2', 'NetC15_2', 'NetC16_2', 'COMP_A', 'COMP_B', 'COMP_C', 'NetR11_1', 'NetR8_2', 'NetR5_2', 'NetR3_2', 'NetC3_1'))
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.27mm) (Preferred=0.762mm) (InNet('NetR9_2') OR InNet('NetR7_2') OR InNet('NetR4_2'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=4mil) (Air Gap=4mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
