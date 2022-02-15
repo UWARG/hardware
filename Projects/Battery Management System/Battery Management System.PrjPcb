@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Battery Management System
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -132,6 +132,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BPJKESKO
 
 [Document6]
+DocumentPath=Battery Monitor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PIMUHLJR
+
+[Document7]
 DocumentPath=FET Protection and Current Sensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUDOOBSV
 
-[Document7]
+[Document8]
 DocumentPath=Battery and Pack Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMEMRDRS
 
-[Document8]
+[Document9]
 DocumentPath=Gas Gauge Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHJCDNLB
 
-[Document9]
+[Document10]
 DocumentPath=Temperature Sensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -198,23 +215,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMBYHKPU
-
-[Document10]
-DocumentPath=Battery Monitor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PIMUHLJR
 
 [Configuration1]
 Name=Sources
@@ -263,7 +263,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Battery Management System
 
 [OutputGroup1]
 Name=Netlist Outputs
