@@ -200,7 +200,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RMBYHKPU
 
 [Document10]
-DocumentPath=Battery Management System_Original.SchDoc
+DocumentPath=Battery Monitor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -214,7 +214,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PIMUHLJR
 
 [Configuration1]
 Name=Sources
