@@ -25,6 +25,7 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -67,40 +68,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HHXFLKVP
 
 [Document2]
-DocumentPath=motor_controller_schem_lib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XLDRYSLN
-
-[Document3]
-DocumentPath=motor_controller_pcb_lib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JBPTGRIQ
-
-[Document4]
 DocumentPath=Gate_Driver_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XONEULIY
 
-[Document5]
+[Document3]
 DocumentPath=BEMF_Sensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWQOYLYO
 
-[Document6]
+[Document4]
 DocumentPath=BLDC_Motor_Controller.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQLSADSM
 
-[Document7]
+[Document5]
 DocumentPath=Three_Phase_Inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRMMTCAP
 
-[Document8]
+[Document6]
 DocumentPath=WARG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSLCWCEF
 
-[Document9]
+[Document7]
 DocumentPath=WARG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECENJMSA
 
-[Document10]
+[Document8]
 DocumentPath=BLDC Motor Controller.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=BLDC_Motor_Controller - Copy.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1236,6 +1203,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

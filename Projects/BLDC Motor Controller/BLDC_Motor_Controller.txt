@@ -1,0 +1,5 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\UWARG Git Repository\hardware\Projects\BLDC Motor Controller\BLDC_Motor_Controller.PcbDoc
+Date         : 2022-03-05
+Time         : 3:54:27 PM
+Time Elapsed : 00:00:00
