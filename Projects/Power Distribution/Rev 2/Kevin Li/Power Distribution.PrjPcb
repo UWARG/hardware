@@ -148,6 +148,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECENJMSA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Power Distribution\Design Rule Check - Power Distribution.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
