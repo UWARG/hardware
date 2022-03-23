@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother DCP-L2550DW series Printer
+TargetPrinter=Canon MG3600 series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -52,14 +52,38 @@ OutputName2=Gerber Files
 OutputCategory2=Fabrication
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
-OutputEnabled2_OutputMedium3=1
+OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908317~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\songk\Downloads\Nav-Lights-Drone-main\Nav-Lights\PCB1.PcbDoc
+OutputType3=BOM_PartType
+OutputName3=Bill of Materials
+OutputCategory3=Report
+OutputDocumentPath3=NavLightsSchem.SchDoc
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=General
+Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Neel Bullywon\Desktop\Altium Projects\28Pins Resources\28Pins\!Design Documentation\Templates\BOM\BOM Purchase FEDEVEL Live.xlt|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CAD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration3_Name3=GroupOrder
+Configuration3_Item3=Comment=True|Footprint=True
+Configuration3_Name4=SortOrder
+Configuration3_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration3_Name5=VisibleOrder
+Configuration3_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100
+Configuration3_Name6=VisibleOrder_Flat
+Configuration3_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
