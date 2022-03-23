@@ -217,6 +217,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMBYHKPU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Battery Management System\Design Rule Check - Battery Management System.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
