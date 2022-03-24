@@ -1,32 +1,13 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Neel Bullywon\Desktop\Nav-Lights-UWARG-main\PCB1.PcbDoc
-Date     : 2022-03-22
-Time     : 12:14:44 AM
-
-WARNING: Zero hole size multi-layer pad(s) detected
-   Pad -1(16mm,7.5mm) on Multi-Layer on Net GND
-   Pad -1(7.5mm,7.5mm) on Multi-Layer on Net Net5V_1
-
-WARNING: Multilayer Pads with 0 size Hole found
-   Pad -1(16mm,7.5mm) on Multi-Layer
-   Pad -1(7.5mm,7.5mm) on Multi-Layer
+PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
+Date     : 2022-03-23
+Time     : 9:21:09 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad -1(63.95mm,8mm) on Top Layer And Polygon Region (42 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.251mm < 0.254mm) Between Pad -1(63.95mm,8mm) on Top Layer And Track (63.842mm,6.558mm)(65.331mm,8.047mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad -2(65.55mm,8mm) on Top Layer And Polygon Region (42 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.156mm < 0.254mm) Between Polygon Region (42 hole(s)) Top Layer And Track (63.591mm,8.698mm)(63.591mm,10.013mm) on Top Layer 
-   Violation between Clearance Constraint: (0.156mm < 0.254mm) Between Polygon Region (42 hole(s)) Top Layer And Track (63.591mm,8.698mm)(63.677mm,8.612mm) on Top Layer 
-   Violation between Clearance Constraint: (0.235mm < 0.254mm) Between Polygon Region (42 hole(s)) Top Layer And Track (63.677mm,8.273mm)(63.677mm,8.612mm) on Top Layer 
-   Violation between Clearance Constraint: (0.149mm < 0.254mm) Between Polygon Region (42 hole(s)) Top Layer And Track (63.677mm,8.273mm)(63.95mm,8mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (42 hole(s)) Top Layer And Via (63.481mm,10.122mm) from Top Layer to Bottom Layer 
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad -1(63.95mm,8mm) on Top Layer And Polygon Region (42 hole(s)) Top Layer Location : [X = 185.484mm][Y = 151.386mm]
-   Violation between Short-Circuit Constraint: Between Pad -2(65.55mm,8mm) on Top Layer And Polygon Region (42 hole(s)) Top Layer Location : [X = 187.231mm][Y = 151.386mm]
-   Violation between Short-Circuit Constraint: Between Polygon Region (42 hole(s)) Top Layer And Via (63.481mm,10.122mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -62,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 11
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
