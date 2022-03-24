@@ -1,38 +1,21 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
 Date     : 2022-03-24
-Time     : 11:43:50 AM
+Time     : 4:35:58 PM
 
-Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(113.149mm,6.65mm) on Top Layer And Text "" (112.629mm,6.777mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(133.099mm,6.65mm) on Top Layer And Text "" (132.579mm,6.777mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(153.299mm,6.55mm) on Top Layer And Text "" (152.779mm,6.677mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(173.199mm,6.7mm) on Top Layer And Text "" (172.679mm,6.827mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(32.849mm,6.8mm) on Top Layer And Text "" (32.329mm,6.927mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(53.099mm,6.75mm) on Top Layer And Text "" (52.579mm,6.877mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(73.349mm,6.6mm) on Top Layer And Text "" (72.829mm,6.727mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.14mm < 0.254mm) Between Pad -1(92.7mm,6.6mm) on Top Layer And Text "" (92.179mm,6.727mm) on Multi-Layer 
-Rule Violations :8
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetL5_2 Between Pad -2(113.077mm,8.45mm) on Top Layer And Pad -1(113.149mm,6.65mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL6_2 Between Pad -1(133.099mm,6.65mm) on Top Layer And Pad -2(133.1mm,8.45mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL7_2 Between Pad -1(153.299mm,6.55mm) on Top Layer And Pad -2(153.3mm,8.35mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL8_2 Between Pad -2(173.127mm,8.5mm) on Top Layer And Pad -1(173.199mm,6.7mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL2_2 Between Pad -2(53.077mm,8.5mm) on Top Layer And Pad -1(53.099mm,6.75mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (70.2mm,8.45mm) from Top Layer to Bottom Layer And Pad -1(71.75mm,8.4mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL3_2 Between Pad -1(73.349mm,6.6mm) on Top Layer And Pad -2(73.35mm,8.4mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL4_2 Between Pad -2(92.65mm,8.4mm) on Top Layer And Pad -1(92.7mm,6.6mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL1_2 Between Track (32.85mm,6.754mm)(32.85mm,6.904mm) on Top Layer And Pad -2(32.927mm,8.5mm) on Top Layer 
-Rule Violations :9
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.3mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -47,21 +30,19 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsText),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Istext),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.254mm) (isText),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (16mm,7.5mm)(16mm,9.4mm) on Top Layer 
-   Violation between Net Antennae: Via (70.2mm,8.45mm) from Top Layer to Bottom Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 19
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
