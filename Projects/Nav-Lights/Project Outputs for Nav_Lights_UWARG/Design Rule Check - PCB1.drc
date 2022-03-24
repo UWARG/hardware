@@ -1,39 +1,29 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
 Date     : 2022-03-23
-Time     : 9:28:02 PM
+Time     : 10:11:51 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad -1(28.15mm,5.2mm) on Top Layer And Track (28.127mm,5.373mm)(28.22mm,5.28mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad -2(121.45mm,5.75mm) on Top Layer And Track (121.45mm,5.75mm)(121.623mm,5.923mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad -2(145.354mm,5.773mm) on Top Layer And Track (145.354mm,5.773mm)(145.527mm,5.946mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad -2(196.9mm,6.2mm) on Top Layer And Track (196.9mm,6.2mm)(197.073mm,6.373mm) on Top Layer 
-Rule Violations :4
+   Violation between Clearance Constraint: (0.175mm < 0.254mm) Between Polygon Region (51 hole(s)) Top Layer And Track (28.15mm,5.35mm)(28.402mm,5.602mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (51 hole(s)) Top Layer And Track (28.402mm,5.602mm)(28.402mm,7.777mm) on Top Layer 
+Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad -1(28.15mm,5.2mm) on Top Layer And Track (28.127mm,5.373mm)(28.22mm,5.28mm) on Top Layer Location : [X = 149.712mm][Y = 149.05mm]
-   Violation between Short-Circuit Constraint: Between Pad -2(121.45mm,5.75mm) on Top Layer And Track (121.45mm,5.75mm)(121.623mm,5.923mm) on Top Layer Location : [X = 243.074mm][Y = 149.561mm]
-   Violation between Short-Circuit Constraint: Between Pad -2(145.354mm,5.773mm) on Top Layer And Track (145.354mm,5.773mm)(145.527mm,5.946mm) on Top Layer Location : [X = 266.978mm][Y = 149.584mm]
-   Violation between Short-Circuit Constraint: Between Pad -2(196.9mm,6.2mm) on Top Layer And Track (196.9mm,6.2mm)(197.073mm,6.373mm) on Top Layer Location : [X = 318.524mm][Y = 150.011mm]
-Rule Violations :4
+   Violation between Short-Circuit Constraint: Between Polygon Region (51 hole(s)) Top Layer And Track (28.402mm,5.602mm)(28.402mm,7.777mm) on Top Layer Location : [X = 149.941mm][Y = 150.237mm]
+Rule Violations :1
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net NetL5_2 Between Pad -1(122.95mm,5.75mm) on Top Layer And Pad -2(123.096mm,8mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL5_2 Between Track (121.45mm,5.75mm)(121.623mm,5.923mm) on Top Layer And Pad -1(122.95mm,5.75mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetL6_2 Between Pad -1(146.854mm,5.773mm) on Top Layer And Pad -2(147.123mm,8.15mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL6_2 Between Track (145.354mm,5.773mm)(145.527mm,5.946mm) on Top Layer And Pad -1(146.854mm,5.773mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetL7_2 Between Pad -1(173.15mm,5.85mm) on Top Layer And Pad -2(173.219mm,8.227mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetL8_2 Between Pad -1(198.4mm,6.2mm) on Top Layer And Pad -2(198.669mm,8.577mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL8_2 Between Track (196.9mm,6.2mm)(197.073mm,6.373mm) on Top Layer And Pad -1(198.4mm,6.2mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetL1_2 Between Pad -1(28.15mm,5.2mm) on Top Layer And Pad -2(28.402mm,7.777mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetL2_2 Between Pad -1(51.475mm,5.638mm) on Top Layer And Pad -2(51.75mm,8mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetL3_2 Between Pad -1(75.45mm,5.523mm) on Top Layer And Pad -2(75.519mm,8.477mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetL4_2 Between Pad -1(99.589mm,5.573mm) on Top Layer And Pad -2(99.858mm,8.424mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(121.45mm,5.75mm) on Top Layer And Pad -2(145.354mm,5.773mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(98.089mm,5.573mm) on Top Layer And Pad -2(121.45mm,5.75mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(171.65mm,5.85mm) on Top Layer And Pad -2(196.9mm,6.2mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(26.65mm,5.2mm) on Top Layer And Track (28.127mm,5.373mm)(28.22mm,5.28mm) on Top Layer 
-Rule Violations :15
+Rule Violations :10
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -60,20 +50,12 @@ Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (121.45mm,5.75mm)(121.623mm,5.923mm) on Top Layer 
-   Violation between Net Antennae: Track (121.45mm,5.75mm)(121.623mm,5.923mm) on Top Layer 
-   Violation between Net Antennae: Track (145.354mm,5.773mm)(145.527mm,5.946mm) on Top Layer 
-   Violation between Net Antennae: Track (145.354mm,5.773mm)(145.527mm,5.946mm) on Top Layer 
-   Violation between Net Antennae: Track (196.9mm,6.2mm)(197.073mm,6.373mm) on Top Layer 
-   Violation between Net Antennae: Track (196.9mm,6.2mm)(197.073mm,6.373mm) on Top Layer 
-   Violation between Net Antennae: Track (28.127mm,5.373mm)(28.22mm,5.28mm) on Top Layer 
-   Violation between Net Antennae: Track (28.127mm,5.373mm)(28.22mm,5.28mm) on Top Layer 
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 31
+Violations Detected : 13
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
