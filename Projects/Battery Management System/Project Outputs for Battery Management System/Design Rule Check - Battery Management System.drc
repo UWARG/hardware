@@ -1,0 +1,103 @@
+Protel Design System Design Rule Check
+PCB File : C:\WARG\hardware\Projects\Battery Management System\Battery Management System.PcbDoc
+Date     : 2022-03-24
+Time     : 4:45:36 PM
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad D5-2(1940mil,868.504mil) on Top Signal And Pad C10-1(1974mil,1055mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C10-1(1974mil,1055mil) on Top Signal And Pad R9-1(2034mil,1055mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C11-1(1747.496mil,390mil) on Top Signal And Pad D4-1(1960.992mil,388mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C11-1(1747.496mil,390mil) on Top Signal And Pad R29-1(1767mil,307mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C12-1(1651.504mil,1000mil) on Top Signal And Pad C2-1(1715.48mil,1064mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C8-1(1651mil,867.504mil) on Top Signal And Pad C12-1(1651.504mil,1000mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad Q2-1(2075.197mil,1417mil) on Top Signal And Pad C13-1(2096.504mil,1356mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C13-1(2096.504mil,1356mil) on Top Signal And Pad U2-30(2152.205mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R23-1(2278mil,1447.496mil) on Top Signal And Pad C14-1(2338mil,1447.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R25-1(2311mil,1593.496mil) on Top Signal And Pad C14-1(2338mil,1447.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad J3-1(660.795mil,738.937mil) on Multi-Layer And Pad C15-2(956mil,680.992mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C5-1(1482.52mil,1553mil) on Top Signal And Pad C16-1(1536mil,1397.992mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R18-1(1418.008mil,1270mil) on Top Signal And Pad C16-1(1536mil,1397.992mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C18-2(1536mil,1087mil) on Top Signal And Pad C2-1(1715.48mil,1064mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R18-1(1418.008mil,1270mil) on Top Signal And Pad C18-2(1536mil,1087mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C5-1(1482.52mil,1553mil) on Top Signal And Pad R7-1(1507mil,1696.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C7-1(1724mil,867.52mil) on Top Signal And Pad C6-1(1797mil,867.52mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C6-1(1797mil,867.52mil) on Top Signal And Pad D5-2(1940mil,868.504mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad R1-2(1714.496mil,1131mil) on Top Signal And Pad C6-2(1797mil,932.48mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C8-1(1651mil,867.504mil) on Top Signal And Pad C7-1(1724mil,867.52mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad Q3-2(1247.181mil,778.457mil) on Top Signal And Pad C8-1(1651mil,867.504mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R22-1(1230mil,1705.354mil) on Top Signal [Unplated] And Pad C9-1(1417mil,1697.48mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad C9-1(1417mil,1697.48mil) on Top Signal And Pad R7-1(1507mil,1696.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad J1-1(660.795mil,1689.937mil) on Multi-Layer And Pad D2-2(980mil,1563.858mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad J4-1(2289mil,269mil) on Multi-Layer And Pad D3-1(2307.008mil,388mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R15-1(2279.48mil,458mil) on Top Signal And Pad D3-1(2307.008mil,388mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad D4-1(1960.992mil,388mil) on Top Signal And Pad R16-1(1985.52mil,458mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad R2-1(1908mil,1697.496mil) on Top Signal And Pad J2-1(1908mil,1832mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Track (1507mil,1696.496mil)(1508mil,1697.496mil) on Top Signal And Pad J2-5(1508mil,1832mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad Q1-1(2115.543mil,1741.181mil) on Top Signal And Pad Q1-1(2115.543mil,1791.181mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Track (2113.228mil,1693.496mil)(2115.543mil,1695.811mil) on Top Signal And Pad Q1-1(2115.543mil,1741.181mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad R1-2(1714.496mil,1131mil) on Top Signal And Pad U1-9(1846.236mil,1414.567mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Pad U1-9(1846.236mil,1414.567mil) on Top Signal And Pad R2-1(1908mil,1697.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-24(2270.315mil,1275.173mil) on Top Signal And Pad R23-1(2278mil,1447.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad R9-1(2034mil,1055mil) on Top Signal And Pad U2-6(2250.63mil,1046.827mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U1-3(1846.236mil,1261.024mil) on Top Signal And Pad U2-30(2152.205mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-22(2309.685mil,1275.173mil) on Top Signal And Pad U2-21(2329.37mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-23(2290mil,1275.173mil) on Top Signal And Pad U2-22(2309.685mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-9(2309.685mil,1046.827mil) on Top Signal And Pad U2-22(2309.685mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-24(2270.315mil,1275.173mil) on Top Signal And Pad U2-23(2290mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-25(2250.63mil,1275.173mil) on Top Signal And Pad U2-24(2270.315mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-28(2191.575mil,1275.173mil) on Top Signal And Pad U2-25(2250.63mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-30(2152.205mil,1275.173mil) on Top Signal And Pad U2-28(2191.575mil,1275.173mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT- Between Pad U2-6(2250.63mil,1046.827mil) on Top Signal And Pad U2-9(2309.685mil,1046.827mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Track (1908mil,1697.496mil)(1909.5mil,1698.996mil) on Top Signal And Track (2000.5mil,1698.996mil)(2002mil,1700.496mil) on Top Signal 
+   Violation between Un-Routed Net Constraint: Net BATT+ Between Track (2002mil,1700.496mil)(2009mil,1693.496mil) on Top Signal And Track (2113.228mil,1693.496mil)(2115.543mil,1695.811mil) on Top Signal 
+Rule Violations :46
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=1000mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=8mil) (Air Gap=8mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 46
+Waived Violations : 0
+Time Elapsed        : 00:00:02
