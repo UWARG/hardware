@@ -1,59 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
 Date     : 2022-03-25
-Time     : 1:14:33 AM
+Time     : 3:08:50 PM
 
-Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(111.477mm,8.45mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(131.5mm,8.45mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.115mm < 0.2mm) Between Pad -1(131.5mm,8.45mm) on Top Layer And Polygon Region (6 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(132.82mm,6.805mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(151.846mm,8.477mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.129mm < 0.2mm) Between Pad -1(151.846mm,8.477mm) on Top Layer And Polygon Region (6 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(16mm,7.5mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(171.527mm,8.5mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(172.925mm,6.83mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(31.327mm,8.5mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.198mm < 0.2mm) Between Pad -1(31.327mm,8.5mm) on Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(51.477mm,8.5mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(52.86mm,6.85mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(71.75mm,8.4mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Pad -1(91.05mm,8.4mm) on Top Layer And Polygon Region (33 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad -2(31.25mm,6.829mm) on Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.101mm < 0.2mm) Between Pad -2(71.8mm,6.735mm) on Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.135mm < 0.2mm) Between Pad -2(91.11mm,6.735mm) on Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (6 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (6 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (6 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (6 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Polygon Region (8 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.102mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (109.9mm,8.4mm)(111.427mm,8.4mm) on Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (129.863mm,8.465mm)(129.878mm,8.45mm) on Top Layer 
-   Violation between Clearance Constraint: (0.105mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (129.86mm,8.465mm)(129.863mm,8.465mm) on Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (129.878mm,8.45mm)(131.5mm,8.45mm) on Top Layer 
-   Violation between Clearance Constraint: (0.106mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (150.2mm,8.45mm)(151.9mm,8.45mm) on Top Layer 
-   Violation between Clearance Constraint: (0.106mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (169.75mm,8.5mm)(171.527mm,8.5mm) on Top Layer 
-   Violation between Clearance Constraint: (0.102mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (29.8mm,8.45mm)(31.277mm,8.45mm) on Top Layer 
-   Violation between Clearance Constraint: (0.106mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (49.95mm,8.5mm)(51.29mm,8.5mm) on Top Layer 
-   Violation between Clearance Constraint: (0.102mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (70.2mm,8.45mm)(71.7mm,8.45mm) on Top Layer 
-   Violation between Clearance Constraint: (0.102mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Track (89.473mm,8.35mm)(91mm,8.35mm) on Top Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (109.9mm,8.4mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (129.86mm,8.465mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.119mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (14.15mm,7.45mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (150.2mm,8.45mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (169.75mm,8.5mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (16mm,5.6mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (16mm,9.4mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.169mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (17.8mm,7.45mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (29.8mm,8.45mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (49.95mm,8.5mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (70.2mm,8.45mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Polygon Region (33 hole(s)) Top Layer And Via (89.473mm,8.35mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.165mm < 0.2mm) Between Polygon Region (6 hole(s)) Top Layer And Track (129.878mm,8.45mm)(131.5mm,8.45mm) on Top Layer 
-   Violation between Clearance Constraint: (0.125mm < 0.2mm) Between Polygon Region (6 hole(s)) Top Layer And Track (150.2mm,8.45mm)(151.9mm,8.45mm) on Top Layer 
-Rule Violations :49
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -92,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 49
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
