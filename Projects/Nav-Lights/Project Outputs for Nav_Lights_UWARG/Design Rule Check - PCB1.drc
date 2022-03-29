@@ -1,15 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
-Date     : 2022-03-27
-Time     : 4:52:53 PM
+Date     : 2022-03-28
+Time     : 9:41:44 PM
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad -1(11.891mm,7.54mm) on Multi-Layer on Net Net5V_1
-   Pad -1(20.391mm,7.54mm) on Multi-Layer on Net GND
 
 WARNING: Multilayer Pads with 0 size Hole found
    Pad -1(11.891mm,7.54mm) on Multi-Layer
-   Pad -1(20.391mm,7.54mm) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
