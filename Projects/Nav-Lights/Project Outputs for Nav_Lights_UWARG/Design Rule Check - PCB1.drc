@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\songk\OneDrive\Documents\GitHub\hardware\Projects\Nav-Lights\PCB1.PcbDoc
+PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
 Date     : 2022-03-28
-Time     : 9:57:26 PM
+Time     : 10:14:58 PM
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad -1(8.491mm,7.54mm) on Multi-Layer on Net Net5V_1
@@ -16,15 +16,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -1(8.491mm,7.54mm) on Multi-Layer And Pad -2(31.25mm,6.829mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(111.537mm,6.653mm) on Top Layer And Pad -2(131.6mm,6.7mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(91.11mm,6.735mm) on Top Layer And Pad -2(111.537mm,6.653mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(131.6mm,6.7mm) on Top Layer And Pad -2(151.895mm,6.84mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(151.895mm,6.84mm) on Top Layer And Pad -2(171.633mm,6.841mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(31.25mm,6.829mm) on Top Layer And Pad -2(51.387mm,6.723mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(51.387mm,6.723mm) on Top Layer And Pad -2(71.8mm,6.735mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(71.8mm,6.735mm) on Top Layer And Pad -2(91.11mm,6.735mm) on Top Layer 
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -57,6 +49,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 8
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
