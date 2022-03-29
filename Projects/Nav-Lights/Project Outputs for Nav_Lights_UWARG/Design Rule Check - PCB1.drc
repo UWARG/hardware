@@ -1,13 +1,13 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Neel Bullywon\Desktop\UWARG Hardware Clone\hardware\Projects\Nav-Lights\PCB1.PcbDoc
+PCB File : C:\Users\songk\OneDrive\Documents\GitHub\hardware\Projects\Nav-Lights\PCB1.PcbDoc
 Date     : 2022-03-28
-Time     : 9:41:44 PM
+Time     : 9:57:26 PM
 
 WARNING: Zero hole size multi-layer pad(s) detected
-   Pad -1(11.891mm,7.54mm) on Multi-Layer on Net Net5V_1
+   Pad -1(8.491mm,7.54mm) on Multi-Layer on Net Net5V_1
 
 WARNING: Multilayer Pads with 0 size Hole found
-   Pad -1(11.891mm,7.54mm) on Multi-Layer
+   Pad -1(8.491mm,7.54mm) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -16,7 +16,15 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -1(8.491mm,7.54mm) on Multi-Layer And Pad -2(31.25mm,6.829mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(111.537mm,6.653mm) on Top Layer And Pad -2(131.6mm,6.7mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(91.11mm,6.735mm) on Top Layer And Pad -2(111.537mm,6.653mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(131.6mm,6.7mm) on Top Layer And Pad -2(151.895mm,6.84mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(151.895mm,6.84mm) on Top Layer And Pad -2(171.633mm,6.841mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(31.25mm,6.829mm) on Top Layer And Pad -2(51.387mm,6.723mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(51.387mm,6.723mm) on Top Layer And Pad -2(71.8mm,6.735mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Net5V_1 Between Pad -2(71.8mm,6.735mm) on Top Layer And Pad -2(91.11mm,6.735mm) on Top Layer 
+Rule Violations :8
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -49,6 +57,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 8
 Waived Violations : 0
 Time Elapsed        : 00:00:01
