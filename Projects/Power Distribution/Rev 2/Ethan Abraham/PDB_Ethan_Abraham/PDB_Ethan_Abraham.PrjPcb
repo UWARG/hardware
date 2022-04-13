@@ -125,6 +125,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECENJMSA
 
+[Document6]
+DocumentPath=PDB_Ethan_Abraham_Panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CGUYBAIA
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PDB_Ethan_Abraham\Design Rule Check - PDB_Ethan_Abraham.html
 DItemRevisionGUID=
