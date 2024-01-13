@@ -14,7 +14,7 @@
 
 E_SERIES = [3, 6, 12, 24, 48, 96, 192] # E-series to be evaluated (note exceptions will be applied accordingly)
 DECADE_LIMIT = 6 # Maximum resistor value returned will be 10**DECADE_LIMIT+1
-# Minimum resistor returned is 1 ohm, all resistors below 1 ohm tend to differ from E-series specification
+# Minimum resistor returned is 1 ohm, resistors below 1 ohm tend to commonly differ from E-series specification and are out of scope for this use case
 
 #===============================================================================================================================
 

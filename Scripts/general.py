@@ -49,9 +49,13 @@ for tolerance_series in E_SERIES:
                     voutmax = (VREFMAX*(rtop_tolmax+rbot_tolmin))/rbot_tolmin  # choice of rbot min or max is chosen on solution to optimization problem bc a/x where a is pos const and x is pos is always decreasing as x increases 
                     voutmin = (VREFMIN*(rtop_tolmin+rbot_tolmax))/rbot_tolmax
                     if (
-                        ((abs(voutnom-VOUTTARGET) < abs(best_voutnom-VOUTTARGET))) and # it is closer to the nominal target
-                        ((not ROUNDONE) or (rtop%10==0 or rbot%10==0)) # ensure one of the resistors is a very common value (to save BOM line items if desired)
-                        ) : # if closer solution to vouttarget 
+                        ((abs(voutnom-VOUTTARGET) < abs(best_voutnom-VOUTTARGET))) and ( # it is closer to the nominal target
+                            (not ROUNDONE) or ( 
+                                (rtop == 10**(len(str(int(rtop)))-1)) or 
+                                (rbot == 10**(len(str(int(rbot)))-1)) # check resistors is a very common value (to save BOM line items if desired) (I know this is inefficient :d )
+                            )
+                        ) 
+                        ) : # if closer solution to vouttarget  
                         best_voutnom = voutnom
                         best_voutmax = voutmax
                         best_voutmin = voutmin
