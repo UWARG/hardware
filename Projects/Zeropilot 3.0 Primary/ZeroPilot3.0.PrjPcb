@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -35,8 +35,6 @@ IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=8E6687CB-1A15-4D5A-BEAD-9E45C5E56743
-VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
