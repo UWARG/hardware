@@ -1,21 +1,20 @@
 
 # Daniel Puratich
 # Fall 2023
-# General Optimizing Resistor Divider for buck converter IC feedback Calculator
+# General Optimizing Resistor Divider for buck converter or LDO IC error amplifier feedback Calculator
 
-# Script is designed to be useful, efficiency is not a priority ... 
+# TODO: Increase efficiency by using something better than a brute force approach
+# TODO: implement automatic price tradeoffs into evaluation or data output ? https://developer.digikey.com/products/product-information/partsearch/keywordsearch 
+# TODO: fancier styling on the final printout 
 
-# Digikey API: https://developer.digikey.com/products/product-information/partsearch/keywordsearch 
-# TODO: implement automatic price tradeoffs into evaluation or data output ?
+from resistors import get_resistors # function to generate E-series resistors 
 
-from resistors import get_resistors # function to generate resistors nicely 
-
-# from ic datasheet, this is the internal reference voltage of the chip
+# Reference voltage of the error amplifier (generally inside an IC), from datasheet generally
 VREFNOM = 0.75 
 VREFMIN = VREFNOM*0.99 # should be provided in a table as either a fixed value or a tolerance percentage
 VREFMAX = VREFNOM*1.01
 
-# what you want vout of the buck converter to be
+# what you want the high side of the divider to be when the low side is at the vref (i.e. desired vout of the buck converter or LDO)
 VOUTTARGET = 12.0
 
 # limits the two resistors summed value

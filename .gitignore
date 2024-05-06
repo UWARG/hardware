@@ -19,3 +19,6 @@ Project\ Logs
 
 #History
 History
+
+# Python Ignores
+*__pycache__*
