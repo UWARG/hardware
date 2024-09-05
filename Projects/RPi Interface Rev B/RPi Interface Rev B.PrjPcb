@@ -107,7 +107,7 @@ UniqueId=64b8448e-0ad7-45cf-8d9f-0b4dea250f7f
 Description=Competition 2025
 AllowFabrication=0
 ParameterCount=0
-VariationCount=44
+VariationCount=46
 Variation1=Designator=J5|UniqueId=\WEQWCQPS|Kind=1|AlternatePart=
 Variation2=Designator=J9|UniqueId=\ENPITSGE|Kind=1|AlternatePart=
 Variation3=Designator=J8|UniqueId=\NNXXWUKF|Kind=1|AlternatePart=
@@ -152,6 +152,8 @@ Variation41=Designator=R34|UniqueId=\BPJCWZBE|Kind=1|AlternatePart=
 Variation42=Designator=R30|UniqueId=\GGWPULQZ|Kind=1|AlternatePart=
 Variation43=Designator=R31|UniqueId=\DRQKEDZB|Kind=1|AlternatePart=
 Variation44=Designator=R35|UniqueId=\SEKLDDHB|Kind=1|AlternatePart=
+Variation45=Designator=R7|UniqueId=\PNMMUNJP|Kind=1|AlternatePart=
+Variation46=Designator=R6|UniqueId=\CSPLHQYL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -175,10 +177,54 @@ DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RPi Interface Rev B\NC Drill\PCB.LDP
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RPi Interface Rev B\NC Drill\PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for RPi Interface Rev B\Gerber\PCB.REP
 DItemRevisionGUID=
 
@@ -709,6 +755,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
