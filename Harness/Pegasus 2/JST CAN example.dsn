@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD 3.00.04 develop
+If you wish to view this file go to https://www.tinycad.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='0'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>0</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<RECTANGLE a='80.00000,54.00000' b='96.00000,74.00000' style='2' fill='0'/>
+		<LABEL pos='96.00000,62.00000' direction='3' font='0' color='208000' style='2'>CAN_H</LABEL>
+		<LABEL pos='96.00000,66.00000' direction='3' font='0' color='208000' style='2'>CAN_L</LABEL>
+		<LABEL pos='96.00000,70.00000' direction='3' font='0' color='208000' style='2'>GND</LABEL>
+		<WIRE a='96.00000,62.00000' b='106.00000,62.00000'/>
+		<WIRE a='106.00000,62.00000' b='110.00000,66.00000'/>
+		<WIRE a='110.00000,66.00000' b='120.00000,66.00000'/>
+		<WIRE a='120.00000,66.00000' b='124.00000,62.00000'/>
+		<WIRE a='124.00000,62.00000' b='162.00000,62.00000'/>
+		<WIRE a='96.00000,66.00000' b='106.00000,66.00000'/>
+		<WIRE a='106.00000,66.00000' b='110.00000,62.00000'/>
+		<WIRE a='110.00000,62.00000' b='120.00000,62.00000'/>
+		<WIRE a='120.00000,62.00000' b='124.00000,66.00000'/>
+		<WIRE a='124.00000,66.00000' b='162.00000,66.00000'/>
+		<WIRE a='96.00000,70.00000' b='162.00000,70.00000'/>
+		<LABEL pos='96.00000,58.00000' direction='3' font='0' color='208000' style='2'>5V</LABEL>
+		<TEXT pos='80.00000,54.00000' direction='3' font='0' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='80.00000,50.00000' direction='3' font='0' color='000000'>Flying JST GH 4 pin</TEXT>
+		<RECTANGLE a='162.00000,54.00000' b='178.00000,74.00000' style='2' fill='0'/>
+		<LABEL pos='162.00000,62.00000' direction='2' font='0' color='208000' style='1'>CAN_H</LABEL>
+		<LABEL pos='162.00000,66.00000' direction='2' font='0' color='208000' style='1'>CAN_L</LABEL>
+		<LABEL pos='162.00000,70.00000' direction='2' font='0' color='208000' style='1'>GND</LABEL>
+		<LABEL pos='162.00000,58.00000' direction='2' font='0' color='208000' style='1'>5V</LABEL>
+		<TEXT pos='162.00000,54.00000' direction='3' font='0' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='162.00000,50.00000' direction='3' font='0' color='000000'>Flying JST GH 4 pin</TEXT>
+		<WIRE a='96.00000,58.00000' b='162.00000,58.00000'/>
+		<TEXT pos='126.00000,58.00000' direction='3' font='0' color='000000'>RED 28AWG 1ft</TEXT>
+		<TEXT pos='126.00000,62.00000' direction='3' font='0' color='000000'>WHT 28AWG 1ft</TEXT>
+		<TEXT pos='126.00000,66.00000' direction='3' font='0' color='000000'>YLW 28AWG 1ft</TEXT>
+		<TEXT pos='126.00000,70.00000' direction='3' font='0' color='000000'>BLK 28AWG 1ft</TEXT>
+		<TEXT pos='98.00000,58.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='98.00000,62.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='98.00000,66.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='98.00000,70.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='160.00000,58.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='160.00000,62.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='160.00000,66.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='160.00000,70.00000' direction='3' font='0' color='000000'>4</TEXT>
+	</TinyCAD>
+</TinyCADSheets>
