@@ -22,3 +22,6 @@ History
 
 # Python Ignores
 *__pycache__*
+
+# Various TinyCad Files
+*.DS_Store
