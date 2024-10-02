@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD 3.00.04 develop
+If you wish to view this file go to https://www.tinycad.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='100.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='12'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>4</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>0</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<LABEL pos='50.00000,96.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='50.00000,100.00000' direction='3' font='3' color='208000' style='2'>5-40V</LABEL>
+		<LABEL pos='50.00000,92.00000' direction='3' font='3' color='208000' style='2'>Video Out</LABEL>
+		<RECTANGLE a='34.00000,86.00000' b='50.00000,102.00000' style='2' fill='0'/>
+		<WIRE a='50.00000,92.00000' b='80.00000,92.00000'/>
+		<WIRE a='50.00000,100.00000' b='80.00000,100.00000'/>
+		<WIRE a='50.00000,96.00000' b='80.00000,96.00000'/>
+		<TEXT pos='19.92000,81.00000' direction='3' font='3' color='000000'>Caddx Baby Ratel 2 1200TVL</TEXT>
+		<TEXT pos='25.72000,85.00000' direction='3' font='3' color='000000'>BABY RATEL 5 PIN</TEXT>
+		<TEXT pos='50.00000,100.00000' direction='3' font='3' color='0000FF'>RED 28 AGW 1 ft</TEXT>
+		<TEXT pos='50.00000,96.00000' direction='3' font='3' color='400040'>BLK 28 AGW 1 ft</TEXT>
+		<TEXT pos='50.00000,92.00000' direction='3' font='3' color='80FFFF'>YLW 28 AGW 1 ft</TEXT>
+		<LABEL pos='50.00000,150.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='50.00000,154.00000' direction='3' font='3' color='208000' style='2'>5-40V</LABEL>
+		<LABEL pos='50.00000,146.00000' direction='3' font='3' color='208000' style='2'>Video Out</LABEL>
+		<RECTANGLE a='34.00000,142.00000' b='50.00000,158.00000' style='2' fill='0'/>
+		<WIRE a='50.00000,146.00000' b='80.00000,146.00000'/>
+		<WIRE a='50.00000,154.00000' b='80.00000,154.00000'/>
+		<WIRE a='50.00000,150.00000' b='80.00000,150.00000'/>
+		<TEXT pos='23.92000,135.00000' direction='3' font='3' color='000000'>Caddx Baby Ratel 2 1200TVL</TEXT>
+		<TEXT pos='29.72000,139.00000' direction='3' font='3' color='000000'>BABY RATEL 5 PIN</TEXT>
+		<TEXT pos='50.00000,154.00000' direction='3' font='3' color='0000FF'>RED 28 AGW 1 ft</TEXT>
+		<TEXT pos='50.00000,150.00000' direction='3' font='3' color='400040'>BLK 28 AGW 1 ft</TEXT>
+		<TEXT pos='50.00000,146.00000' direction='3' font='3' color='80FFFF'>YLW 28 AGW 1 ft</TEXT>
+		<RECTANGLE a='104.00000,86.00000' b='80.00000,182.00000' style='2' fill='0'/>
+		<LABEL pos='80.00000,100.00000' direction='2' font='3' color='208000' style='1'> 7~27V</LABEL>
+		<LABEL pos='104.00000,120.00000' direction='3' font='3' color='208000' style='2'> 7~27V</LABEL>
+		<LABEL pos='80.00000,154.00000' direction='2' font='3' color='208000' style='1'> 7~27V</LABEL>
+		<LABEL pos='80.00000,150.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='104.00000,124.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='80.00000,96.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='80.00000,146.00000' direction='2' font='3' color='208000' style='1'>Video IN</LABEL>
+		<LABEL pos='104.00000,128.00000' direction='3' font='3' color='208000' style='2'>Video Out</LABEL>
+		<LABEL pos='80.00000,92.00000' direction='2' font='3' color='208000' style='1'>Video In</LABEL>
+		<TEXT pos='80.92000,83.00000' direction='3' font='3' color='000000'>Lumenier TX5GS</TEXT>
+		<TEXT pos='64.76000,79.00000' direction='3' font='12' color='000000'>Lumenier 3-Way Multi-Camera Video Switcher Board 15 PIN</TEXT>
+		<LABEL pos='104.00000,170.00000' direction='3' font='3' color='208000' style='2'>7~27V</LABEL>
+		<LABEL pos='104.00000,174.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='104.00000,178.00000' direction='3' font='3' color='208000' style='2'>Video out</LABEL>
+		<TEXT pos='106.00000,128.00000' direction='3' font='3' color='80FFFF'>YLW 28 AGW 1 ft</TEXT>
+		<RECTANGLE a='222.00000,84.00000' b='176.00000,134.00000' style='2' fill='0'/>
+		<LABEL pos='176.00000,120.00000' direction='2' font='3' color='208000' style='1'>VBAT+</LABEL>
+		<LABEL pos='176.00000,124.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='176.00000,128.00000' direction='2' font='4' color='208000' style='1'>VIDEO IN</LABEL>
+		<LABEL pos='176.00000,104.00000' direction='2' font='3' color='208000' style='2'>NC</LABEL>
+		<LABEL pos='176.00000,96.00000' direction='2' font='3' color='208000' style='2'>VIDEO OUT</LABEL>
+		<LABEL pos='176.00000,100.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='222.00000,124.00000' direction='3' font='3' color='208000' style='2'>TXD</LABEL>
+		<LABEL pos='222.00000,120.00000' direction='3' font='3' color='208000' style='2'>NC</LABEL>
+		<LABEL pos='222.00000,116.00000' direction='3' font='3' color='208000' style='2'>DTR</LABEL>
+		<LABEL pos='222.00000,112.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='222.00000,90.00000' direction='3' font='3' color='208000' style='1'>BAT+</LABEL>
+		<LABEL pos='222.00000,96.00000' direction='3' font='3' color='208000' style='1'>BAT-</LABEL>
+		<WIRE a='104.00000,170.00000' b='120.00000,170.00000'/>
+		<WIRE a='104.00000,174.00000' b='120.00000,174.00000'/>
+		<WIRE a='104.00000,178.00000' b='120.00000,178.00000'/>
+		<TEXT pos='209.00000,129.48000' direction='0' font='3' color='000000'>Camera Port</TEXT>
+		<TEXT pos='197.00000,130.00000' direction='0' font='3' color='000000'>TELEM Port</TEXT>
+		<TEXT pos='209.00000,95.72000' direction='0' font='3' color='000000'>Power</TEXT>
+		<TEXT pos='199.00000,99.60000' direction='0' font='3' color='000000'>VTX PORT</TEXT>
+		<LABEL pos='176.00000,92.00000' direction='2' font='4' color='208000' style='2'>VBAT+</LABEL>
+		<LABEL pos='222.00000,132.00000' direction='3' font='3' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='222.00000,128.00000' direction='3' font='3' color='208000' style='2'>RXD</LABEL>
+		<RECTANGLE a='124.00000,112.00000' b='148.00000,84.00000' style='2' fill='0'/>
+		<LABEL pos='132.00000,88.00000' direction='2' font='3' color='208000' style='3'></LABEL>
+		<LABEL pos='124.00000,92.00000' direction='2' font='3' color='208000' style='2'>5V out</LABEL>
+		<LABEL pos='148.00000,100.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='148.00000,104.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='148.00000,92.00000' direction='3' font='3' color='208000' style='1'>7.26V</LABEL>
+		<LABEL pos='148.00000,88.00000' direction='3' font='3' color='208000' style='1'>GNE</LABEL>
+		<LABEL pos='148.00000,96.00000' direction='3' font='3' color='208000' style='1'>Vdec</LABEL>
+		<TEXT pos='128.60000,82.68000' direction='3' font='3' color='000000'>FW19003117</TEXT>
+		<TEXT pos='123.80000,79.52000' direction='3' font='5' color='000000'>Flywoo 1.2GHz/1.3GHz 2W Video transmitter VTX-1G3 9CH</TEXT>
+		<TEXT pos='106.00000,128.00000' direction='3' font='3' color='80FFFF'>YLW 28 AGW 1 ft</TEXT>
+		<TEXT pos='108.00000,128.00000' direction='3' font='3' color='80FFFF'>YLW 28 AGW 1 ft</TEXT>
+		<TEXT pos='104.00000,124.00000' direction='3' font='3' color='000000'>BLK 28 AGW 1 ft</TEXT>
+		<TEXT pos='104.00000,120.00000' direction='3' font='3' color='0000FF'>RED 28 AWG 1ft</TEXT>
+		<TEXT pos='205.16000,83.00000' direction='3' font='3' color='000000'>HB-02-13-Micro-OSD-V2-13013</TEXT>
+		<WIRE a='176.00000,100.00000' b='148.00000,100.00000'/>
+		<WIRE a='114.00000,92.00000' b='114.00000,24.00000'/>
+		<NOCONNECT pos='176.00000,104.00000'/>
+		<TEXT pos='154.00000,92.00000' direction='3' font='3' color='0000FF'>RED 28 AWG 1ft</TEXT>
+		<TEXT pos='152.00000,96.00000' direction='3' font='3' color='80FFFF'>YLW 28 AWG 1 ft</TEXT>
+		<TEXT pos='152.00000,100.00000' direction='3' font='3' color='000000'>BLK 28 AWG 1 ft</TEXT>
+		<WIRE a='104.00000,120.00000' b='176.00000,120.00000'/>
+		<WIRE a='104.00000,124.00000' b='176.00000,124.00000'/>
+		<WIRE a='104.00000,128.00000' b='176.00000,128.00000'/>
+		<WIRE a='176.00000,92.00000' b='148.00000,92.00000'/>
+		<WIRE a='176.00000,96.00000' b='148.00000,96.00000'/>
+		<TEXT pos='209.52000,79.00000' direction='3' font='3' color='000000'>Holybro -Micro OSD V2</TEXT>
+		<POWER pos='232.00000,90.00000' which='0' direction='1'></POWER>
+		<POWER pos='232.00000,96.00000' which='0' direction='0'></POWER>
+		<WIRE a='232.00000,90.00000' b='222.00000,90.00000'/>
+		<WIRE a='232.00000,96.00000' b='222.00000,96.00000'/>
+		<LABEL pos='232.00000,90.00000' direction='1' font='3' color='208000' style='0'>+</LABEL>
+		<LABEL pos='232.00000,96.00000' direction='0' font='3' color='208000' style='0'>-</LABEL>
+		<WIRE a='124.00000,92.00000' b='114.00000,92.00000'/>
+		<RECTANGLE a='126.00000,24.00000' b='102.00000,10.00000' style='2' fill='0'/>
+		<TEXT pos='107.84000,19.00000' direction='3' font='3' color='000000'>Antenna</TEXT>
+		<RECTANGLE a='174.00000,186.00000' b='120.00000,162.00000' style='2' fill='0'/>
+		<TEXT pos='229.88000,121.00000' direction='3' font='3' color='000000'>Flight Zero Telem 3 PORT (idk)</TEXT>
+		<TEXT pos='115.36000,193.00000' direction='3' font='3' color='000000'>these pins don&#039;t go to the video system so it should be fine</TEXT>
+		<WIRE a='222.00000,112.00000' b='228.00000,112.00000'/>
+		<WIRE a='222.00000,116.00000' b='228.00000,116.00000'/>
+		<WIRE a='222.00000,120.00000' b='228.00000,120.00000'/>
+		<WIRE a='222.00000,124.00000' b='228.00000,124.00000'/>
+		<WIRE a='222.00000,128.00000' b='228.00000,128.00000'/>
+		<WIRE a='222.00000,132.00000' b='228.00000,132.00000'/>
+		<RECTANGLE a='270.00000,106.00000' b='228.00000,136.00000' style='2' fill='0'/>
+		<TEXT pos='122.76000,177.00000' direction='3' font='3' color='000000'>CAN 1 TELEM 3 PIN of FLIGHT ZERO</TEXT>
+		<TEXT pos='213.36000,143.00000' direction='3' font='3' color='000000'>these pins don&#039;t go to the video system so it should be fine</TEXT>
+		<TEXT pos='310.00000,32.00000' direction='3' font='3' color='000000'>`</TEXT>
+	</TinyCAD>
+</TinyCADSheets>
