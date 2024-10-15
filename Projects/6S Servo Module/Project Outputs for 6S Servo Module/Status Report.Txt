@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [6S Servo Module.PrjPcb]
+   Generated File[6S_SERVO_MODULE.TXT]
+   Generated File[6S_SERVO_MODULE.DRL]
+   Generated File[6S_SERVO_MODULE.LDP]
+   Generated File[6S_SERVO_MODULE.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:32:47 PM On 2024-09-05

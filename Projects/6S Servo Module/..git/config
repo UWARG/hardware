@@ -1,0 +1,13 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	logallrefupdates = true
+[remote "origin"]
+	url = https://afs-vcs-ue1.365.altium.com/git/7B43FD95-910B-4734-8E93-0F4806D2D4FE.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

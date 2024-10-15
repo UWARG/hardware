@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 6S_SERVO_MODULE.GBR   2024-09-05  12:32:26 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                L01_SIG                                 
+.gbr                L02_GND                                 
+.gbr                L03_SIG                                 
+.gbr                L04_GND                                 
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                M1 Board Outline                        
+.gbr                Top Component Outline                   
+.gbr                Top Designator                          
+.gbr                Top Value                               
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CAN DSHOT Adapter.PrjPcb]
+   Generated File[PCB.TXT]
+   Generated File[PCB.DRL]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:59:22 AM On 2024-09-04

@@ -1,0 +1,58 @@
+0000000000000000000000000000000000000000 495cad404453b232b9c1039139f3a5d297811ef0 meghan <m2dang@uwaterloo.ca> 1719632294 -0400	commit (initial): Managed project "6S Servo Module" created from AD
+495cad404453b232b9c1039139f3a5d297811ef0 127842edb810bdb265af8d6dbcae38d368b73d59 meghan <m2dang@uwaterloo.ca> 1721100824 -0400	commit: Added schematics and copied circuits
+127842edb810bdb265af8d6dbcae38d368b73d59 a4c003274ca52e0e88c1a0c23aa9537ca16e74d6 meghan <m2dang@uwaterloo.ca> 1721963982 -0400	commit: Created schem docs, copied over buck & can circuits
+a4c003274ca52e0e88c1a0c23aa9537ca16e74d6 4fec892703be9d563522976fdaa2eda2682619d9 meghan <m2dang@uwaterloo.ca> 1722258923 -0400	commit: Renamed schem, added current sense circuit, added buck template, copied can circuit.
+4fec892703be9d563522976fdaa2eda2682619d9 47b50dfb8c595f0d092a212a2a8f111f489087d5 meghan <m2dang@uwaterloo.ca> 1722348396 -0400	commit: Added voltage dividers and rc to current sense circuit, added connectors for input and servos, added efuse symbol
+47b50dfb8c595f0d092a212a2a8f111f489087d5 a8b5293c2c665227e799118346b36ccd32e8d6d6 meghan <m2dang@uwaterloo.ca> 1722351048 -0400	commit: Added thermistor, diodes, and changed net names
+a8b5293c2c665227e799118346b36ccd32e8d6d6 5c812dd173073c1e5fd58d69bcfecb0256195bfe meghan <m2dang@uwaterloo.ca> 1722372506 -0400	commit: Added thermistor and resistors
+5c812dd173073c1e5fd58d69bcfecb0256195bfe 266e6a3e1f92c19931d078ff8e6cd86518ae1a98 meghan <m2dang@uwaterloo.ca> 1722375812 -0400	commit: Updated amp symbol from library
+266e6a3e1f92c19931d078ff8e6cd86518ae1a98 4524ecffc3daebbe91ae208bab58422694308eef meghan <m2dang@uwaterloo.ca> 1722461271 -0400	commit: Updated schematic symbols from library, added passives for eFuse.
+4524ecffc3daebbe91ae208bab58422694308eef 8ae01185c2f2603a4f6cc5185528d80668a378ff meghan <m2dang@uwaterloo.ca> 1722488821 -0400	commit: Added passives to eFuse
+8ae01185c2f2603a4f6cc5185528d80668a378ff 4b2f5baa49cca6f1da1a69ce7777e8b42aa3fbc4 meghan <m2dang@uwaterloo.ca> 1722530206 -0400	commit: Connected neopix, replaced generic passives with actual parts
+4b2f5baa49cca6f1da1a69ce7777e8b42aa3fbc4 49a3e431007a2023e25246b595f1045538728610 meghan <m2dang@uwaterloo.ca> 1722644023 -0400	commit: Updated buck ic from library, changed RC filter values.
+49a3e431007a2023e25246b595f1045538728610 f445dd1802bc51e503364aacc3f5ed9ae3ad58ac meghan <m2dang@uwaterloo.ca> 1722655992 -0400	commit: Added buck caps, added connectors page, added labels
+f445dd1802bc51e503364aacc3f5ed9ae3ad58ac da0da6454a8264282555a0a3f08b3d26fe84b281 meghan <m2dang@uwaterloo.ca> 1722720778 -0400	commit: Added mounting holes
+da0da6454a8264282555a0a3f08b3d26fe84b281 062b9e04e03057c87c93d9a4e72b29ccd8e0dbdf meghan <m2dang@uwaterloo.ca> 1722958577 -0400	commit: Changed cap placement
+062b9e04e03057c87c93d9a4e72b29ccd8e0dbdf 0bb4465d8fa2f1453a629ead5e29b279578979aa meghan <m2dang@uwaterloo.ca> 1722967850 -0400	commit: Connected MCU pins to voltage sense circuits, added current limiter, added params to some components
+0bb4465d8fa2f1453a629ead5e29b279578979aa 175e39ebb2912e7fbea81d467530392eb306485f meghan <m2dang@uwaterloo.ca> 1722993505 -0400	commit: Implemented new LDO, current limiter, and changed pinout on MCU
+175e39ebb2912e7fbea81d467530392eb306485f d031367b275b59503c5f752b0dab6200e249b193 meghan <m2dang@uwaterloo.ca> 1723005775 -0400	commit: Added name to schem, fixed styling.
+d031367b275b59503c5f752b0dab6200e249b193 51b816fcba763b6616591bf876cc7d5b882e9201 meghan <m2dang@uwaterloo.ca> 1723047732 -0400	commit: Changed voltage divider values and MCU pinout
+51b816fcba763b6616591bf876cc7d5b882e9201 44c14cb2311329e8e2a51ef2c32b85eb97d8621c meghan <m2dang@uwaterloo.ca> 1723076241 -0400	commit: Edited schematic styling
+44c14cb2311329e8e2a51ef2c32b85eb97d8621c 895062a89297c8ff1b4cf957d37852241a4826fc meghan <m2dang@uwaterloo.ca> 1723159542 -0400	commit: Edited styling and updated can transceiver
+895062a89297c8ff1b4cf957d37852241a4826fc 8d8d5b20c6136926414c10d12c7b6c71409df7e2 meghan <m2dang@uwaterloo.ca> 1723219573 -0400	commit: Changed net names, schem styling, diode output.
+8d8d5b20c6136926414c10d12c7b6c71409df7e2 a753fd5a318225d0c20a8771bfa68378dc185aa0 meghan <m2dang@uwaterloo.ca> 1723259077 -0400	commit: Created PCB file, edited schem styling, defined board outline and roughly placed connectors
+a753fd5a318225d0c20a8771bfa68378dc185aa0 6e0a01ee3ac61301ace2db45d51833afb20687f9 meghan <m2dang@uwaterloo.ca> 1723260444 -0400	commit: Edited board size
+6e0a01ee3ac61301ace2db45d51833afb20687f9 5ceed09a44dc44aaf6c026e881c9db8818f3afe8 meghan <m2dang@uwaterloo.ca> 1723648254 -0400	commit: Edited placement
+5ceed09a44dc44aaf6c026e881c9db8818f3afe8 59b10f7b6c75efec72f383b2d8d67cc7d8744cc5 meghan <m2dang@uwaterloo.ca> 1723649695 -0400	merge 59b10f7b6c75efec72f383b2d8d67cc7d8744cc5: Fast-forward
+59b10f7b6c75efec72f383b2d8d67cc7d8744cc5 8742b8f006ea3b809f9101c890efe33d57044bcb meghan <m2dang@uwaterloo.ca> 1723727104 -0400	commit: Implemented new LDO, added voltage divider, styling fixes
+8742b8f006ea3b809f9101c890efe33d57044bcb 26be9a51d966b38869aa6fa8fdd759f6b54d8009 meghan <m2dang@uwaterloo.ca> 1724830598 -0400	commit: Added new LDO, new neopixel, changed some placement, added new footprints to placement, edited net names, added parameters to passives.
+26be9a51d966b38869aa6fa8fdd759f6b54d8009 1f25f12bea427c16fdec00926f2676fa7069dafc meghan <m2dang@uwaterloo.ca> 1724911969 -0400	commit: Edited placement, rough connector, current sense, and buck placement.
+1f25f12bea427c16fdec00926f2676fa7069dafc 51a98d0caccb1ccefec2134ee8500859c34fc53a meghan <m2dang@uwaterloo.ca> 1724971909 -0400	commit: Changed 6pin to R/A version, very rough placement
+51a98d0caccb1ccefec2134ee8500859c34fc53a 2990e6385ef68bf29004a2db78e8e670a64ffd98 meghan <m2dang@uwaterloo.ca> 1724979551 -0400	commit: Changed NRST cap, changed resistor for buck output voltage, made size codes on passives consistent, minor placement changes
+2990e6385ef68bf29004a2db78e8e670a64ffd98 94f2e68ea866645a540f573ac9e81ccc1c774fd6 meghan <m2dang@uwaterloo.ca> 1724980540 -0400	commit: Replaced passives to reduce bom
+94f2e68ea866645a540f573ac9e81ccc1c774fd6 e8e965632866213f37317995bf0769ce9d944058 meghan <m2dang@uwaterloo.ca> 1724981748 -0400	commit: Schem styling changes
+e8e965632866213f37317995bf0769ce9d944058 b23148457f2e3c129a632f9ad5c3612951359ddb meghan <m2dang@uwaterloo.ca> 1725115770 -0400	commit: Changed placement, net names, minor schem styling fixes, updated passives from library.
+b23148457f2e3c129a632f9ad5c3612951359ddb 49f60d6b9bfcc9e19bb485fcc0a1892f92b59401 meghan <m2dang@uwaterloo.ca> 1725160110 -0400	commit: Schem styling comment fixes
+49f60d6b9bfcc9e19bb485fcc0a1892f92b59401 55b626c489ccf8bf2fe90e11ebbcc9ffc7082bbd meghan <m2dang@uwaterloo.ca> 1725163236 -0400	commit: Added pullups and low pass caps.
+55b626c489ccf8bf2fe90e11ebbcc9ffc7082bbd d345e708442b9a60704b31700eb67c7852dd5921 meghan <m2dang@uwaterloo.ca> 1725168005 -0400	commit: Changed buck placement and schem titles
+d345e708442b9a60704b31700eb67c7852dd5921 8ff9816f754b4d39722429dd4b8345e22e4b87e9 meghan <m2dang@uwaterloo.ca> 1725238795 -0400	commit: Placement changes, comment fixes.
+8ff9816f754b4d39722429dd4b8345e22e4b87e9 5b1caf81982dd2511f2ee2bc2a4e962209a9ce75 meghan <m2dang@uwaterloo.ca> 1725260910 -0400	commit: Routed everything, added some stitching vias and cutouts, edited stackup for 4 layers, imported jlc rules, added pin 29 on TPS4H16 symbol
+5b1caf81982dd2511f2ee2bc2a4e962209a9ce75 7595cf0c2f8d5f1734b608fb0798d10af049c94d meghan <m2dang@uwaterloo.ca> 1725343278 -0400	commit: Fixes from comments, added stitching vias, moved some traces further from board edge, added some cutouts
+7595cf0c2f8d5f1734b608fb0798d10af049c94d 31eec9be0b14824699a863d2b7f7c3e2c9dccfab meghan <m2dang@uwaterloo.ca> 1725346564 -0400	commit: Added silk, made pwr traces thicker.
+31eec9be0b14824699a863d2b7f7c3e2c9dccfab 54b3732e8e8424c4e5a5fa5206514b47a8d921e1 meghan <m2dang@uwaterloo.ca> 1725394573 -0400	commit: Added drilled guide, teardropped vias, added vias in mounting holes, moved SWD pin vias
+54b3732e8e8424c4e5a5fa5206514b47a8d921e1 c6f28aeadd51320932a770ade05dcfd20e67687d meghan <m2dang@uwaterloo.ca> 1725413415 -0400	commit: Moved RC filter close to MCU, changed trace widths, for VIN_5V and VOUT traces
+c6f28aeadd51320932a770ade05dcfd20e67687d c42438bdba147d522756b1d489c7ae07428cfba7 meghan <m2dang@uwaterloo.ca> 1725417879 -0400	commit: Moved MCU traces very slightly, added more teardrops
+c42438bdba147d522756b1d489c7ae07428cfba7 77a8a02fb7b5c7a8e6fa9d1aaf8c2dff8361be29 meghan <m2dang@uwaterloo.ca> 1725425033 -0400	commit: Added silk on back
+77a8a02fb7b5c7a8e6fa9d1aaf8c2dff8361be29 d376a65e93c5ede20a8aa4565d5acf9364c2ebbb meghan <m2dang@uwaterloo.ca> 1725425152 -0400	commit: changed pcb doc name
+d376a65e93c5ede20a8aa4565d5acf9364c2ebbb 31aac1ef7323d15e08906ba2b9a1b94fbb380882 meghan <m2dang@uwaterloo.ca> 1725425623 -0400	commit: Created gerber and drill files
+31aac1ef7323d15e08906ba2b9a1b94fbb380882 8f827e3c21c9d2d5e8928abf3bd92c25fb612b54 meghan <m2dang@uwaterloo.ca> 1725426061 -0400	commit: Made new files in diff spot
+8f827e3c21c9d2d5e8928abf3bd92c25fb612b54 343eff864950eb8439be6fdcaa4d8283221342ea meghan <m2dang@uwaterloo.ca> 1725464833 -0400	commit: Removed dead copper and antennas, added some gnd vias
+343eff864950eb8439be6fdcaa4d8283221342ea 45fe339b16d27972c554847a0ec3b042841c9312 meghan <m2dang@uwaterloo.ca> 1725464968 -0400	commit: Made new gerber & drill files
+45fe339b16d27972c554847a0ec3b042841c9312 e80cb44a332bc80f8f693d1c8cb23b731c59b1cf meghan <m2dang@uwaterloo.ca> 1725466466 -0400	commit: Schem styling changes and updated OOD components from lib
+e80cb44a332bc80f8f693d1c8cb23b731c59b1cf 9b5d29bee4c15c1b7828c5c46815958eddb50929 meghan <m2dang@uwaterloo.ca> 1725480846 -0400	commit: Moved inductor, vsense, can lines, made new polygons added more vias
+9b5d29bee4c15c1b7828c5c46815958eddb50929 f3174d4a3c02d0b40a468292416e3a77df57a92e meghan <m2dang@uwaterloo.ca> 1725492136 -0400	commit: Added cutouts and gnd vias
+f3174d4a3c02d0b40a468292416e3a77df57a92e f6cc021b9de6f3c9e9b4fbd521df179127b8fb1d meghan <m2dang@uwaterloo.ca> 1725493337 -0400	commit: Tweaked polygons
+f6cc021b9de6f3c9e9b4fbd521df179127b8fb1d a24fe9426e6ae42b2eea6218b5b73a84fd3424dd meghan <m2dang@uwaterloo.ca> 1725494653 -0400	commit: Edited polygons and silk.
+a24fe9426e6ae42b2eea6218b5b73a84fd3424dd e06081a227bce67f1b34aac77e7290a68c15d154 meghan <m2dang@uwaterloo.ca> 1725494751 -0400	commit: Added gerber and nc drill
+e06081a227bce67f1b34aac77e7290a68c15d154 29ddaf908eed9c72fc4fd805449fee1588c13c9c meghan <m2dang@uwaterloo.ca> 1725554007 -0400	commit: Created new gerber and drill files
+29ddaf908eed9c72fc4fd805449fee1588c13c9c 0aac6358abb3d157b61728a9d6373db40809dbd9 meghan <m2dang@uwaterloo.ca> 1728957021 -0400	commit: Added files
