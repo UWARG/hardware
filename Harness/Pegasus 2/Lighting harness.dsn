@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD 3.00.04 develop
+If you wish to view this file go to https://www.tinycad.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE>Peggy 2 Lighting Harness</TITLE>
+			<AUTHOR>Jerry Tian</AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION>WARG</ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE>2024-10-31</DATE>
+			<GRID spacing='100.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='0'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-32</HEIGHT>
+			<WIDTH>15</WIDTH>
+			<WEIGHT>700</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='3'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='4'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>0</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<LABEL pos='42.00000,28.00000' direction='3' font='3' color='208000' style='2'>VIN_5V</LABEL>
+		<LABEL pos='42.00000,32.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='26.00000,24.00000' b='42.00000,46.00000' style='3' fill='0'/>
+		<TEXT pos='26.00000,20.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<LABEL pos='118.00000,28.00000' direction='2' font='3' color='208000' style='3'>VIN_5V</LABEL>
+		<LABEL pos='118.00000,36.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
+		<RECTANGLE a='118.00000,24.00000' b='134.00000,46.00000' style='3' fill='0'/>
+		<TEXT pos='118.00000,20.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<TEXT pos='68.00000,28.00000' direction='3' font='3' color='000000'>RED 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,36.00000' direction='3' font='3' color='000000'>WHT 28AWG 80cm</TEXT>
+		<LABEL pos='42.00000,36.00000' direction='3' font='3' color='208000' style='2'>CAN_H</LABEL>
+		<LABEL pos='42.00000,40.00000' direction='3' font='3' color='208000' style='2'>CAN_L</LABEL>
+		<LABEL pos='118.00000,40.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='118.00000,32.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<TEXT pos='68.00000,40.00000' direction='3' font='3' color='000000'>YEL 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,32.00000' direction='3' font='3' color='000000'>BLK 28AWG 80cm</TEXT>
+		<RECTANGLE a='144.00000,24.00000' b='156.00000,174.00000' style='3' fill='0'/>
+		<TEXT pos='144.00000,24.00000' direction='3' font='3' color='000000'>CAN HUB</TEXT>
+		<WIRE style='2' a='134.00000,32.00000' b='144.00000,32.00000'/>
+		<WIRE a='42.00000,28.00000' b='58.00000,28.00000'/>
+		<WIRE a='58.00000,28.00000' b='62.00000,32.00000'/>
+		<WIRE a='62.00000,32.00000' b='96.00000,32.00000'/>
+		<WIRE a='96.00000,32.00000' b='100.00000,28.00000'/>
+		<WIRE a='100.00000,28.00000' b='118.00000,28.00000'/>
+		<WIRE a='118.00000,32.00000' b='100.00000,32.00000'/>
+		<WIRE a='100.00000,32.00000' b='96.00000,28.00000'/>
+		<WIRE a='42.00000,32.00000' b='58.00000,32.00000'/>
+		<WIRE a='58.00000,32.00000' b='62.00000,28.00000'/>
+		<WIRE a='96.00000,28.00000' b='62.00000,28.00000'/>
+		<WIRE a='42.00000,36.00000' b='58.00000,36.00000'/>
+		<WIRE a='58.00000,36.00000' b='62.00000,40.00000'/>
+		<WIRE a='62.00000,40.00000' b='96.00000,40.00000'/>
+		<WIRE a='42.00000,40.00000' b='58.00000,40.00000'/>
+		<WIRE a='58.00000,40.00000' b='62.00000,36.00000'/>
+		<WIRE a='96.00000,36.00000' b='62.00000,36.00000'/>
+		<WIRE a='96.00000,40.00000' b='100.00000,36.00000'/>
+		<WIRE a='100.00000,40.00000' b='96.00000,36.00000'/>
+		<WIRE a='100.00000,36.00000' b='118.00000,36.00000'/>
+		<WIRE a='100.00000,40.00000' b='118.00000,40.00000'/>
+		<TEXT pos='44.00000,28.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='44.00000,36.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='44.00000,40.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='44.00000,32.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='116.00000,28.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='116.00000,36.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='116.00000,40.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='116.00000,32.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='26.00000,24.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='118.00000,24.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<WIRE style='2' a='134.00000,68.00000' b='144.00000,68.00000'/>
+		<WIRE style='2' a='134.00000,104.00000' b='144.00000,104.00000'/>
+		<WIRE style='2' a='134.00000,138.00000' b='144.00000,138.00000'/>
+		<LABEL pos='144.00000,32.00000' direction='2' font='0' color='208000' style='3'>Port</LABEL>
+		<LABEL pos='144.00000,68.00000' direction='2' font='0' color='208000' style='3'>Port</LABEL>
+		<LABEL pos='144.00000,104.00000' direction='2' font='0' color='208000' style='3'>Port</LABEL>
+		<LABEL pos='144.00000,138.00000' direction='2' font='0' color='208000' style='3'>Port</LABEL>
+		<LABEL pos='156.00000,164.00000' direction='3' font='0' color='208000' style='3'>Port</LABEL>
+		<LABEL pos='182.00000,156.00000' direction='3' font='3' color='208000' style='2'>VIN_5V</LABEL>
+		<LABEL pos='182.00000,160.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='166.00000,152.00000' b='182.00000,174.00000' style='3' fill='0'/>
+		<TEXT pos='166.00000,148.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<LABEL pos='258.00000,156.00000' direction='2' font='3' color='208000' style='3'>VIN_5V</LABEL>
+		<LABEL pos='258.00000,164.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
+		<RECTANGLE a='258.00000,152.00000' b='274.00000,174.00000' style='3' fill='0'/>
+		<TEXT pos='258.00000,148.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<TEXT pos='204.00000,156.00000' direction='3' font='3' color='000000'>RED 28AWG 15cm</TEXT>
+		<TEXT pos='204.00000,164.00000' direction='3' font='3' color='000000'>WHT 28AWG 15cm</TEXT>
+		<LABEL pos='182.00000,164.00000' direction='3' font='3' color='208000' style='2'>CAN_H</LABEL>
+		<LABEL pos='182.00000,168.00000' direction='3' font='3' color='208000' style='2'>CAN_L</LABEL>
+		<LABEL pos='258.00000,168.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='258.00000,160.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<TEXT pos='204.00000,168.00000' direction='3' font='3' color='000000'>YEL 28AWG 15cm</TEXT>
+		<TEXT pos='204.00000,160.00000' direction='3' font='3' color='000000'>BLK 28AWG 15cm</TEXT>
+		<WIRE style='2' a='156.00000,164.00000' b='166.00000,164.00000'/>
+		<WIRE a='182.00000,156.00000' b='190.00000,156.00000'/>
+		<WIRE a='190.00000,156.00000' b='194.00000,160.00000'/>
+		<WIRE a='194.00000,160.00000' b='232.00000,160.00000'/>
+		<WIRE a='232.00000,160.00000' b='236.00000,156.00000'/>
+		<WIRE a='236.00000,156.00000' b='258.00000,156.00000'/>
+		<WIRE a='258.00000,160.00000' b='236.00000,160.00000'/>
+		<WIRE a='236.00000,160.00000' b='232.00000,156.00000'/>
+		<WIRE a='182.00000,160.00000' b='190.00000,160.00000'/>
+		<WIRE a='190.00000,160.00000' b='194.00000,156.00000'/>
+		<WIRE a='232.00000,156.00000' b='194.00000,156.00000'/>
+		<WIRE a='182.00000,164.00000' b='190.00000,164.00000'/>
+		<WIRE a='190.00000,164.00000' b='194.00000,168.00000'/>
+		<WIRE a='194.00000,168.00000' b='232.00000,168.00000'/>
+		<WIRE a='182.00000,168.00000' b='190.00000,168.00000'/>
+		<WIRE a='190.00000,168.00000' b='194.00000,164.00000'/>
+		<WIRE a='232.00000,164.00000' b='194.00000,164.00000'/>
+		<WIRE a='232.00000,168.00000' b='236.00000,164.00000'/>
+		<WIRE a='236.00000,168.00000' b='232.00000,164.00000'/>
+		<WIRE a='236.00000,164.00000' b='258.00000,164.00000'/>
+		<WIRE a='236.00000,168.00000' b='258.00000,168.00000'/>
+		<TEXT pos='184.00000,156.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='184.00000,164.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='184.00000,168.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='184.00000,160.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='256.00000,156.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='256.00000,164.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='256.00000,168.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='256.00000,160.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='166.00000,152.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='258.00000,152.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='22.00000,12.00000' direction='3' font='4' color='000000'>To LED </TEXT>
+		<TEXT pos='232.00000,138.00000' direction='3' font='4' color='000000'>To PixHawk CAN bus</TEXT>
+		<NOTE_TEXT a='198.00000,144.00000' b='240.00000,150.00000' direction='3' style='4' fill='2' font='0' color='FF0000' border_style='1'>Use pre-crimped wire is sufficient</NOTE_TEXT>
+		<JUNCTION pos='52.00000,28.00000'/>
+		<JUNCTION pos='52.00000,32.00000'/>
+		<JUNCTION pos='52.00000,36.00000'/>
+		<JUNCTION pos='52.00000,40.00000'/>
+		<JUNCTION pos='108.00000,28.00000'/>
+		<JUNCTION pos='108.00000,32.00000'/>
+		<JUNCTION pos='108.00000,36.00000'/>
+		<JUNCTION pos='108.00000,40.00000'/>
+		<LABEL pos='42.00000,64.00000' direction='3' font='3' color='208000' style='2'>VIN_5V</LABEL>
+		<LABEL pos='42.00000,68.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='26.00000,60.00000' b='42.00000,82.00000' style='3' fill='0'/>
+		<TEXT pos='26.00000,56.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<LABEL pos='118.00000,64.00000' direction='2' font='3' color='208000' style='3'>VIN_5V</LABEL>
+		<LABEL pos='118.00000,72.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
+		<RECTANGLE a='118.00000,60.00000' b='134.00000,82.00000' style='3' fill='0'/>
+		<TEXT pos='118.00000,56.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<TEXT pos='68.00000,64.00000' direction='3' font='3' color='000000'>RED 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,72.00000' direction='3' font='3' color='000000'>WHT 28AWG 80cm</TEXT>
+		<LABEL pos='42.00000,72.00000' direction='3' font='3' color='208000' style='2'>CAN_H</LABEL>
+		<LABEL pos='42.00000,76.00000' direction='3' font='3' color='208000' style='2'>CAN_L</LABEL>
+		<LABEL pos='118.00000,76.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='118.00000,68.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<TEXT pos='68.00000,76.00000' direction='3' font='3' color='000000'>YEL 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,68.00000' direction='3' font='3' color='000000'>BLK 28AWG 80cm</TEXT>
+		<WIRE a='42.00000,64.00000' b='58.00000,64.00000'/>
+		<WIRE a='58.00000,64.00000' b='62.00000,68.00000'/>
+		<WIRE a='62.00000,68.00000' b='96.00000,68.00000'/>
+		<WIRE a='96.00000,68.00000' b='100.00000,64.00000'/>
+		<WIRE a='100.00000,64.00000' b='118.00000,64.00000'/>
+		<WIRE a='118.00000,68.00000' b='100.00000,68.00000'/>
+		<WIRE a='100.00000,68.00000' b='96.00000,64.00000'/>
+		<WIRE a='42.00000,68.00000' b='58.00000,68.00000'/>
+		<WIRE a='58.00000,68.00000' b='62.00000,64.00000'/>
+		<WIRE a='96.00000,64.00000' b='62.00000,64.00000'/>
+		<WIRE a='42.00000,72.00000' b='58.00000,72.00000'/>
+		<WIRE a='58.00000,72.00000' b='62.00000,76.00000'/>
+		<WIRE a='62.00000,76.00000' b='96.00000,76.00000'/>
+		<WIRE a='42.00000,76.00000' b='58.00000,76.00000'/>
+		<WIRE a='58.00000,76.00000' b='62.00000,72.00000'/>
+		<WIRE a='96.00000,72.00000' b='62.00000,72.00000'/>
+		<WIRE a='96.00000,76.00000' b='100.00000,72.00000'/>
+		<WIRE a='100.00000,76.00000' b='96.00000,72.00000'/>
+		<WIRE a='100.00000,72.00000' b='118.00000,72.00000'/>
+		<WIRE a='100.00000,76.00000' b='118.00000,76.00000'/>
+		<TEXT pos='44.00000,64.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='44.00000,72.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='44.00000,76.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='44.00000,68.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='116.00000,64.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='116.00000,72.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='116.00000,76.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='116.00000,68.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='26.00000,60.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='118.00000,60.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<JUNCTION pos='52.00000,64.00000'/>
+		<JUNCTION pos='52.00000,68.00000'/>
+		<JUNCTION pos='52.00000,72.00000'/>
+		<JUNCTION pos='52.00000,76.00000'/>
+		<JUNCTION pos='108.00000,64.00000'/>
+		<JUNCTION pos='108.00000,68.00000'/>
+		<JUNCTION pos='108.00000,72.00000'/>
+		<JUNCTION pos='108.00000,76.00000'/>
+		<LABEL pos='42.00000,100.00000' direction='3' font='3' color='208000' style='2'>VIN_5V</LABEL>
+		<LABEL pos='42.00000,104.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='26.00000,96.00000' b='42.00000,118.00000' style='3' fill='0'/>
+		<TEXT pos='26.00000,92.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<LABEL pos='118.00000,100.00000' direction='2' font='3' color='208000' style='3'>VIN_5V</LABEL>
+		<LABEL pos='118.00000,108.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
+		<RECTANGLE a='118.00000,96.00000' b='134.00000,118.00000' style='3' fill='0'/>
+		<TEXT pos='118.00000,92.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<TEXT pos='68.00000,100.00000' direction='3' font='3' color='000000'>RED 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,108.00000' direction='3' font='3' color='000000'>WHT 28AWG 80cm</TEXT>
+		<LABEL pos='42.00000,108.00000' direction='3' font='3' color='208000' style='2'>CAN_H</LABEL>
+		<LABEL pos='42.00000,112.00000' direction='3' font='3' color='208000' style='2'>CAN_L</LABEL>
+		<LABEL pos='118.00000,112.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='118.00000,104.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<TEXT pos='68.00000,112.00000' direction='3' font='3' color='000000'>YEL 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,104.00000' direction='3' font='3' color='000000'>BLK 28AWG 80cm</TEXT>
+		<WIRE a='42.00000,100.00000' b='58.00000,100.00000'/>
+		<WIRE a='58.00000,100.00000' b='62.00000,104.00000'/>
+		<WIRE a='62.00000,104.00000' b='96.00000,104.00000'/>
+		<WIRE a='96.00000,104.00000' b='100.00000,100.00000'/>
+		<WIRE a='100.00000,100.00000' b='118.00000,100.00000'/>
+		<WIRE a='118.00000,104.00000' b='100.00000,104.00000'/>
+		<WIRE a='100.00000,104.00000' b='96.00000,100.00000'/>
+		<WIRE a='42.00000,104.00000' b='58.00000,104.00000'/>
+		<WIRE a='58.00000,104.00000' b='62.00000,100.00000'/>
+		<WIRE a='96.00000,100.00000' b='62.00000,100.00000'/>
+		<WIRE a='42.00000,108.00000' b='58.00000,108.00000'/>
+		<WIRE a='58.00000,108.00000' b='62.00000,112.00000'/>
+		<WIRE a='62.00000,112.00000' b='96.00000,112.00000'/>
+		<WIRE a='42.00000,112.00000' b='58.00000,112.00000'/>
+		<WIRE a='58.00000,112.00000' b='62.00000,108.00000'/>
+		<WIRE a='96.00000,108.00000' b='62.00000,108.00000'/>
+		<WIRE a='96.00000,112.00000' b='100.00000,108.00000'/>
+		<WIRE a='100.00000,112.00000' b='96.00000,108.00000'/>
+		<WIRE a='100.00000,108.00000' b='118.00000,108.00000'/>
+		<WIRE a='100.00000,112.00000' b='118.00000,112.00000'/>
+		<TEXT pos='44.00000,100.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='44.00000,108.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='44.00000,112.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='44.00000,104.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='116.00000,100.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='116.00000,108.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='116.00000,112.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='116.00000,104.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='26.00000,96.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='118.00000,96.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<JUNCTION pos='52.00000,100.00000'/>
+		<JUNCTION pos='52.00000,104.00000'/>
+		<JUNCTION pos='52.00000,108.00000'/>
+		<JUNCTION pos='52.00000,112.00000'/>
+		<JUNCTION pos='108.00000,100.00000'/>
+		<JUNCTION pos='108.00000,104.00000'/>
+		<JUNCTION pos='108.00000,108.00000'/>
+		<JUNCTION pos='108.00000,112.00000'/>
+		<LABEL pos='42.00000,134.00000' direction='3' font='3' color='208000' style='2'>VIN_5V</LABEL>
+		<LABEL pos='42.00000,138.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='26.00000,130.00000' b='42.00000,152.00000' style='3' fill='0'/>
+		<TEXT pos='26.00000,126.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<LABEL pos='118.00000,134.00000' direction='2' font='3' color='208000' style='3'>VIN_5V</LABEL>
+		<LABEL pos='118.00000,142.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
+		<RECTANGLE a='118.00000,130.00000' b='134.00000,152.00000' style='3' fill='0'/>
+		<TEXT pos='118.00000,126.00000' direction='3' font='3' color='000000'>JST GH 4-pin flying</TEXT>
+		<TEXT pos='68.00000,134.00000' direction='3' font='3' color='000000'>RED 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,142.00000' direction='3' font='3' color='000000'>WHT 28AWG 80cm</TEXT>
+		<LABEL pos='42.00000,142.00000' direction='3' font='3' color='208000' style='2'>CAN_H</LABEL>
+		<LABEL pos='42.00000,146.00000' direction='3' font='3' color='208000' style='2'>CAN_L</LABEL>
+		<LABEL pos='118.00000,146.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='118.00000,138.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<TEXT pos='68.00000,146.00000' direction='3' font='3' color='000000'>YEL 28AWG 80cm</TEXT>
+		<TEXT pos='68.00000,138.00000' direction='3' font='3' color='000000'>BLK 28AWG 80cm</TEXT>
+		<WIRE a='42.00000,134.00000' b='58.00000,134.00000'/>
+		<WIRE a='58.00000,134.00000' b='62.00000,138.00000'/>
+		<WIRE a='62.00000,138.00000' b='96.00000,138.00000'/>
+		<WIRE a='96.00000,138.00000' b='100.00000,134.00000'/>
+		<WIRE a='100.00000,134.00000' b='118.00000,134.00000'/>
+		<WIRE a='118.00000,138.00000' b='100.00000,138.00000'/>
+		<WIRE a='100.00000,138.00000' b='96.00000,134.00000'/>
+		<WIRE a='42.00000,138.00000' b='58.00000,138.00000'/>
+		<WIRE a='58.00000,138.00000' b='62.00000,134.00000'/>
+		<WIRE a='96.00000,134.00000' b='62.00000,134.00000'/>
+		<WIRE a='42.00000,142.00000' b='58.00000,142.00000'/>
+		<WIRE a='58.00000,142.00000' b='62.00000,146.00000'/>
+		<WIRE a='62.00000,146.00000' b='96.00000,146.00000'/>
+		<WIRE a='42.00000,146.00000' b='58.00000,146.00000'/>
+		<WIRE a='58.00000,146.00000' b='62.00000,142.00000'/>
+		<WIRE a='96.00000,142.00000' b='62.00000,142.00000'/>
+		<WIRE a='96.00000,146.00000' b='100.00000,142.00000'/>
+		<WIRE a='100.00000,146.00000' b='96.00000,142.00000'/>
+		<WIRE a='100.00000,142.00000' b='118.00000,142.00000'/>
+		<WIRE a='100.00000,146.00000' b='118.00000,146.00000'/>
+		<TEXT pos='44.00000,134.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='44.00000,142.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='44.00000,146.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='44.00000,138.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='116.00000,134.00000' direction='3' font='0' color='000000'>1</TEXT>
+		<TEXT pos='116.00000,142.00000' direction='3' font='0' color='000000'>2</TEXT>
+		<TEXT pos='116.00000,146.00000' direction='3' font='0' color='000000'>3</TEXT>
+		<TEXT pos='116.00000,138.00000' direction='3' font='0' color='000000'>4</TEXT>
+		<TEXT pos='26.00000,130.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='118.00000,130.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<JUNCTION pos='52.00000,134.00000'/>
+		<JUNCTION pos='52.00000,138.00000'/>
+		<JUNCTION pos='52.00000,142.00000'/>
+		<JUNCTION pos='52.00000,146.00000'/>
+		<JUNCTION pos='108.00000,134.00000'/>
+		<JUNCTION pos='108.00000,138.00000'/>
+		<JUNCTION pos='108.00000,142.00000'/>
+		<JUNCTION pos='108.00000,146.00000'/>
+	</TinyCAD>
+</TinyCADSheets>
