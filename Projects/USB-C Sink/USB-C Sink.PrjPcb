@@ -1,0 +1,2747 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=1
+AutoCrossReferences=1
+NewIndexingOfSheetSymbols=1
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+ConstraintManagerFlow=0
+IsVirtualBomDocumentRemoved=0
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=3632AC73-B56E-4D37-AF3C-AC41E42112CC
+VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599
+ReleaseVaultName=WARG
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=20V, 3A to 5A
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SZWITSVN
+
+[Document2]
+DocumentPath=PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KALMHYYL
+
+[Document3]
+DocumentPath=USB-C Sink.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=34dd9c14-5cb9-4646-8401-34d0cde598a1
+Description=20V, 3A to 5A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=R4|UniqueId=\SDVBBCTZ|Kind=2|AlternatePart=RC0603FR-07200KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00436-1|AltLibLink_DesignItemID=CMP-00436-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=56425630-d7d3-4d0d-b9e9-9cb0e63f693a|AltLibLink_RevisionGUID=401a2ee1-60dd-4ad4-99c4-f75bb7f8a9fb|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=RC0603FR-07200KL
+ParamDesignator1=R4
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R4
+ParamVariation3=ParameterName=Description|VariantValue=RES 200K OHM 1% 1/10W 0603
+ParamDesignator3=R4
+ParamVariation4=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator4=R4
+ParamVariation5=ParameterName=Ibis Model|VariantValue=
+ParamDesignator5=R4
+ParamVariation6=ParameterName=Library Reference|VariantValue=CMP-00436-1
+ParamDesignator6=R4
+ParamVariation7=ParameterName=Package|VariantValue=0603
+ParamDesignator7=R4
+ParamVariation8=ParameterName=PCB3D|VariantValue=
+ParamDesignator8=R4
+ParamVariation9=ParameterName=Pin Info|VariantValue=
+ParamDesignator9=R4
+ParamVariation10=ParameterName=Power|VariantValue=1/10W
+ParamDesignator10=R4
+ParamVariation11=ParameterName=Resistance|VariantValue=200kΩ
+ParamDesignator11=R4
+ParamVariation12=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator12=R4
+ParamVariation13=ParameterName=Simulation|VariantValue=
+ParamDesignator13=R4
+ParamVariation14=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator14=R4
+Variation2=Designator=R11|UniqueId=\JTKISMUD|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation15=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator15=R11
+ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator16=R11
+ParamVariation17=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator17=R11
+ParamVariation18=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator18=R11
+ParamVariation19=ParameterName=Ibis Model|VariantValue=
+ParamDesignator19=R11
+ParamVariation20=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator20=R11
+ParamVariation21=ParameterName=Package|VariantValue=0603
+ParamDesignator21=R11
+ParamVariation22=ParameterName=PCB3D|VariantValue=
+ParamDesignator22=R11
+ParamVariation23=ParameterName=Pin Info|VariantValue=
+ParamDesignator23=R11
+ParamVariation24=ParameterName=Power|VariantValue=1/10W
+ParamDesignator24=R11
+ParamVariation25=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator25=R11
+ParamVariation26=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator26=R11
+ParamVariation27=ParameterName=Simulation|VariantValue=
+ParamDesignator27=R11
+ParamVariation28=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator28=R11
+Variation3=Designator=R5|UniqueId=\MOFOGUSC|Kind=2|AlternatePart=RC0603FR-0710KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00006-5|AltLibLink_DesignItemID=CMP-009-00006-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=bf80ceed-f087-46b3-b48d-7056f5e1b7d9|AltLibLink_RevisionGUID=4c307d08-5ad4-474f-a0ca-0e8d84de6707|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation29=ParameterName=Comment|VariantValue=RC0603FR-0710KL
+ParamDesignator29=R5
+ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator30=R5
+ParamVariation31=ParameterName=Description|VariantValue=RES 10K OHM 1% 1/10W 0603
+ParamDesignator31=R5
+ParamVariation32=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator32=R5
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=R5
+ParamVariation34=ParameterName=Library Reference|VariantValue=CMP-009-00006-5
+ParamDesignator34=R5
+ParamVariation35=ParameterName=Package|VariantValue=0603
+ParamDesignator35=R5
+ParamVariation36=ParameterName=PCB3D|VariantValue=
+ParamDesignator36=R5
+ParamVariation37=ParameterName=Pin Info|VariantValue=
+ParamDesignator37=R5
+ParamVariation38=ParameterName=Power|VariantValue=1/10W
+ParamDesignator38=R5
+ParamVariation39=ParameterName=Resistance|VariantValue=10k
+ParamDesignator39=R5
+ParamVariation40=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator40=R5
+ParamVariation41=ParameterName=Simulation|VariantValue=
+ParamDesignator41=R5
+ParamVariation42=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator42=R5
+ParamVariation43=ParameterName=Value|VariantValue=10k
+ParamDesignator43=R5
+Variation4=Designator=R12|UniqueId=\RCPHDMAO|Kind=2|AlternatePart=RC0603FR-07200KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00436-1|AltLibLink_DesignItemID=CMP-00436-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=56425630-d7d3-4d0d-b9e9-9cb0e63f693a|AltLibLink_RevisionGUID=401a2ee1-60dd-4ad4-99c4-f75bb7f8a9fb|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation44=ParameterName=Comment|VariantValue=RC0603FR-07200KL
+ParamDesignator44=R12
+ParamVariation45=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator45=R12
+ParamVariation46=ParameterName=Description|VariantValue=RES 200K OHM 1% 1/10W 0603
+ParamDesignator46=R12
+ParamVariation47=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator47=R12
+ParamVariation48=ParameterName=Ibis Model|VariantValue=
+ParamDesignator48=R12
+ParamVariation49=ParameterName=Library Reference|VariantValue=CMP-00436-1
+ParamDesignator49=R12
+ParamVariation50=ParameterName=Package|VariantValue=0603
+ParamDesignator50=R12
+ParamVariation51=ParameterName=PCB3D|VariantValue=
+ParamDesignator51=R12
+ParamVariation52=ParameterName=Pin Info|VariantValue=
+ParamDesignator52=R12
+ParamVariation53=ParameterName=Power|VariantValue=1/10W
+ParamDesignator53=R12
+ParamVariation54=ParameterName=Resistance|VariantValue=200kΩ
+ParamDesignator54=R12
+ParamVariation55=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator55=R12
+ParamVariation56=ParameterName=Simulation|VariantValue=
+ParamDesignator56=R12
+ParamVariation57=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator57=R12
+Variation5=Designator=R13|UniqueId=\PTLXRCKI|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator58=R13
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=R13
+ParamVariation60=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator60=R13
+ParamVariation61=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator61=R13
+ParamVariation62=ParameterName=Ibis Model|VariantValue=
+ParamDesignator62=R13
+ParamVariation63=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator63=R13
+ParamVariation64=ParameterName=Package|VariantValue=0603
+ParamDesignator64=R13
+ParamVariation65=ParameterName=PCB3D|VariantValue=
+ParamDesignator65=R13
+ParamVariation66=ParameterName=Pin Info|VariantValue=
+ParamDesignator66=R13
+ParamVariation67=ParameterName=Power|VariantValue=1/10W
+ParamDesignator67=R13
+ParamVariation68=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator68=R13
+ParamVariation69=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator69=R13
+ParamVariation70=ParameterName=Simulation|VariantValue=
+ParamDesignator70=R13
+ParamVariation71=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator71=R13
+Variation6=Designator=R14|UniqueId=\BSIPRVBG|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation72=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator72=R14
+ParamVariation73=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator73=R14
+ParamVariation74=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator74=R14
+ParamVariation75=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator75=R14
+ParamVariation76=ParameterName=Ibis Model|VariantValue=
+ParamDesignator76=R14
+ParamVariation77=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator77=R14
+ParamVariation78=ParameterName=Package|VariantValue=0603
+ParamDesignator78=R14
+ParamVariation79=ParameterName=PCB3D|VariantValue=
+ParamDesignator79=R14
+ParamVariation80=ParameterName=Pin Info|VariantValue=
+ParamDesignator80=R14
+ParamVariation81=ParameterName=Power|VariantValue=1/10W
+ParamDesignator81=R14
+ParamVariation82=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator82=R14
+ParamVariation83=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator83=R14
+ParamVariation84=ParameterName=Simulation|VariantValue=
+ParamDesignator84=R14
+ParamVariation85=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator85=R14
+Variation7=Designator=R6|UniqueId=\GATUUANZ|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation86=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator86=R6
+ParamVariation87=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator87=R6
+ParamVariation88=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator88=R6
+ParamVariation89=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator89=R6
+ParamVariation90=ParameterName=Ibis Model|VariantValue=
+ParamDesignator90=R6
+ParamVariation91=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator91=R6
+ParamVariation92=ParameterName=Package|VariantValue=0603
+ParamDesignator92=R6
+ParamVariation93=ParameterName=PCB3D|VariantValue=
+ParamDesignator93=R6
+ParamVariation94=ParameterName=Pin Info|VariantValue=
+ParamDesignator94=R6
+ParamVariation95=ParameterName=Power|VariantValue=1/10W
+ParamDesignator95=R6
+ParamVariation96=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator96=R6
+ParamVariation97=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator97=R6
+ParamVariation98=ParameterName=Simulation|VariantValue=
+ParamDesignator98=R6
+ParamVariation99=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator99=R6
+Variation8=Designator=R7|UniqueId=\CEUGDXYB|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation100=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator100=R7
+ParamVariation101=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator101=R7
+ParamVariation102=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator102=R7
+ParamVariation103=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator103=R7
+ParamVariation104=ParameterName=Ibis Model|VariantValue=
+ParamDesignator104=R7
+ParamVariation105=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator105=R7
+ParamVariation106=ParameterName=Package|VariantValue=0603
+ParamDesignator106=R7
+ParamVariation107=ParameterName=PCB3D|VariantValue=
+ParamDesignator107=R7
+ParamVariation108=ParameterName=Pin Info|VariantValue=
+ParamDesignator108=R7
+ParamVariation109=ParameterName=Power|VariantValue=1/10W
+ParamDesignator109=R7
+ParamVariation110=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator110=R7
+ParamVariation111=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator111=R7
+ParamVariation112=ParameterName=Simulation|VariantValue=
+ParamDesignator112=R7
+ParamVariation113=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator113=R7
+Variation9=Designator=U2|UniqueId=\RVZRSSGV|Kind=2|AlternatePart=TVS2200DRVR|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=TVSxxxx-DRV0006A|AltLibLink_DesignItemID=CMP-00416-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=b3578fea-2d21-4ec0-b7df-25a19a9d870c|AltLibLink_RevisionGUID=e3d4439d-1927-46ef-826d-7627b270678a|AltLibLink_Footprint=TVSxxxx-DRV0006A|AltLibLink_IsSameFootprint=True
+ParamVariation114=ParameterName=Comment|VariantValue=TVS2200DRVR
+ParamDesignator114=U2
+ParamVariation115=ParameterName=Breakdown Voltage (Typical)|VariantValue=25.9V
+ParamDesignator115=U2
+ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator116=U2
+ParamVariation117=ParameterName=Description|VariantValue=UNIDIR PRECISION SURGE DIODE
+ParamDesignator117=U2
+ParamVariation118=ParameterName=Footprint|VariantValue=TVSxxxx-DRV0006A
+ParamDesignator118=U2
+ParamVariation119=ParameterName=Ibis Model|VariantValue=
+ParamDesignator119=U2
+ParamVariation120=ParameterName=Junction Capacitance @1MHz|VariantValue=105pF
+ParamDesignator120=U2
+ParamVariation121=ParameterName=Library Reference|VariantValue=CMP-00416-4
+ParamDesignator121=U2
+ParamVariation122=ParameterName=PCB3D|VariantValue=
+ParamDesignator122=U2
+ParamVariation123=ParameterName=Pin Info|VariantValue=
+ParamDesignator123=U2
+ParamVariation124=ParameterName=Reverse Standoff Voltage|VariantValue=22V
+ParamDesignator124=U2
+ParamVariation125=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator125=U2
+ParamVariation126=ParameterName=Simulation|VariantValue=
+ParamDesignator126=U2
+ParamVariationCount=126
+
+[ProjectVariant2]
+UniqueId=e548581e-6b61-4212-b320-aecce3d61d39
+Description=15V, 3A to 5A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=R6|UniqueId=\GATUUANZ|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator1=R6
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R6
+ParamVariation3=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator3=R6
+ParamVariation4=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator4=R6
+ParamVariation5=ParameterName=Ibis Model|VariantValue=
+ParamDesignator5=R6
+ParamVariation6=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator6=R6
+ParamVariation7=ParameterName=Package|VariantValue=0603
+ParamDesignator7=R6
+ParamVariation8=ParameterName=PCB3D|VariantValue=
+ParamDesignator8=R6
+ParamVariation9=ParameterName=Pin Info|VariantValue=
+ParamDesignator9=R6
+ParamVariation10=ParameterName=Power|VariantValue=1/10W
+ParamDesignator10=R6
+ParamVariation11=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator11=R6
+ParamVariation12=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator12=R6
+ParamVariation13=ParameterName=Simulation|VariantValue=
+ParamDesignator13=R6
+ParamVariation14=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator14=R6
+Variation2=Designator=R7|UniqueId=\CEUGDXYB|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation15=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator15=R7
+ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator16=R7
+ParamVariation17=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator17=R7
+ParamVariation18=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator18=R7
+ParamVariation19=ParameterName=Ibis Model|VariantValue=
+ParamDesignator19=R7
+ParamVariation20=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator20=R7
+ParamVariation21=ParameterName=Package|VariantValue=0603
+ParamDesignator21=R7
+ParamVariation22=ParameterName=PCB3D|VariantValue=
+ParamDesignator22=R7
+ParamVariation23=ParameterName=Pin Info|VariantValue=
+ParamDesignator23=R7
+ParamVariation24=ParameterName=Power|VariantValue=1/10W
+ParamDesignator24=R7
+ParamVariation25=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator25=R7
+ParamVariation26=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator26=R7
+ParamVariation27=ParameterName=Simulation|VariantValue=
+ParamDesignator27=R7
+ParamVariation28=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator28=R7
+Variation3=Designator=R4|UniqueId=\SDVBBCTZ|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation29=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator29=R4
+ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator30=R4
+ParamVariation31=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator31=R4
+ParamVariation32=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator32=R4
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=R4
+ParamVariation34=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator34=R4
+ParamVariation35=ParameterName=Package|VariantValue=0603
+ParamDesignator35=R4
+ParamVariation36=ParameterName=PCB3D|VariantValue=
+ParamDesignator36=R4
+ParamVariation37=ParameterName=Pin Info|VariantValue=
+ParamDesignator37=R4
+ParamVariation38=ParameterName=Power|VariantValue=1/10W
+ParamDesignator38=R4
+ParamVariation39=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator39=R4
+ParamVariation40=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator40=R4
+ParamVariation41=ParameterName=Simulation|VariantValue=
+ParamDesignator41=R4
+ParamVariation42=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator42=R4
+Variation4=Designator=R13|UniqueId=\PTLXRCKI|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation43=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator43=R13
+ParamVariation44=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator44=R13
+ParamVariation45=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator45=R13
+ParamVariation46=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator46=R13
+ParamVariation47=ParameterName=Ibis Model|VariantValue=
+ParamDesignator47=R13
+ParamVariation48=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator48=R13
+ParamVariation49=ParameterName=Package|VariantValue=0603
+ParamDesignator49=R13
+ParamVariation50=ParameterName=PCB3D|VariantValue=
+ParamDesignator50=R13
+ParamVariation51=ParameterName=Pin Info|VariantValue=
+ParamDesignator51=R13
+ParamVariation52=ParameterName=Power|VariantValue=1/10W
+ParamDesignator52=R13
+ParamVariation53=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator53=R13
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator54=R13
+ParamVariation55=ParameterName=Simulation|VariantValue=
+ParamDesignator55=R13
+ParamVariation56=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator56=R13
+Variation5=Designator=R14|UniqueId=\BSIPRVBG|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation57=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator57=R14
+ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator58=R14
+ParamVariation59=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator59=R14
+ParamVariation60=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator60=R14
+ParamVariation61=ParameterName=Ibis Model|VariantValue=
+ParamDesignator61=R14
+ParamVariation62=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator62=R14
+ParamVariation63=ParameterName=Package|VariantValue=0603
+ParamDesignator63=R14
+ParamVariation64=ParameterName=PCB3D|VariantValue=
+ParamDesignator64=R14
+ParamVariation65=ParameterName=Pin Info|VariantValue=
+ParamDesignator65=R14
+ParamVariation66=ParameterName=Power|VariantValue=1/10W
+ParamDesignator66=R14
+ParamVariation67=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator67=R14
+ParamVariation68=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator68=R14
+ParamVariation69=ParameterName=Simulation|VariantValue=
+ParamDesignator69=R14
+ParamVariation70=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator70=R14
+Variation6=Designator=R11|UniqueId=\JTKISMUD|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation71=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator71=R11
+ParamVariation72=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator72=R11
+ParamVariation73=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator73=R11
+ParamVariation74=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator74=R11
+ParamVariation75=ParameterName=Ibis Model|VariantValue=
+ParamDesignator75=R11
+ParamVariation76=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator76=R11
+ParamVariation77=ParameterName=Package|VariantValue=0603
+ParamDesignator77=R11
+ParamVariation78=ParameterName=PCB3D|VariantValue=
+ParamDesignator78=R11
+ParamVariation79=ParameterName=Pin Info|VariantValue=
+ParamDesignator79=R11
+ParamVariation80=ParameterName=Power|VariantValue=1/10W
+ParamDesignator80=R11
+ParamVariation81=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator81=R11
+ParamVariation82=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator82=R11
+ParamVariation83=ParameterName=Simulation|VariantValue=
+ParamDesignator83=R11
+ParamVariation84=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator84=R11
+Variation7=Designator=R5|UniqueId=\MOFOGUSC|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation85=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator85=R5
+ParamVariation86=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator86=R5
+ParamVariation87=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator87=R5
+ParamVariation88=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator88=R5
+ParamVariation89=ParameterName=Ibis Model|VariantValue=
+ParamDesignator89=R5
+ParamVariation90=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator90=R5
+ParamVariation91=ParameterName=Package|VariantValue=0603
+ParamDesignator91=R5
+ParamVariation92=ParameterName=PCB3D|VariantValue=
+ParamDesignator92=R5
+ParamVariation93=ParameterName=Pin Info|VariantValue=
+ParamDesignator93=R5
+ParamVariation94=ParameterName=Power|VariantValue=1/10W
+ParamDesignator94=R5
+ParamVariation95=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator95=R5
+ParamVariation96=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator96=R5
+ParamVariation97=ParameterName=Simulation|VariantValue=
+ParamDesignator97=R5
+ParamVariation98=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator98=R5
+Variation8=Designator=R12|UniqueId=\RCPHDMAO|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation99=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator99=R12
+ParamVariation100=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator100=R12
+ParamVariation101=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator101=R12
+ParamVariation102=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator102=R12
+ParamVariation103=ParameterName=Ibis Model|VariantValue=
+ParamDesignator103=R12
+ParamVariation104=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator104=R12
+ParamVariation105=ParameterName=Package|VariantValue=0603
+ParamDesignator105=R12
+ParamVariation106=ParameterName=PCB3D|VariantValue=
+ParamDesignator106=R12
+ParamVariation107=ParameterName=Pin Info|VariantValue=
+ParamDesignator107=R12
+ParamVariation108=ParameterName=Power|VariantValue=1/10W
+ParamDesignator108=R12
+ParamVariation109=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator109=R12
+ParamVariation110=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator110=R12
+ParamVariation111=ParameterName=Simulation|VariantValue=
+ParamDesignator111=R12
+ParamVariation112=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator112=R12
+Variation9=Designator=U2|UniqueId=\RVZRSSGV|Kind=2|AlternatePart=TVS1800DRVR|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00442-2|AltLibLink_DesignItemID=CMP-00442-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f75a601d-2ec8-41ca-b515-029881053d78|AltLibLink_RevisionGUID=5E2596C4-EE16-406E-BD09-1A796678A604|AltLibLink_Footprint=TVSxxxx-DRV0006A|AltLibLink_IsSameFootprint=True
+ParamVariation113=ParameterName=Comment|VariantValue=TVS1800DRVR
+ParamDesignator113=U2
+ParamVariation114=ParameterName=Breakdown Voltage|VariantValue=21.3
+ParamDesignator114=U2
+ParamVariation115=ParameterName=Capacitance @ 1MHz|VariantValue=116pF
+ParamDesignator115=U2
+ParamVariation116=ParameterName=Clamping Voltage|VariantValue=18V
+ParamDesignator116=U2
+ParamVariation117=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator117=U2
+ParamVariation118=ParameterName=Description|VariantValue=UNIDIR PRECISION SURGE DIODE
+ParamDesignator118=U2
+ParamVariation119=ParameterName=Footprint|VariantValue=TVSxxxx-DRV0006A
+ParamDesignator119=U2
+ParamVariation120=ParameterName=Ibis Model|VariantValue=
+ParamDesignator120=U2
+ParamVariation121=ParameterName=Library Reference|VariantValue=CMP-00442-2
+ParamDesignator121=U2
+ParamVariation122=ParameterName=PCB3D|VariantValue=
+ParamDesignator122=U2
+ParamVariation123=ParameterName=Pin Info|VariantValue=
+ParamDesignator123=U2
+ParamVariation124=ParameterName=Reverse Standoff Voltage|VariantValue=18V
+ParamDesignator124=U2
+ParamVariation125=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator125=U2
+ParamVariation126=ParameterName=Simulation|VariantValue=
+ParamDesignator126=U2
+ParamVariationCount=126
+
+[ProjectVariant3]
+UniqueId=f70c76d5-3785-447c-ae43-09f8a89ec530
+Description=12V, 3A to 5A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=R14|UniqueId=\BSIPRVBG|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator1=R14
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R14
+ParamVariation3=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator3=R14
+ParamVariation4=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator4=R14
+ParamVariation5=ParameterName=Ibis Model|VariantValue=
+ParamDesignator5=R14
+ParamVariation6=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator6=R14
+ParamVariation7=ParameterName=Package|VariantValue=0603
+ParamDesignator7=R14
+ParamVariation8=ParameterName=PCB3D|VariantValue=
+ParamDesignator8=R14
+ParamVariation9=ParameterName=Pin Info|VariantValue=
+ParamDesignator9=R14
+ParamVariation10=ParameterName=Power|VariantValue=1/10W
+ParamDesignator10=R14
+ParamVariation11=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator11=R14
+ParamVariation12=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator12=R14
+ParamVariation13=ParameterName=Simulation|VariantValue=
+ParamDesignator13=R14
+ParamVariation14=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator14=R14
+Variation2=Designator=R13|UniqueId=\PTLXRCKI|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation15=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator15=R13
+ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator16=R13
+ParamVariation17=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator17=R13
+ParamVariation18=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator18=R13
+ParamVariation19=ParameterName=Ibis Model|VariantValue=
+ParamDesignator19=R13
+ParamVariation20=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator20=R13
+ParamVariation21=ParameterName=Package|VariantValue=0603
+ParamDesignator21=R13
+ParamVariation22=ParameterName=PCB3D|VariantValue=
+ParamDesignator22=R13
+ParamVariation23=ParameterName=Pin Info|VariantValue=
+ParamDesignator23=R13
+ParamVariation24=ParameterName=Power|VariantValue=1/10W
+ParamDesignator24=R13
+ParamVariation25=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator25=R13
+ParamVariation26=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator26=R13
+ParamVariation27=ParameterName=Simulation|VariantValue=
+ParamDesignator27=R13
+ParamVariation28=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator28=R13
+Variation3=Designator=R6|UniqueId=\GATUUANZ|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation29=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator29=R6
+ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator30=R6
+ParamVariation31=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator31=R6
+ParamVariation32=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator32=R6
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=R6
+ParamVariation34=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator34=R6
+ParamVariation35=ParameterName=Package|VariantValue=0603
+ParamDesignator35=R6
+ParamVariation36=ParameterName=PCB3D|VariantValue=
+ParamDesignator36=R6
+ParamVariation37=ParameterName=Pin Info|VariantValue=
+ParamDesignator37=R6
+ParamVariation38=ParameterName=Power|VariantValue=1/10W
+ParamDesignator38=R6
+ParamVariation39=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator39=R6
+ParamVariation40=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator40=R6
+ParamVariation41=ParameterName=Simulation|VariantValue=
+ParamDesignator41=R6
+ParamVariation42=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator42=R6
+Variation4=Designator=R7|UniqueId=\CEUGDXYB|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation43=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator43=R7
+ParamVariation44=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator44=R7
+ParamVariation45=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator45=R7
+ParamVariation46=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator46=R7
+ParamVariation47=ParameterName=Ibis Model|VariantValue=
+ParamDesignator47=R7
+ParamVariation48=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator48=R7
+ParamVariation49=ParameterName=Package|VariantValue=0603
+ParamDesignator49=R7
+ParamVariation50=ParameterName=PCB3D|VariantValue=
+ParamDesignator50=R7
+ParamVariation51=ParameterName=Pin Info|VariantValue=
+ParamDesignator51=R7
+ParamVariation52=ParameterName=Power|VariantValue=1/10W
+ParamDesignator52=R7
+ParamVariation53=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator53=R7
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator54=R7
+ParamVariation55=ParameterName=Simulation|VariantValue=
+ParamDesignator55=R7
+ParamVariation56=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator56=R7
+Variation5=Designator=R5|UniqueId=\MOFOGUSC|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation57=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator57=R5
+ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator58=R5
+ParamVariation59=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator59=R5
+ParamVariation60=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator60=R5
+ParamVariation61=ParameterName=Ibis Model|VariantValue=
+ParamDesignator61=R5
+ParamVariation62=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator62=R5
+ParamVariation63=ParameterName=Package|VariantValue=0603
+ParamDesignator63=R5
+ParamVariation64=ParameterName=PCB3D|VariantValue=
+ParamDesignator64=R5
+ParamVariation65=ParameterName=Pin Info|VariantValue=
+ParamDesignator65=R5
+ParamVariation66=ParameterName=Power|VariantValue=1/10W
+ParamDesignator66=R5
+ParamVariation67=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator67=R5
+ParamVariation68=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator68=R5
+ParamVariation69=ParameterName=Simulation|VariantValue=
+ParamDesignator69=R5
+ParamVariation70=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator70=R5
+Variation6=Designator=R12|UniqueId=\RCPHDMAO|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation71=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator71=R12
+ParamVariation72=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator72=R12
+ParamVariation73=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator73=R12
+ParamVariation74=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator74=R12
+ParamVariation75=ParameterName=Ibis Model|VariantValue=
+ParamDesignator75=R12
+ParamVariation76=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator76=R12
+ParamVariation77=ParameterName=Package|VariantValue=0603
+ParamDesignator77=R12
+ParamVariation78=ParameterName=PCB3D|VariantValue=
+ParamDesignator78=R12
+ParamVariation79=ParameterName=Pin Info|VariantValue=
+ParamDesignator79=R12
+ParamVariation80=ParameterName=Power|VariantValue=1/10W
+ParamDesignator80=R12
+ParamVariation81=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator81=R12
+ParamVariation82=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator82=R12
+ParamVariation83=ParameterName=Simulation|VariantValue=
+ParamDesignator83=R12
+ParamVariation84=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator84=R12
+Variation7=Designator=R4|UniqueId=\SDVBBCTZ|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation85=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator85=R4
+ParamVariation86=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator86=R4
+ParamVariation87=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator87=R4
+ParamVariation88=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator88=R4
+ParamVariation89=ParameterName=Ibis Model|VariantValue=
+ParamDesignator89=R4
+ParamVariation90=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator90=R4
+ParamVariation91=ParameterName=Package|VariantValue=0603
+ParamDesignator91=R4
+ParamVariation92=ParameterName=PCB3D|VariantValue=
+ParamDesignator92=R4
+ParamVariation93=ParameterName=Pin Info|VariantValue=
+ParamDesignator93=R4
+ParamVariation94=ParameterName=Power|VariantValue=1/10W
+ParamDesignator94=R4
+ParamVariation95=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator95=R4
+ParamVariation96=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator96=R4
+ParamVariation97=ParameterName=Simulation|VariantValue=
+ParamDesignator97=R4
+ParamVariation98=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator98=R4
+Variation8=Designator=R11|UniqueId=\JTKISMUD|Kind=2|AlternatePart=RC0603FR-0710KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00006-5|AltLibLink_DesignItemID=CMP-009-00006-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=bf80ceed-f087-46b3-b48d-7056f5e1b7d9|AltLibLink_RevisionGUID=4c307d08-5ad4-474f-a0ca-0e8d84de6707|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation99=ParameterName=Comment|VariantValue=RC0603FR-0710KL
+ParamDesignator99=R11
+ParamVariation100=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator100=R11
+ParamVariation101=ParameterName=Description|VariantValue=RES 10K OHM 1% 1/10W 0603
+ParamDesignator101=R11
+ParamVariation102=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator102=R11
+ParamVariation103=ParameterName=Ibis Model|VariantValue=
+ParamDesignator103=R11
+ParamVariation104=ParameterName=Library Reference|VariantValue=CMP-009-00006-5
+ParamDesignator104=R11
+ParamVariation105=ParameterName=Package|VariantValue=0603
+ParamDesignator105=R11
+ParamVariation106=ParameterName=PCB3D|VariantValue=
+ParamDesignator106=R11
+ParamVariation107=ParameterName=Pin Info|VariantValue=
+ParamDesignator107=R11
+ParamVariation108=ParameterName=Power|VariantValue=1/10W
+ParamDesignator108=R11
+ParamVariation109=ParameterName=Resistance|VariantValue=10k
+ParamDesignator109=R11
+ParamVariation110=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator110=R11
+ParamVariation111=ParameterName=Simulation|VariantValue=
+ParamDesignator111=R11
+ParamVariation112=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator112=R11
+ParamVariation113=ParameterName=Value|VariantValue=10k
+ParamDesignator113=R11
+Variation9=Designator=U2|UniqueId=\RVZRSSGV|Kind=2|AlternatePart=TVS1400DRVR|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=TVSxxxx-DRV0006A|AltLibLink_DesignItemID=CMP-00430-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=c4704bbe-d057-4cb4-a5ad-e3d1d66d9676|AltLibLink_RevisionGUID=d4de21f6-83c4-41ee-9a00-04e8706afc49|AltLibLink_Footprint=TVSxxxx-DRV0006A|AltLibLink_IsSameFootprint=True
+ParamVariation114=ParameterName=Comment|VariantValue=TVS1400DRVR
+ParamDesignator114=U2
+ParamVariation115=ParameterName=Breakdown Voltage|VariantValue=16.9V
+ParamDesignator115=U2
+ParamVariation116=ParameterName=Capacitance @ 1MHz|VariantValue=120pF
+ParamDesignator116=U2
+ParamVariation117=ParameterName=Clamping Voltage|VariantValue=14V
+ParamDesignator117=U2
+ParamVariation118=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator118=U2
+ParamVariation119=ParameterName=Description|VariantValue=UNIDIR PRECISION SURGE DIODE
+ParamDesignator119=U2
+ParamVariation120=ParameterName=Footprint|VariantValue=TVSxxxx-DRV0006A
+ParamDesignator120=U2
+ParamVariation121=ParameterName=Ibis Model|VariantValue=
+ParamDesignator121=U2
+ParamVariation122=ParameterName=Library Reference|VariantValue=CMP-00430-2
+ParamDesignator122=U2
+ParamVariation123=ParameterName=PCB3D|VariantValue=
+ParamDesignator123=U2
+ParamVariation124=ParameterName=Pin Info|VariantValue=
+ParamDesignator124=U2
+ParamVariation125=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator125=U2
+ParamVariation126=ParameterName=Simulation|VariantValue=
+ParamDesignator126=U2
+ParamVariation127=ParameterName=Reverse Standoff Voltage|VariantValue=14V
+ParamDesignator127=U2
+ParamVariationCount=127
+
+[ProjectVariant4]
+UniqueId=22ecc76e-40ba-43f9-a51f-ccd030586a8c
+Description=9V, 2A to 5A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=U2|UniqueId=\RVZRSSGV|Kind=2|AlternatePart=TVS1400DRVR|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00430-3|AltLibLink_DesignItemID=CMP-00430-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=c4704bbe-d057-4cb4-a5ad-e3d1d66d9676|AltLibLink_RevisionGUID=17BFC318-72D1-408B-A72F-1CA09D95D70A|AltLibLink_Footprint=TVSxxxx-DRV0006A|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=TVS1400DRVR
+ParamDesignator1=U2
+ParamVariation2=ParameterName=Breakdown Voltage|VariantValue=16.9V
+ParamDesignator2=U2
+ParamVariation3=ParameterName=Capacitance @ 1MHz|VariantValue=120pF
+ParamDesignator3=U2
+ParamVariation4=ParameterName=Clamping Voltage|VariantValue=14V
+ParamDesignator4=U2
+ParamVariation5=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator5=U2
+ParamVariation6=ParameterName=Description|VariantValue=UNIDIR PRECISION SURGE DIODE
+ParamDesignator6=U2
+ParamVariation7=ParameterName=Footprint|VariantValue=TVSxxxx-DRV0006A
+ParamDesignator7=U2
+ParamVariation8=ParameterName=Ibis Model|VariantValue=
+ParamDesignator8=U2
+ParamVariation9=ParameterName=Library Reference|VariantValue=CMP-00430-3
+ParamDesignator9=U2
+ParamVariation10=ParameterName=PCB3D|VariantValue=
+ParamDesignator10=U2
+ParamVariation11=ParameterName=Pin Info|VariantValue=
+ParamDesignator11=U2
+ParamVariation12=ParameterName=Reverse Standoff Voltage|VariantValue=14V
+ParamDesignator12=U2
+ParamVariation13=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator13=U2
+ParamVariation14=ParameterName=Simulation|VariantValue=
+ParamDesignator14=U2
+Variation2=Designator=R6|UniqueId=\GATUUANZ|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation15=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator15=R6
+ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator16=R6
+ParamVariation17=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator17=R6
+ParamVariation18=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator18=R6
+ParamVariation19=ParameterName=Ibis Model|VariantValue=
+ParamDesignator19=R6
+ParamVariation20=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator20=R6
+ParamVariation21=ParameterName=Package|VariantValue=0603
+ParamDesignator21=R6
+ParamVariation22=ParameterName=PCB3D|VariantValue=
+ParamDesignator22=R6
+ParamVariation23=ParameterName=Pin Info|VariantValue=
+ParamDesignator23=R6
+ParamVariation24=ParameterName=Power|VariantValue=1/10W
+ParamDesignator24=R6
+ParamVariation25=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator25=R6
+ParamVariation26=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator26=R6
+ParamVariation27=ParameterName=Simulation|VariantValue=
+ParamDesignator27=R6
+ParamVariation28=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator28=R6
+Variation3=Designator=R13|UniqueId=\PTLXRCKI|Kind=2|AlternatePart=RC0603FR-0710KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00006-5|AltLibLink_DesignItemID=CMP-009-00006-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=bf80ceed-f087-46b3-b48d-7056f5e1b7d9|AltLibLink_RevisionGUID=4c307d08-5ad4-474f-a0ca-0e8d84de6707|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation29=ParameterName=Comment|VariantValue=RC0603FR-0710KL
+ParamDesignator29=R13
+ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator30=R13
+ParamVariation31=ParameterName=Description|VariantValue=RES 10K OHM 1% 1/10W 0603
+ParamDesignator31=R13
+ParamVariation32=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator32=R13
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=R13
+ParamVariation34=ParameterName=Library Reference|VariantValue=CMP-009-00006-5
+ParamDesignator34=R13
+ParamVariation35=ParameterName=Package|VariantValue=0603
+ParamDesignator35=R13
+ParamVariation36=ParameterName=PCB3D|VariantValue=
+ParamDesignator36=R13
+ParamVariation37=ParameterName=Pin Info|VariantValue=
+ParamDesignator37=R13
+ParamVariation38=ParameterName=Power|VariantValue=1/10W
+ParamDesignator38=R13
+ParamVariation39=ParameterName=Resistance|VariantValue=10k
+ParamDesignator39=R13
+ParamVariation40=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator40=R13
+ParamVariation41=ParameterName=Simulation|VariantValue=
+ParamDesignator41=R13
+ParamVariation42=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator42=R13
+ParamVariation43=ParameterName=Value|VariantValue=10k
+ParamDesignator43=R13
+Variation4=Designator=R7|UniqueId=\CEUGDXYB|Kind=2|AlternatePart=RC0603FR-07160KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00439-1|AltLibLink_DesignItemID=CMP-00439-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=77875e6a-b14b-413c-9c5f-c95fb07a6e1d|AltLibLink_RevisionGUID=05b3286d-7824-459c-ae59-42cb94c2e65a|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation44=ParameterName=Comment|VariantValue=RC0603FR-07160KL
+ParamDesignator44=R7
+ParamVariation45=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator45=R7
+ParamVariation46=ParameterName=Description|VariantValue=RES 160K OHM 1% 1/10W 0603
+ParamDesignator46=R7
+ParamVariation47=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator47=R7
+ParamVariation48=ParameterName=Ibis Model|VariantValue=
+ParamDesignator48=R7
+ParamVariation49=ParameterName=Library Reference|VariantValue=CMP-00439-1
+ParamDesignator49=R7
+ParamVariation50=ParameterName=Package|VariantValue=0603
+ParamDesignator50=R7
+ParamVariation51=ParameterName=PCB3D|VariantValue=
+ParamDesignator51=R7
+ParamVariation52=ParameterName=Pin Info|VariantValue=
+ParamDesignator52=R7
+ParamVariation53=ParameterName=Power|VariantValue=1/10W
+ParamDesignator53=R7
+ParamVariation54=ParameterName=Resistance|VariantValue=160kΩ
+ParamDesignator54=R7
+ParamVariation55=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator55=R7
+ParamVariation56=ParameterName=Simulation|VariantValue=
+ParamDesignator56=R7
+ParamVariation57=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator57=R7
+Variation5=Designator=R14|UniqueId=\BSIPRVBG|Kind=2|AlternatePart=RC0603FR-0738K3L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00440-1|AltLibLink_DesignItemID=CMP-00440-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=f1f10185-fcdd-408a-b9ed-43986b5fb3a0|AltLibLink_RevisionGUID=9a3b5386-eefe-4c41-b80d-cb7a3e9ebef0|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=RC0603FR-0738K3L
+ParamDesignator58=R14
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=R14
+ParamVariation60=ParameterName=Description|VariantValue=RES 38.3K OHM 1% 1/10W 0603
+ParamDesignator60=R14
+ParamVariation61=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator61=R14
+ParamVariation62=ParameterName=Ibis Model|VariantValue=
+ParamDesignator62=R14
+ParamVariation63=ParameterName=Library Reference|VariantValue=CMP-00440-1
+ParamDesignator63=R14
+ParamVariation64=ParameterName=Package|VariantValue=0603
+ParamDesignator64=R14
+ParamVariation65=ParameterName=PCB3D|VariantValue=
+ParamDesignator65=R14
+ParamVariation66=ParameterName=Pin Info|VariantValue=
+ParamDesignator66=R14
+ParamVariation67=ParameterName=Power|VariantValue=1/10W
+ParamDesignator67=R14
+ParamVariation68=ParameterName=Resistance|VariantValue=38.3kΩ
+ParamDesignator68=R14
+ParamVariation69=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator69=R14
+ParamVariation70=ParameterName=Simulation|VariantValue=
+ParamDesignator70=R14
+ParamVariation71=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator71=R14
+Variation6=Designator=R11|UniqueId=\JTKISMUD|Kind=2|AlternatePart=RC0603FR-074K7L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00344-1|AltLibLink_DesignItemID=CMP-00344-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=55da1c96-8661-4db2-9623-96011245d7cb|AltLibLink_RevisionGUID=5b64606c-2aa7-4fc9-a434-74538b971db9|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation72=ParameterName=Comment|VariantValue=RC0603FR-074K7L
+ParamDesignator72=R11
+ParamVariation73=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator73=R11
+ParamVariation74=ParameterName=Description|VariantValue=RES 4.7K OHM 1% 1/10W 0603
+ParamDesignator74=R11
+ParamVariation75=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator75=R11
+ParamVariation76=ParameterName=Ibis Model|VariantValue=
+ParamDesignator76=R11
+ParamVariation77=ParameterName=Library Reference|VariantValue=CMP-00344-1
+ParamDesignator77=R11
+ParamVariation78=ParameterName=Package|VariantValue=0603
+ParamDesignator78=R11
+ParamVariation79=ParameterName=PCB3D|VariantValue=
+ParamDesignator79=R11
+ParamVariation80=ParameterName=Pin Info|VariantValue=
+ParamDesignator80=R11
+ParamVariation81=ParameterName=Power|VariantValue=1/10W
+ParamDesignator81=R11
+ParamVariation82=ParameterName=Resistance|VariantValue=4.7k
+ParamDesignator82=R11
+ParamVariation83=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator83=R11
+ParamVariation84=ParameterName=Simulation|VariantValue=
+ParamDesignator84=R11
+ParamVariation85=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator85=R11
+Variation7=Designator=R12|UniqueId=\RCPHDMAO|Kind=2|AlternatePart=RC0603FR-074K7L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00344-1|AltLibLink_DesignItemID=CMP-00344-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=55da1c96-8661-4db2-9623-96011245d7cb|AltLibLink_RevisionGUID=5b64606c-2aa7-4fc9-a434-74538b971db9|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation86=ParameterName=Comment|VariantValue=RC0603FR-074K7L
+ParamDesignator86=R12
+ParamVariation87=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator87=R12
+ParamVariation88=ParameterName=Description|VariantValue=RES 4.7K OHM 1% 1/10W 0603
+ParamDesignator88=R12
+ParamVariation89=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator89=R12
+ParamVariation90=ParameterName=Ibis Model|VariantValue=
+ParamDesignator90=R12
+ParamVariation91=ParameterName=Library Reference|VariantValue=CMP-00344-1
+ParamDesignator91=R12
+ParamVariation92=ParameterName=Package|VariantValue=0603
+ParamDesignator92=R12
+ParamVariation93=ParameterName=PCB3D|VariantValue=
+ParamDesignator93=R12
+ParamVariation94=ParameterName=Pin Info|VariantValue=
+ParamDesignator94=R12
+ParamVariation95=ParameterName=Power|VariantValue=1/10W
+ParamDesignator95=R12
+ParamVariation96=ParameterName=Resistance|VariantValue=4.7k
+ParamDesignator96=R12
+ParamVariation97=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator97=R12
+ParamVariation98=ParameterName=Simulation|VariantValue=
+ParamDesignator98=R12
+ParamVariation99=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator99=R12
+Variation8=Designator=R4|UniqueId=\SDVBBCTZ|Kind=2|AlternatePart=RC0603FR-07100KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00055-3|AltLibLink_DesignItemID=CMP-009-00055-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=2d5da63b-e58f-4b6e-a0cf-9662e090d8b3|AltLibLink_RevisionGUID=0c7b0798-8e40-4dc4-9944-629160f8fbbe|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation100=ParameterName=Comment|VariantValue=RC0603FR-07100KL
+ParamDesignator100=R4
+ParamVariation101=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator101=R4
+ParamVariation102=ParameterName=Description|VariantValue=RES 100K OHM 1% 1/10W 0603
+ParamDesignator102=R4
+ParamVariation103=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator103=R4
+ParamVariation104=ParameterName=Ibis Model|VariantValue=
+ParamDesignator104=R4
+ParamVariation105=ParameterName=Library Reference|VariantValue=CMP-009-00055-3
+ParamDesignator105=R4
+ParamVariation106=ParameterName=PCB3D|VariantValue=
+ParamDesignator106=R4
+ParamVariation107=ParameterName=Pin Info|VariantValue=
+ParamDesignator107=R4
+ParamVariation108=ParameterName=Rated Power Dissipation (P)|VariantValue=1/10W
+ParamDesignator108=R4
+ParamVariation109=ParameterName=Resistance|VariantValue=100k
+ParamDesignator109=R4
+ParamVariation110=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator110=R4
+ParamVariation111=ParameterName=Simulation|VariantValue=
+ParamDesignator111=R4
+ParamVariation112=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator112=R4
+Variation9=Designator=R5|UniqueId=\MOFOGUSC|Kind=2|AlternatePart=RC0603FR-07100KL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00055-3|AltLibLink_DesignItemID=CMP-009-00055-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=2d5da63b-e58f-4b6e-a0cf-9662e090d8b3|AltLibLink_RevisionGUID=0c7b0798-8e40-4dc4-9944-629160f8fbbe|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation113=ParameterName=Comment|VariantValue=RC0603FR-07100KL
+ParamDesignator113=R5
+ParamVariation114=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator114=R5
+ParamVariation115=ParameterName=Description|VariantValue=RES 100K OHM 1% 1/10W 0603
+ParamDesignator115=R5
+ParamVariation116=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator116=R5
+ParamVariation117=ParameterName=Ibis Model|VariantValue=
+ParamDesignator117=R5
+ParamVariation118=ParameterName=Library Reference|VariantValue=CMP-009-00055-3
+ParamDesignator118=R5
+ParamVariation119=ParameterName=PCB3D|VariantValue=
+ParamDesignator119=R5
+ParamVariation120=ParameterName=Pin Info|VariantValue=
+ParamDesignator120=R5
+ParamVariation121=ParameterName=Rated Power Dissipation (P)|VariantValue=1/10W
+ParamDesignator121=R5
+ParamVariation122=ParameterName=Resistance|VariantValue=100k
+ParamDesignator122=R5
+ParamVariation123=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator123=R5
+ParamVariation124=ParameterName=Simulation|VariantValue=
+ParamDesignator124=R5
+ParamVariation125=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator125=R5
+ParamVariationCount=125
+
+[ProjectVariant5]
+UniqueId=0d7a55db-901a-4ed4-9262-76ab69050e9b
+Description=5V, 0A to 1.5A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=R4|UniqueId=\SDVBBCTZ|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator1=R4
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R4
+ParamVariation3=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator3=R4
+ParamVariation4=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator4=R4
+ParamVariation5=ParameterName=Ibis Model|VariantValue=
+ParamDesignator5=R4
+ParamVariation6=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator6=R4
+ParamVariation7=ParameterName=Package|VariantValue=0603
+ParamDesignator7=R4
+ParamVariation8=ParameterName=PCB3D|VariantValue=
+ParamDesignator8=R4
+ParamVariation9=ParameterName=Pin Info|VariantValue=
+ParamDesignator9=R4
+ParamVariation10=ParameterName=Power|VariantValue=1/10W
+ParamDesignator10=R4
+ParamVariation11=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator11=R4
+ParamVariation12=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator12=R4
+ParamVariation13=ParameterName=Simulation|VariantValue=
+ParamDesignator13=R4
+ParamVariation14=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator14=R4
+Variation2=Designator=R5|UniqueId=\MOFOGUSC|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation15=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator15=R5
+ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator16=R5
+ParamVariation17=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator17=R5
+ParamVariation18=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator18=R5
+ParamVariation19=ParameterName=Ibis Model|VariantValue=
+ParamDesignator19=R5
+ParamVariation20=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator20=R5
+ParamVariation21=ParameterName=Package|VariantValue=0603
+ParamDesignator21=R5
+ParamVariation22=ParameterName=PCB3D|VariantValue=
+ParamDesignator22=R5
+ParamVariation23=ParameterName=Pin Info|VariantValue=
+ParamDesignator23=R5
+ParamVariation24=ParameterName=Power|VariantValue=1/10W
+ParamDesignator24=R5
+ParamVariation25=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator25=R5
+ParamVariation26=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator26=R5
+ParamVariation27=ParameterName=Simulation|VariantValue=
+ParamDesignator27=R5
+ParamVariation28=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator28=R5
+Variation3=Designator=R6|UniqueId=\GATUUANZ|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation29=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator29=R6
+ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator30=R6
+ParamVariation31=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator31=R6
+ParamVariation32=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator32=R6
+ParamVariation33=ParameterName=Ibis Model|VariantValue=
+ParamDesignator33=R6
+ParamVariation34=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator34=R6
+ParamVariation35=ParameterName=Package|VariantValue=0603
+ParamDesignator35=R6
+ParamVariation36=ParameterName=PCB3D|VariantValue=
+ParamDesignator36=R6
+ParamVariation37=ParameterName=Pin Info|VariantValue=
+ParamDesignator37=R6
+ParamVariation38=ParameterName=Power|VariantValue=1/10W
+ParamDesignator38=R6
+ParamVariation39=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator39=R6
+ParamVariation40=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator40=R6
+ParamVariation41=ParameterName=Simulation|VariantValue=
+ParamDesignator41=R6
+ParamVariation42=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator42=R6
+Variation4=Designator=R7|UniqueId=\CEUGDXYB|Kind=2|AlternatePart=RC0603FR-0782K5L|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00438-1|AltLibLink_DesignItemID=CMP-00438-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=84c4f0b6-0dca-45c8-8393-f42ecbf44675|AltLibLink_RevisionGUID=22e951d2-acaf-488d-b000-27d43c610cc7|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation43=ParameterName=Comment|VariantValue=RC0603FR-0782K5L
+ParamDesignator43=R7
+ParamVariation44=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator44=R7
+ParamVariation45=ParameterName=Description|VariantValue=RES 82.5K OHM 1% 1/10W 0603
+ParamDesignator45=R7
+ParamVariation46=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator46=R7
+ParamVariation47=ParameterName=Ibis Model|VariantValue=
+ParamDesignator47=R7
+ParamVariation48=ParameterName=Library Reference|VariantValue=CMP-00438-1
+ParamDesignator48=R7
+ParamVariation49=ParameterName=Package|VariantValue=0603
+ParamDesignator49=R7
+ParamVariation50=ParameterName=PCB3D|VariantValue=
+ParamDesignator50=R7
+ParamVariation51=ParameterName=Pin Info|VariantValue=
+ParamDesignator51=R7
+ParamVariation52=ParameterName=Power|VariantValue=1/10W
+ParamDesignator52=R7
+ParamVariation53=ParameterName=Resistance|VariantValue=82.5kΩ
+ParamDesignator53=R7
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator54=R7
+ParamVariation55=ParameterName=Simulation|VariantValue=
+ParamDesignator55=R7
+ParamVariation56=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator56=R7
+Variation5=Designator=R11|UniqueId=\JTKISMUD|Kind=2|AlternatePart=RC0603JR-070RL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00017-4|AltLibLink_DesignItemID=CMP-009-00017-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=130fdaf1-d460-4cd6-a581-39b96cc5da74|AltLibLink_RevisionGUID=4a830393-66ea-49eb-8db5-e9b5d973c5d2|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation57=ParameterName=Comment|VariantValue=RC0603JR-070RL
+ParamDesignator57=R11
+ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator58=R11
+ParamVariation59=ParameterName=Description|VariantValue=RES 0 OHM 1% 1/10W 0603
+ParamDesignator59=R11
+ParamVariation60=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator60=R11
+ParamVariation61=ParameterName=Ibis Model|VariantValue=
+ParamDesignator61=R11
+ParamVariation62=ParameterName=Library Reference|VariantValue=CMP-009-00017-4
+ParamDesignator62=R11
+ParamVariation63=ParameterName=Package|VariantValue=0603
+ParamDesignator63=R11
+ParamVariation64=ParameterName=PCB3D|VariantValue=
+ParamDesignator64=R11
+ParamVariation65=ParameterName=Pin Info|VariantValue=
+ParamDesignator65=R11
+ParamVariation66=ParameterName=Power|VariantValue=1/10W
+ParamDesignator66=R11
+ParamVariation67=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator67=R11
+ParamVariation68=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator68=R11
+ParamVariation69=ParameterName=Simulation|VariantValue=
+ParamDesignator69=R11
+ParamVariation70=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator70=R11
+ParamVariation71=ParameterName=Value|VariantValue=0
+ParamDesignator71=R11
+Variation6=Designator=R12|UniqueId=\RCPHDMAO|Kind=2|AlternatePart=RC0603JR-070RL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00017-4|AltLibLink_DesignItemID=CMP-009-00017-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=130fdaf1-d460-4cd6-a581-39b96cc5da74|AltLibLink_RevisionGUID=4a830393-66ea-49eb-8db5-e9b5d973c5d2|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation72=ParameterName=Comment|VariantValue=RC0603JR-070RL
+ParamDesignator72=R12
+ParamVariation73=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator73=R12
+ParamVariation74=ParameterName=Description|VariantValue=RES 0 OHM 1% 1/10W 0603
+ParamDesignator74=R12
+ParamVariation75=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator75=R12
+ParamVariation76=ParameterName=Ibis Model|VariantValue=
+ParamDesignator76=R12
+ParamVariation77=ParameterName=Library Reference|VariantValue=CMP-009-00017-4
+ParamDesignator77=R12
+ParamVariation78=ParameterName=Package|VariantValue=0603
+ParamDesignator78=R12
+ParamVariation79=ParameterName=PCB3D|VariantValue=
+ParamDesignator79=R12
+ParamVariation80=ParameterName=Pin Info|VariantValue=
+ParamDesignator80=R12
+ParamVariation81=ParameterName=Power|VariantValue=1/10W
+ParamDesignator81=R12
+ParamVariation82=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator82=R12
+ParamVariation83=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator83=R12
+ParamVariation84=ParameterName=Simulation|VariantValue=
+ParamDesignator84=R12
+ParamVariation85=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator85=R12
+ParamVariation86=ParameterName=Value|VariantValue=0
+ParamDesignator86=R12
+Variation7=Designator=R13|UniqueId=\PTLXRCKI|Kind=2|AlternatePart=RC0603JR-070RL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00017-4|AltLibLink_DesignItemID=CMP-009-00017-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=130fdaf1-d460-4cd6-a581-39b96cc5da74|AltLibLink_RevisionGUID=4a830393-66ea-49eb-8db5-e9b5d973c5d2|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation87=ParameterName=Comment|VariantValue=RC0603JR-070RL
+ParamDesignator87=R13
+ParamVariation88=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator88=R13
+ParamVariation89=ParameterName=Description|VariantValue=RES 0 OHM 1% 1/10W 0603
+ParamDesignator89=R13
+ParamVariation90=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator90=R13
+ParamVariation91=ParameterName=Ibis Model|VariantValue=
+ParamDesignator91=R13
+ParamVariation92=ParameterName=Library Reference|VariantValue=CMP-009-00017-4
+ParamDesignator92=R13
+ParamVariation93=ParameterName=Package|VariantValue=0603
+ParamDesignator93=R13
+ParamVariation94=ParameterName=PCB3D|VariantValue=
+ParamDesignator94=R13
+ParamVariation95=ParameterName=Pin Info|VariantValue=
+ParamDesignator95=R13
+ParamVariation96=ParameterName=Power|VariantValue=1/10W
+ParamDesignator96=R13
+ParamVariation97=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator97=R13
+ParamVariation98=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator98=R13
+ParamVariation99=ParameterName=Simulation|VariantValue=
+ParamDesignator99=R13
+ParamVariation100=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator100=R13
+ParamVariation101=ParameterName=Value|VariantValue=0
+ParamDesignator101=R13
+Variation8=Designator=R14|UniqueId=\BSIPRVBG|Kind=2|AlternatePart=RC0603JR-070RL|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-009-00017-4|AltLibLink_DesignItemID=CMP-009-00017-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=130fdaf1-d460-4cd6-a581-39b96cc5da74|AltLibLink_RevisionGUID=4a830393-66ea-49eb-8db5-e9b5d973c5d2|AltLibLink_Footprint=.RES_0603-Footprint-1|AltLibLink_IsSameFootprint=True
+ParamVariation102=ParameterName=Comment|VariantValue=RC0603JR-070RL
+ParamDesignator102=R14
+ParamVariation103=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator103=R14
+ParamVariation104=ParameterName=Description|VariantValue=RES 0 OHM 1% 1/10W 0603
+ParamDesignator104=R14
+ParamVariation105=ParameterName=Footprint|VariantValue=.RES_0603-Footprint-1
+ParamDesignator105=R14
+ParamVariation106=ParameterName=Ibis Model|VariantValue=
+ParamDesignator106=R14
+ParamVariation107=ParameterName=Library Reference|VariantValue=CMP-009-00017-4
+ParamDesignator107=R14
+ParamVariation108=ParameterName=Package|VariantValue=0603
+ParamDesignator108=R14
+ParamVariation109=ParameterName=PCB3D|VariantValue=
+ParamDesignator109=R14
+ParamVariation110=ParameterName=Pin Info|VariantValue=
+ParamDesignator110=R14
+ParamVariation111=ParameterName=Power|VariantValue=1/10W
+ParamDesignator111=R14
+ParamVariation112=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator112=R14
+ParamVariation113=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator113=R14
+ParamVariation114=ParameterName=Simulation|VariantValue=
+ParamDesignator114=R14
+ParamVariation115=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator115=R14
+ParamVariation116=ParameterName=Value|VariantValue=0
+ParamDesignator116=R14
+Variation9=Designator=U2|UniqueId=\RVZRSSGV|Kind=2|AlternatePart=TVS0500DRVR|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=WARG|AltLibLink_SymbolReference=CMP-00454-1|AltLibLink_DesignItemID=CMP-00454-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=WARG|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d979a7f9-ab22-4042-b4e7-548927a84599|AltLibLink_ItemGUID=3f028e46-663f-48c1-8984-51e2a8cfcecf|AltLibLink_RevisionGUID=5299279c-aaca-4b59-90bd-14d31fdbc4f6|AltLibLink_Footprint=TVSxxxx-DRV0006A|AltLibLink_IsSameFootprint=True
+ParamVariation117=ParameterName=Comment|VariantValue=TVS0500DRVR
+ParamDesignator117=U2
+ParamVariation118=ParameterName=Capacitance @1MHz|VariantValue=155pF
+ParamDesignator118=U2
+ParamVariation119=ParameterName=Clamp Voltage|VariantValue=8.6V
+ParamDesignator119=U2
+ParamVariation120=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator120=U2
+ParamVariation121=ParameterName=Description|VariantValue=UNIDIR PRECISION SURGE DIODE
+ParamDesignator121=U2
+ParamVariation122=ParameterName=Footprint|VariantValue=TVSxxxx-DRV0006A
+ParamDesignator122=U2
+ParamVariation123=ParameterName=Ibis Model|VariantValue=
+ParamDesignator123=U2
+ParamVariation124=ParameterName=Library Reference|VariantValue=CMP-00454-1
+ParamDesignator124=U2
+ParamVariation125=ParameterName=PCB3D|VariantValue=
+ParamDesignator125=U2
+ParamVariation126=ParameterName=Pin Info|VariantValue=
+ParamDesignator126=U2
+ParamVariation127=ParameterName=Reverse Standoff Voltage|VariantValue=5V
+ParamDesignator127=U2
+ParamVariation128=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator128=U2
+ParamVariation129=ParameterName=Simulation|VariantValue=
+ParamDesignator129=U2
+ParamVariationCount=129
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USB-C Sink\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for USB-C Sink\PCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for USB-C Sink\PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for USB-C Sink\PCB.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for USB-C Sink\PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for USB-C Sink\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for USB-C Sink\PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for USB-C Sink\PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for USB-C Sink\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for USB-C Sink\PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for USB-C Sink\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for USB-C Sink\PCB_M1_Board_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Top_Component_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for USB-C Sink\PCB_Top_Designator.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(5V, 0A to 1.5A).csv
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(5V, 0A to 1.5A).txt
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(9V, 2A to 5A).csv
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(9V, 2A to 5A).txt
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(12V, 3A to 5A).csv
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(12V, 3A to 5A).txt
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(15V, 3A to 5A).csv
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(15V, 3A to 5A).txt
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(20V, 3A to 5A).csv
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB(20V, 3A to 5A).txt
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for USB-C Sink\Pick Place for PCB.txt
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Engineer
+Value=Kenny Na
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Harness Layout Drawing Print
+OutputName2=Harness Layout Drawing Prints
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Harness Wiring Diagram Print
+OutputName3=Harness Wiring Diagram Prints
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB 3D Print
+OutputName4=PCB 3D Print
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCB 3D Video
+OutputName5=PCB 3D Video
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCB Print
+OutputName6=PCB Prints
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PCBDrawing
+OutputName7=Draftsman
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=PDF3D
+OutputName9=PDF3D
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Report Print
+OutputName10=Report Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Schematic Print
+OutputName11=Schematic Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=SimView Print
+OutputName12=SimView Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=False|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:# of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#18=Name:Specification,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#19=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#20=Name:Mating Cycles,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#21=Name:Forward Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#22=Name:Device Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#23=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#24=Name:Source,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#25=Name:Forward Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#26=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#27=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#28=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#29=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#30=Name:Wavelength,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#31=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#32=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#33=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#34=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#35=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#36=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#37=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#38=Name:Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#39=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#40=Name:Design Item ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#41=Name:Luminous Intensity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#42=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#43=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#44=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#45=Name:Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#46=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#47=Name:Case Code (Imperial),Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#48=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#49=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#50=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#51=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#52=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#53=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#54=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#55=Name:Reverse Standoff Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#56=Name:Breakdown Voltage (Typical),Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#57=Name:Junction Capacitance @1MHz,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|DocumentPath=C:\Users\yul2\Documents\Altium Projects\USB-C Sink\PCB.PcbDoc
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=NC Drill
+OutputName1=NC Drill Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\yul2\Documents\Altium Projects\USB-C Sink\PCB.PcbDoc
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Test Points
+OutputName4=Test Point Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=Plane
+OutputName5=Power-Plane Prints
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Final
+OutputName11=Final Artwork Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Gerber
+OutputName12=Gerber Files
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=KALMHYYL|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908291~1,16908293~1,16908301~1,16908303~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\yul2\Documents\Altium Projects\USB-C Sink\PCB.PcbDoc
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+OutputType2=BOM_ReportCompare
+OutputName2=BOM Compare
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=ComponentCrossReference
+OutputName3=Component Cross Reference Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Export Comments
+OutputName4=Export Comments
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Project History
+OutputName5=Project History
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Script
+OutputName7=Script Output
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=SimpleBOM
+OutputName8=Simple BOM
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+OutputType9=SinglePinNetReporter
+OutputName9=Report Single Pin Nets
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportPARASOLID
+OutputName11=Export PARASOLID
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=MBAExportSTEP
+OutputName12=Export STEP
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=0
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=0
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
+Type154=0
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=1
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Vault Name
+ComponentLibraryIdentifier0=WARG
+ComponentDesignItemID0=CMP-009-00000-5
+ComponentSymbolReference0=.RES_0603-Symbol-1
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=Package
+ParameterUpdate4=1
+ParameterName5=Power
+ParameterUpdate5=1
+ParameterName6=Resistance
+ParameterUpdate6=1
+ParameterName7=Tolerance
+ParameterUpdate7=1
+ParameterName8=Value
+ParameterUpdate8=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=.RES_0603-Footprint-1
+ModelUpdate0=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=$00FF6EFF
+Net2=NetName=CC1|NetColor=$0000BE00
+Net3=NetName=CC2|NetColor=$0000BE00
+Net4=NetName=VIN|NetColor=$006E6EFF
+Net5=NetName=VOUT|NetColor=$006E6EFF
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
