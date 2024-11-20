@@ -29,7 +29,7 @@ download the executable.-->
 			<CHARSET>0</CHARSET>
 			<FACENAME>Arial</FACENAME>
 		</FONT>
-		<FONT id='11'>
+		<FONT id='4'>
 			<HEIGHT>-32</HEIGHT>
 			<WIDTH>15</WIDTH>
 			<WEIGHT>700</WEIGHT>
@@ -39,7 +39,7 @@ download the executable.-->
 			<CHARSET>0</CHARSET>
 			<FACENAME>Arial</FACENAME>
 		</FONT>
-		<FONT id='12'>
+		<FONT id='5'>
 			<HEIGHT>-32</HEIGHT>
 			<WIDTH>15</WIDTH>
 			<WEIGHT>700</WEIGHT>
@@ -49,7 +49,7 @@ download the executable.-->
 			<CHARSET>0</CHARSET>
 			<FACENAME>Arial</FACENAME>
 		</FONT>
-		<FONT id='13'>
+		<FONT id='6'>
 			<HEIGHT>-16</HEIGHT>
 			<WIDTH>7</WIDTH>
 			<WEIGHT>400</WEIGHT>
@@ -710,7 +710,7 @@ M0@@ T!M&quot;&quot; #0&amp;T(( - ;0@@ T!M&quot;&quot; #0&amp;T(( - ;0@@ T!M&quo
 @0@@ T!M&quot;&quot; #0F_\!X&quot;Z1;?!X_?T     245.1*Y&quot;8(( 
 </UUENCODE>
 		</IMAGE>
-		<IMAGE id='7' type='PNG'>
+		<IMAGE id='2' type='PNG'>
 			<UUENCODE size='15076'>
 MB5!.1PT*&amp;@H    -24A$4@  !F    (T&quot; ,    ]&lt;Q:!   # %!,5$4?&#039;Q__
 M___P\/#O[^_@X.#?W]_0T-#/S\_ P,&quot;_O[^PL+&quot;OKZ^@H*&quot;?GY^0D)&quot;/CX^ 
@@ -1066,42 +1066,31 @@ M8   K2!@  &quot;M(&amp;   *T@8   K2!@  &quot;M^ ]M\G91*T&gt;&lt;.@    !)14Y$KD)
 			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
 			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
 		</OPTIONS>
-		<RECTANGLE a='160.00000,34.00000' b='176.00000,48.00000' style='2' fill='0'/>
-		<TEXT pos='160.00000,34.00000' direction='3' font='3' color='000000'>XT30-M</TEXT>
-		<LABEL pos='176.00000,38.00000' direction='3' font='3' color='208000' style='2'>VIN_12V</LABEL>
-		<LABEL pos='176.00000,44.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
-		<WIRE a='176.00000,38.00000' b='194.00000,38.00000'/>
-		<WIRE a='194.00000,38.00000' b='200.00000,44.00000'/>
-		<WIRE a='200.00000,44.00000' b='210.00000,44.00000'/>
-		<WIRE a='210.00000,44.00000' b='216.00000,38.00000'/>
-		<WIRE a='216.00000,38.00000' b='234.00000,38.00000'/>
+		<RECTANGLE a='184.00000,34.00000' b='200.00000,48.00000' style='2' fill='0'/>
+		<TEXT pos='184.00000,34.00000' direction='3' font='3' color='000000'>XT30-M</TEXT>
+		<LABEL pos='200.00000,38.00000' direction='3' font='3' color='208000' style='2'>12V</LABEL>
+		<LABEL pos='200.00000,44.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
 		<RECTANGLE a='234.00000,34.00000' b='250.00000,48.00000' style='2' fill='0'/>
 		<TEXT pos='234.00000,34.00000' direction='3' font='3' color='000000'>XT30-F</TEXT>
 		<LABEL pos='234.00000,38.00000' direction='2' font='3' color='208000' style='1'>VIN_12V</LABEL>
 		<LABEL pos='234.00000,44.00000' direction='2' font='3' color='208000' style='1'>GND</LABEL>
-		<WIRE a='176.00000,44.00000' b='194.00000,44.00000'/>
-		<WIRE a='194.00000,44.00000' b='200.00000,38.00000'/>
-		<WIRE a='200.00000,38.00000' b='210.00000,38.00000'/>
-		<WIRE a='210.00000,38.00000' b='216.00000,44.00000'/>
-		<WIRE a='216.00000,44.00000' b='234.00000,44.00000'/>
 		<RECTANGLE a='62.00000,84.00000' b='78.00000,112.00000' style='2' fill='0'/>
 		<LABEL pos='78.00000,92.00000' direction='3' font='3' color='208000' style='2'>TX</LABEL>
 		<LABEL pos='78.00000,96.00000' direction='3' font='3' color='208000' style='2'>RX</LABEL>
 		<LABEL pos='78.00000,108.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
 		<TEXT pos='62.00000,80.00000' direction='3' font='3' color='000000'>JST GH 6 pin</TEXT>
 		<METAFILE a='174.00000,70.00000' b='268.00000,116.80000' id='1'/>
-		<RECTANGLE a='62.00000,34.00000' b='78.00000,48.00000' style='2' fill='0'/>
-		<TEXT pos='62.00000,34.00000' direction='3' font='3' color='000000'>Solder Pad</TEXT>
-		<LABEL pos='78.00000,38.00000' direction='3' font='3' color='208000' style='2'>VIN_12V</LABEL>
-		<LABEL pos='78.00000,44.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
-		<RECTANGLE a='140.00000,34.00000' b='156.00000,48.00000' style='2' fill='0'/>
-		<TEXT pos='140.00000,34.00000' direction='3' font='3' color='000000'>XT30-F</TEXT>
-		<LABEL pos='140.00000,38.00000' direction='2' font='3' color='208000' style='1'>VIN_12V</LABEL>
-		<LABEL pos='140.00000,44.00000' direction='2' font='3' color='208000' style='1'>GND</LABEL>
-		<TEXT pos='140.00000,30.00000' direction='3' font='11' color='000000'>InterConnect</TEXT>
+		<RECTANGLE a='114.00000,34.00000' b='130.00000,48.00000' style='2' fill='0'/>
+		<TEXT pos='114.00000,34.00000' direction='3' font='3' color='000000'>Solder Pad</TEXT>
+		<LABEL pos='130.00000,38.00000' direction='3' font='3' color='208000' style='2'>12V</LABEL>
+		<LABEL pos='130.00000,44.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='164.00000,34.00000' b='180.00000,48.00000' style='2' fill='0'/>
+		<TEXT pos='164.00000,34.00000' direction='3' font='3' color='000000'>XT30-F</TEXT>
+		<LABEL pos='164.00000,38.00000' direction='2' font='3' color='208000' style='1'>12V</LABEL>
+		<LABEL pos='164.00000,44.00000' direction='2' font='3' color='208000' style='1'>GND</LABEL>
+		<TEXT pos='164.00000,30.00000' direction='3' font='4' color='000000'>InterConnect</TEXT>
 		<TEXT pos='62.00000,84.00000' direction='3' font='3' color='000000'>GHR-06V-S</TEXT>
-		<TEXT pos='62.00000,30.00000' direction='3' font='11' color='000000'>PDB</TEXT>
-		<TEXT pos='234.00000,30.00000' direction='3' font='11' color='000000'>RPI INT</TEXT>
+		<TEXT pos='234.00000,30.00000' direction='3' font='4' color='000000'>RPI INT</TEXT>
 		<LABEL pos='78.00000,100.00000' direction='3' font='3' color='208000' style='2'>CTS</LABEL>
 		<LABEL pos='78.00000,104.00000' direction='3' font='3' color='208000' style='2'>RTS</LABEL>
 		<LABEL pos='78.00000,88.00000' direction='3' font='3' color='208000' style='2'>VCC_5V</LABEL>
@@ -1138,52 +1127,60 @@ M8   K2!@  &quot;M(&amp;   *T@8   K2!@  &quot;M^ ]M\G91*T&gt;&lt;.@    !)14Y$KD)
 		<TEXT pos='118.00000,100.00000' direction='3' font='3' color='000000'>4</TEXT>
 		<TEXT pos='118.00000,104.00000' direction='3' font='3' color='000000'>5</TEXT>
 		<TEXT pos='118.00000,108.00000' direction='3' font='3' color='000000'>6</TEXT>
-		<TEXT pos='62.00000,76.00000' direction='3' font='12' color='000000'>PIXHAWK</TEXT>
-		<TEXT pos='120.00000,76.00000' direction='3' font='12' color='000000'>RPI INT</TEXT>
-		<TEXT pos='126.00000,140.00000' direction='3' font='12' color='000000'>RPI INT</TEXT>
-		<TEXT pos='62.00000,140.00000' direction='3' font='12' color='000000'>PIXHAWK</TEXT>
+		<TEXT pos='62.00000,76.00000' direction='3' font='5' color='000000'>PIXHAWK</TEXT>
+		<TEXT pos='120.00000,76.00000' direction='3' font='5' color='000000'>RPI INT</TEXT>
+		<TEXT pos='126.00000,140.00000' direction='3' font='5' color='000000'>RPI INT</TEXT>
+		<TEXT pos='62.00000,140.00000' direction='3' font='5' color='000000'>PIXHAWK</TEXT>
 		<LABEL pos='76.00000,152.00000' direction='3' font='3' color='208000' style='2'>FC_5V</LABEL>
 		<LABEL pos='76.00000,148.00000' direction='3' font='3' color='208000' style='2'>GPIO</LABEL>
 		<LABEL pos='76.00000,156.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
 		<RECTANGLE a='62.00000,144.00000' b='76.00000,160.00000' style='2' fill='0'/>
-		<TEXT pos='62.00000,144.00000' direction='3' font='13' color='000000'>3-pin Female Header</TEXT>
-		<TEXT pos='126.00000,144.00000' direction='3' font='13' color='000000'>Solder Pad</TEXT>
+		<TEXT pos='62.00000,144.00000' direction='3' font='6' color='000000'>3-pin Female Header</TEXT>
+		<TEXT pos='126.00000,144.00000' direction='3' font='6' color='000000'>Solder Pad</TEXT>
 		<LABEL pos='126.00000,152.00000' direction='2' font='3' color='208000' style='1'>FC_5V</LABEL>
 		<LABEL pos='126.00000,148.00000' direction='2' font='3' color='208000' style='1'>FC_GPIO</LABEL>
 		<LABEL pos='126.00000,156.00000' direction='2' font='3' color='208000' style='1'>GND</LABEL>
 		<RECTANGLE a='126.00000,144.00000' b='146.00000,160.00000' style='2' fill='0'/>
-		<WIRE a='76.00000,148.00000' b='82.00000,148.00000'/>
-		<WIRE a='82.00000,148.00000' b='90.00000,156.00000'/>
-		<WIRE a='90.00000,156.00000' b='114.00000,156.00000'/>
-		<WIRE a='114.00000,156.00000' b='122.00000,148.00000'/>
-		<WIRE a='122.00000,148.00000' b='126.00000,148.00000'/>
-		<WIRE a='76.00000,152.00000' b='82.00000,152.00000'/>
-		<WIRE a='82.00000,152.00000' b='86.00000,148.00000'/>
-		<WIRE a='86.00000,148.00000' b='118.00000,148.00000'/>
-		<WIRE a='118.00000,148.00000' b='122.00000,152.00000'/>
-		<WIRE a='122.00000,152.00000' b='126.00000,152.00000'/>
-		<WIRE a='126.00000,156.00000' b='118.00000,156.00000'/>
-		<WIRE a='118.00000,156.00000' b='114.00000,152.00000'/>
-		<WIRE a='114.00000,152.00000' b='88.00000,152.00000'/>
-		<WIRE a='88.00000,152.00000' b='84.00000,156.00000'/>
-		<WIRE a='84.00000,156.00000' b='76.00000,156.00000'/>
-		<TEXT pos='98.00000,38.00000' direction='3' font='3' color='000000'>RED 28AWG 8cm</TEXT>
-		<WIRE a='140.00000,38.00000' b='78.00000,38.00000'/>
-		<WIRE a='78.00000,44.00000' b='140.00000,44.00000'/>
-		<TEXT pos='98.00000,44.00000' direction='3' font='3' color='000000'>BLK 28AWG 8cm</TEXT>
-		<TEXT pos='200.00000,38.00000' direction='3' font='3' color='000000'>RED 28AWG 30cm</TEXT>
-		<TEXT pos='200.00000,44.00000' direction='3' font='3' color='000000'>BLK 28AWG 30cm</TEXT>
-		<TEXT pos='80.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
-		<TEXT pos='138.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
-		<TEXT pos='178.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
+		<WIRE a='76.00000,148.00000' b='126.00000,148.00000'/>
+		<WIRE a='76.00000,152.00000' b='126.00000,152.00000'/>
+		<WIRE a='126.00000,156.00000' b='76.00000,156.00000'/>
+		<TEXT pos='136.00000,38.00000' direction='3' font='3' color='000000'>RED 22AWG 15cm</TEXT>
+		<WIRE a='164.00000,38.00000' b='130.00000,38.00000'/>
+		<WIRE a='130.00000,44.00000' b='164.00000,44.00000'/>
+		<TEXT pos='136.00000,44.00000' direction='3' font='3' color='000000'>BLK 22AWG 15cm</TEXT>
+		<TEXT pos='206.00000,38.00000' direction='3' font='3' color='000000'>RED 22AWG 15cm</TEXT>
+		<TEXT pos='206.00000,44.00000' direction='3' font='3' color='000000'>BLK 22AWG 15cm</TEXT>
+		<TEXT pos='132.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
+		<TEXT pos='162.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
+		<TEXT pos='202.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
 		<TEXT pos='232.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
-		<TEXT pos='80.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
-		<TEXT pos='138.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
-		<TEXT pos='178.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
+		<TEXT pos='132.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
+		<TEXT pos='162.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
+		<TEXT pos='202.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
 		<TEXT pos='232.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
 		<TEXT pos='90.00000,156.00000' direction='3' font='3' color='000000'>BLK 28AWG 20cm</TEXT>
 		<TEXT pos='90.00000,152.00000' direction='3' font='3' color='000000'>RED 28AWG 20cm</TEXT>
 		<TEXT pos='90.00000,148.00000' direction='3' font='3' color='000000'>WHT 28AWG 20cm</TEXT>
-		<METAFILE a='174.00000,130.00000' b='274.00000,164.40000' id='7'/>
+		<METAFILE a='174.00000,130.00000' b='274.00000,164.40000' id='2'/>
+		<WIRE a='200.00000,38.00000' b='234.00000,38.00000'/>
+		<WIRE a='200.00000,44.00000' b='234.00000,44.00000'/>
+		<RECTANGLE a='42.00000,34.00000' b='62.00000,48.00000' style='2' fill='0'/>
+		<TEXT pos='42.00000,34.00000' direction='3' font='3' color='000000'>Solder Pad</TEXT>
+		<LABEL pos='62.00000,38.00000' direction='3' font='3' color='208000' style='2'>VBAT_48V</LABEL>
+		<LABEL pos='62.00000,44.00000' direction='3' font='3' color='208000' style='2'>GND</LABEL>
+		<RECTANGLE a='96.00000,34.00000' b='112.00000,48.00000' style='2' fill='0'/>
+		<TEXT pos='96.00000,34.00000' direction='3' font='3' color='000000'>Solder Pad</TEXT>
+		<LABEL pos='96.00000,38.00000' direction='2' font='3' color='208000' style='1'>VIN_48V</LABEL>
+		<LABEL pos='96.00000,44.00000' direction='2' font='3' color='208000' style='1'>GND</LABEL>
+		<TEXT pos='100.00000,30.00000' direction='3' font='4' color='000000'>BEC 12V</TEXT>
+		<TEXT pos='42.00000,30.00000' direction='3' font='4' color='000000'>PDB</TEXT>
+		<TEXT pos='68.00000,38.00000' direction='3' font='3' color='000000'>RED 28AWG 15cm</TEXT>
+		<WIRE a='96.00000,38.00000' b='62.00000,38.00000'/>
+		<WIRE a='62.00000,44.00000' b='96.00000,44.00000'/>
+		<TEXT pos='68.00000,44.00000' direction='3' font='3' color='000000'>BLK 28AWG 15cm</TEXT>
+		<TEXT pos='64.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
+		<TEXT pos='94.00000,38.00000' direction='3' font='3' color='000000'>+</TEXT>
+		<TEXT pos='64.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
+		<TEXT pos='94.00000,44.00000' direction='3' font='3' color='000000'>-</TEXT>
 	</TinyCAD>
 </TinyCADSheets>
