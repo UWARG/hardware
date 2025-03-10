@@ -507,7 +507,7 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 
 
 </NOTE_TEXT>
-		<NOTE_TEXT a='210.00000,76.00000' b='226.00000,64.00000' direction='3' style='6' fill='7' font='3' color='FF0000' border_style='1'>To Brushless DC motor
+		<NOTE_TEXT a='210.00000,76.00000' b='230.00000,64.00000' direction='3' style='6' fill='7' font='3' color='FF0000' border_style='1'>To Brushless DC motor leads
 
 
 </NOTE_TEXT>
