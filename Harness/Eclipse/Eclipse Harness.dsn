@@ -184,6 +184,13 @@ download the executable.-->
 		<TEXT pos='130.00000,106.00000' direction='3' font='3' color='000000'>22AWG BLK 15cm</TEXT>
 		<TEXT pos='130.00000,110.00000' direction='3' font='3' color='000000'>22AWG BLK 15cm</TEXT>
 		<TEXT pos='130.00000,114.00000' direction='3' font='3' color='000000'>22AWG BLK 15cm</TEXT>
+		<TEXT pos='32.00000,128.00000' direction='3' font='3' color='000000'>P1</TEXT>
+		<TEXT pos='86.00000,128.00000' direction='3' font='3' color='000000'>P2</TEXT>
+		<TEXT pos='122.00000,128.00000' direction='3' font='3' color='000000'>P3</TEXT>
+		<TEXT pos='154.00000,128.00000' direction='3' font='3' color='000000'>P4</TEXT>
+		<TEXT pos='208.00000,128.00000' direction='3' font='3' color='000000'>P5</TEXT>
+		<TEXT pos='104.00000,80.00000' direction='3' font='3' color='000000'>J1</TEXT>
+		<TEXT pos='162.00000,80.00000' direction='3' font='3' color='000000'>J2</TEXT>
 	</TinyCAD>
 	<TinyCAD>
 		<NAME>ESC &amp; VTX</NAME>
@@ -295,7 +302,7 @@ download the executable.-->
 			<INDEX>0</INDEX>
 			<COLOR>AFFFFF</COLOR>
 		</FILL>
-		<FILL id='6'>
+		<FILL id='7'>
 			<INDEX>0</INDEX>
 			<COLOR>AFFFFF</COLOR>
 		</FILL>
@@ -416,7 +423,7 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 
 </NOTE_TEXT>
 		<LABEL pos='156.00000,136.00000' direction='3' font='4' color='208000' style='2'>S/A</LABEL>
-		<WIRE a='206.00000,136.00000' b='156.00000,136.00000'/>
+		<WIRE a='206.00000,136.00000' b='158.00000,136.00000'/>
 		<RECTANGLE a='140.00000,122.00000' b='156.00000,158.00000' style='5' fill='0'/>
 		<TEXT pos='170.00000,136.00000' direction='3' font='3' color='000000'>28AWG GRN ?cm</TEXT>
 		<TEXT pos='202.00000,136.00000' direction='3' font='4' color='000000'>2</TEXT>
@@ -490,23 +497,17 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		<LABEL pos='156.00000,70.00000' direction='3' font='3' color='208000' style='2'>Phase B</LABEL>
 		<LABEL pos='156.00000,74.00000' direction='3' font='3' color='208000' style='2'>Phase C</LABEL>
 		<RECTANGLE a='140.00000,60.00000' b='156.00000,106.00000' style='5' fill='0'/>
-		<RECTANGLE a='194.00000,60.00000' b='210.00000,80.00000' style='5' fill='0'/>
 		<WIRE a='156.00000,70.00000' b='194.00000,70.00000'/>
 		<WIRE a='156.00000,66.00000' b='194.00000,66.00000'/>
 		<LABEL pos='194.00000,66.00000' direction='2' font='7' color='208000' style='1'>Phase A</LABEL>
 		<LABEL pos='194.00000,70.00000' direction='2' font='7' color='208000' style='1'>Phase B</LABEL>
-		<TEXT pos='194.00000,58.00000' direction='3' font='7' color='000000'>4mm Bullet Connector F-M</TEXT>
-		<RECTANGLE a='210.00000,60.00000' b='226.00000,80.00000' style='5' fill='0'/>
-		<LABEL pos='226.00000,66.00000' direction='3' font='7' color='208000' style='2'>Phase A</LABEL>
-		<LABEL pos='226.00000,70.00000' direction='3' font='7' color='208000' style='2'>Phase B</LABEL>
 		<LABEL pos='194.00000,74.00000' direction='2' font='7' color='208000' style='1'>Phase C</LABEL>
-		<LABEL pos='226.00000,74.00000' direction='3' font='7' color='208000' style='2'>Phase C</LABEL>
 		<WIRE a='156.00000,74.00000' b='194.00000,74.00000'/>
 		<NOTE_TEXT a='236.00000,104.00000' b='252.00000,92.00000' direction='3' style='6' fill='5' font='3' color='FF0000' border_style='1'>To Pixhawk PWM ports
 
 
 </NOTE_TEXT>
-		<NOTE_TEXT a='230.00000,76.00000' b='246.00000,64.00000' direction='3' style='6' fill='6' font='3' color='FF0000' border_style='1'>To Brushless DC motor
+		<NOTE_TEXT a='210.00000,76.00000' b='226.00000,64.00000' direction='3' style='6' fill='7' font='3' color='FF0000' border_style='1'>To Brushless DC motor
 
 
 </NOTE_TEXT>
@@ -518,6 +519,13 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		<JUNCTION pos='128.00000,90.00000'/>
 		<JUNCTION pos='214.00000,96.00000'/>
 		<JUNCTION pos='214.00000,100.00000'/>
+		<TEXT pos='44.00000,80.00000' direction='3' font='3' color='000000'>P6</TEXT>
+		<TEXT pos='44.00000,116.00000' direction='3' font='3' color='000000'>P7</TEXT>
+		<TEXT pos='78.00000,156.00000' direction='3' font='3' color='000000'>J3</TEXT>
+		<TEXT pos='206.00000,120.00000' direction='3' font='3' color='000000'>J4</TEXT>
+		<JUNCTION pos='206.00000,136.00000'/>
+		<WIRE a='208.00000,136.00000' b='206.00000,136.00000'/>
+		<TEXT pos='214.00000,86.00000' direction='3' font='3' color='000000'>T1</TEXT>
 	</TinyCAD>
 	<TinyCAD>
 		<NAME>Pixhawk Telem</NAME>
@@ -663,6 +671,10 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		<TEXT pos='148.00000,136.00000' direction='3' font='4' color='000000'>2</TEXT>
 		<RECTANGLE a='86.00000,126.00000' b='102.00000,150.00000' style='3' fill='0'/>
 		<TEXT pos='84.00000,54.00000' direction='3' font='5' color='000000'>Eclipse Pixhawk TELEM Harness</TEXT>
+		<TEXT pos='86.00000,76.00000' direction='3' font='3' color='000000'>J5</TEXT>
+		<TEXT pos='152.00000,74.00000' direction='3' font='3' color='000000'>J6</TEXT>
+		<TEXT pos='86.00000,120.00000' direction='3' font='3' color='000000'>J7</TEXT>
+		<TEXT pos='152.00000,116.00000' direction='3' font='3' color='000000'>J8</TEXT>
 	</TinyCAD>
 	<TinyCAD>
 		<NAME>Breakout to Left Wing</NAME>
@@ -679,16 +691,6 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 			<DATE>2025-03-08</DATE>
 			<GRID spacing='100.00000' snap='1'/>
 		</DETAILS>
-		<FONT id='0'>
-			<HEIGHT>-13</HEIGHT>
-			<WIDTH>6</WIDTH>
-			<WEIGHT>400</WEIGHT>
-			<ITALIC>0</ITALIC>
-			<UNDERLINE>0</UNDERLINE>
-			<STRIKEOUT>0</STRIKEOUT>
-			<CHARSET>0</CHARSET>
-			<FACENAME>Arial</FACENAME>
-		</FONT>
 		<FONT id='3'>
 			<HEIGHT>-13</HEIGHT>
 			<WIDTH>6</WIDTH>
@@ -721,17 +723,17 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		</FONT>
 		<FONT id='6'>
 			<HEIGHT>-13</HEIGHT>
-			<WIDTH>7</WIDTH>
-			<WEIGHT>900</WEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
 			<ITALIC>0</ITALIC>
 			<UNDERLINE>0</UNDERLINE>
 			<STRIKEOUT>0</STRIKEOUT>
 			<CHARSET>0</CHARSET>
-			<FACENAME>Arial Black</FACENAME>
+			<FACENAME>Arial</FACENAME>
 		</FONT>
 		<FONT id='7'>
 			<HEIGHT>-13</HEIGHT>
-			<WIDTH>14</WIDTH>
+			<WIDTH>7</WIDTH>
 			<WEIGHT>900</WEIGHT>
 			<ITALIC>0</ITALIC>
 			<UNDERLINE>0</UNDERLINE>
@@ -741,6 +743,16 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		</FONT>
 		<FONT id='8'>
 			<HEIGHT>-13</HEIGHT>
+			<WIDTH>14</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='9'>
+			<HEIGHT>-13</HEIGHT>
 			<WIDTH>6</WIDTH>
 			<WEIGHT>400</WEIGHT>
 			<ITALIC>0</ITALIC>
@@ -749,7 +761,7 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 			<CHARSET>0</CHARSET>
 			<FACENAME>Arial</FACENAME>
 		</FONT>
-		<FONT id='9'>
+		<FONT id='10'>
 			<HEIGHT>-29</HEIGHT>
 			<WIDTH>14</WIDTH>
 			<WEIGHT>700</WEIGHT>
@@ -773,15 +785,15 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 			<INDEX>-1</INDEX>
 			<COLOR>000000</COLOR>
 		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
 		<FILL id='3'>
 			<INDEX>0</INDEX>
 			<COLOR>AFFFFF</COLOR>
 		</FILL>
 		<FILL id='4'>
-			<INDEX>0</INDEX>
-			<COLOR>AFFFFF</COLOR>
-		</FILL>
-		<FILL id='5'>
 			<INDEX>0</INDEX>
 			<COLOR>AFFFFF</COLOR>
 		</FILL>
@@ -2562,33 +2574,33 @@ AR2&lt;1SR2?1#R3?-+_ _ [.]87T&lt;RR     $E%3D2N0F&quot;&quot;
 			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
 			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
 		</OPTIONS>
-		<TEXT pos='18.00000,64.00000' direction='3' font='5' color='000000'>JST-GH 4pin</TEXT>
-		<TEXT pos='136.00000,46.00000' direction='3' font='5' color='000000'>XT60(2+4)-M</TEXT>
-		<TEXT pos='112.00000,46.00000' direction='3' font='5' color='000000'>XT60(2+4)-F</TEXT>
-		<TEXT pos='18.00000,36.00000' direction='3' font='5' color='000000'>XT60-F</TEXT>
+		<TEXT pos='18.00000,64.00000' direction='3' font='6' color='000000'>JST-GH 4pin</TEXT>
+		<TEXT pos='136.00000,46.00000' direction='3' font='6' color='000000'>XT60(2+4)-M</TEXT>
+		<TEXT pos='112.00000,46.00000' direction='3' font='6' color='000000'>XT60(2+4)-F</TEXT>
+		<TEXT pos='18.00000,36.00000' direction='3' font='6' color='000000'>XT60-F</TEXT>
 		<RECTANGLE a='18.00000,38.00000' b='34.00000,54.00000' style='3' fill='0'/>
 		<RECTANGLE a='116.00000,48.00000' b='132.00000,82.00000' style='3' fill='0'/>
-		<LABEL pos='34.00000,44.00000' direction='3' font='5' color='208000' style='2'>VBATT</LABEL>
-		<LABEL pos='34.00000,48.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
-		<LABEL pos='116.00000,58.00000' direction='2' font='5' color='208000' style='2'>GND</LABEL>
-		<LABEL pos='116.00000,54.00000' direction='2' font='5' color='208000' style='2'>VBATT</LABEL>
-		<LABEL pos='116.00000,64.00000' direction='2' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='116.00000,68.00000' direction='2' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='116.00000,72.00000' direction='2' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='116.00000,76.00000' direction='2' font='5' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='34.00000,44.00000' direction='3' font='6' color='208000' style='2'>VBATT</LABEL>
+		<LABEL pos='34.00000,48.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='116.00000,58.00000' direction='2' font='6' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='116.00000,54.00000' direction='2' font='6' color='208000' style='2'>VBATT</LABEL>
+		<LABEL pos='116.00000,64.00000' direction='2' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='116.00000,68.00000' direction='2' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='116.00000,72.00000' direction='2' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='116.00000,76.00000' direction='2' font='6' color='208000' style='2'>GND</LABEL>
 		<RECTANGLE a='148.00000,82.00000' b='132.00000,48.00000' style='3' fill='0'/>
-		<LABEL pos='148.00000,58.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
-		<LABEL pos='148.00000,54.00000' direction='3' font='5' color='208000' style='2'>VBATT</LABEL>
-		<LABEL pos='148.00000,64.00000' direction='3' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='148.00000,68.00000' direction='3' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='148.00000,72.00000' direction='3' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='148.00000,76.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='148.00000,58.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='148.00000,54.00000' direction='3' font='6' color='208000' style='2'>VBATT</LABEL>
+		<LABEL pos='148.00000,64.00000' direction='3' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='148.00000,68.00000' direction='3' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='148.00000,72.00000' direction='3' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='148.00000,76.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
 		<RECTANGLE a='18.00000,70.00000' b='34.00000,94.00000' style='3' fill='0'/>
-		<LABEL pos='34.00000,76.00000' direction='3' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='34.00000,80.00000' direction='3' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='34.00000,84.00000' direction='3' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='34.00000,88.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
-		<TEXT pos='18.00000,68.00000' direction='3' font='5' color='000000'>GHR-04V-S</TEXT>
+		<LABEL pos='34.00000,76.00000' direction='3' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='34.00000,80.00000' direction='3' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='34.00000,84.00000' direction='3' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='34.00000,88.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
+		<TEXT pos='18.00000,68.00000' direction='3' font='6' color='000000'>GHR-04V-S</TEXT>
 		<WIRE a='34.00000,44.00000' b='84.00000,44.00000'/>
 		<WIRE a='84.00000,44.00000' b='84.00000,54.00000'/>
 		<WIRE a='84.00000,54.00000' b='116.00000,54.00000'/>
@@ -2617,26 +2629,26 @@ AR2&lt;1SR2?1#R3?-+_ _ [.]87T&lt;RR     $E%3D2N0F&quot;&quot;
 		<WIRE a='116.00000,76.00000' b='92.00000,76.00000'/>
 		<WIRE a='92.00000,76.00000' b='92.00000,88.00000'/>
 		<WIRE a='92.00000,88.00000' b='34.00000,88.00000'/>
-		<TEXT pos='36.00000,76.00000' direction='3' font='5' color='000000'>1</TEXT>
-		<TEXT pos='36.00000,80.00000' direction='3' font='5' color='000000'>2</TEXT>
-		<TEXT pos='36.00000,84.00000' direction='3' font='5' color='000000'>3</TEXT>
-		<TEXT pos='36.00000,88.00000' direction='3' font='5' color='000000'>4</TEXT>
-		<TEXT pos='36.00000,44.00000' direction='3' font='5' color='000000'>1</TEXT>
-		<TEXT pos='36.00000,48.00000' direction='3' font='5' color='000000'>2</TEXT>
-		<TEXT pos='112.00000,54.00000' direction='3' font='5' color='000000'>1</TEXT>
-		<TEXT pos='112.00000,58.00000' direction='3' font='5' color='000000'>2</TEXT>
-		<TEXT pos='112.00000,64.00000' direction='3' font='5' color='000000'>3</TEXT>
-		<TEXT pos='112.00000,68.00000' direction='3' font='5' color='000000'>4</TEXT>
-		<TEXT pos='112.00000,72.00000' direction='3' font='5' color='000000'>5</TEXT>
-		<TEXT pos='112.00000,76.00000' direction='3' font='5' color='000000'>6</TEXT>
+		<TEXT pos='36.00000,76.00000' direction='3' font='6' color='000000'>1</TEXT>
+		<TEXT pos='36.00000,80.00000' direction='3' font='6' color='000000'>2</TEXT>
+		<TEXT pos='36.00000,84.00000' direction='3' font='6' color='000000'>3</TEXT>
+		<TEXT pos='36.00000,88.00000' direction='3' font='6' color='000000'>4</TEXT>
+		<TEXT pos='36.00000,44.00000' direction='3' font='6' color='000000'>1</TEXT>
+		<TEXT pos='36.00000,48.00000' direction='3' font='6' color='000000'>2</TEXT>
+		<TEXT pos='112.00000,54.00000' direction='3' font='6' color='000000'>1</TEXT>
+		<TEXT pos='112.00000,58.00000' direction='3' font='6' color='000000'>2</TEXT>
+		<TEXT pos='112.00000,64.00000' direction='3' font='6' color='000000'>3</TEXT>
+		<TEXT pos='112.00000,68.00000' direction='3' font='6' color='000000'>4</TEXT>
+		<TEXT pos='112.00000,72.00000' direction='3' font='6' color='000000'>5</TEXT>
+		<TEXT pos='112.00000,76.00000' direction='3' font='6' color='000000'>6</TEXT>
 		<RECTANGLE a='192.00000,38.00000' b='208.00000,54.00000' style='3' fill='0'/>
-		<TEXT pos='238.24000,65.00000' direction='3' font='5' color='000000'>JST-GH 4pin</TEXT>
+		<TEXT pos='238.24000,65.00000' direction='3' font='6' color='000000'>JST-GH 4pin</TEXT>
 		<RECTANGLE a='254.00000,94.00000' b='238.00000,70.00000' style='3' fill='0'/>
-		<LABEL pos='238.00000,76.00000' direction='2' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='238.00000,80.00000' direction='2' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='238.00000,84.00000' direction='2' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='238.00000,88.00000' direction='2' font='5' color='208000' style='2'>GND</LABEL>
-		<TEXT pos='237.48000,69.00000' direction='3' font='5' color='000000'>GHR-04V-S</TEXT>
+		<LABEL pos='238.00000,76.00000' direction='2' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='238.00000,80.00000' direction='2' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='238.00000,84.00000' direction='2' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='238.00000,88.00000' direction='2' font='6' color='208000' style='2'>GND</LABEL>
+		<TEXT pos='237.48000,69.00000' direction='3' font='6' color='000000'>GHR-04V-S</TEXT>
 		<WIRE a='238.00000,84.00000' b='232.00000,84.00000'/>
 		<WIRE a='232.00000,84.00000' b='228.00000,80.00000'/>
 		<WIRE a='228.00000,80.00000' b='220.00000,80.00000'/>
@@ -2665,87 +2677,87 @@ AR2&lt;1SR2?1#R3?-+_ _ [.]87T&lt;RR     $E%3D2N0F&quot;&quot;
 		<WIRE a='168.00000,72.00000' b='172.00000,68.00000'/>
 		<WIRE a='172.00000,68.00000' b='180.00000,68.00000'/>
 		<WIRE a='180.00000,68.00000' b='180.00000,80.00000'/>
-		<TEXT pos='150.00000,54.00000' direction='3' font='5' color='000000'>1</TEXT>
-		<TEXT pos='150.00000,58.00000' direction='3' font='5' color='000000'>2</TEXT>
-		<TEXT pos='150.00000,64.00000' direction='3' font='5' color='000000'>3</TEXT>
-		<TEXT pos='150.00000,68.00000' direction='3' font='5' color='000000'>4</TEXT>
-		<TEXT pos='150.00000,72.00000' direction='3' font='5' color='000000'>5</TEXT>
-		<TEXT pos='150.00000,76.00000' direction='3' font='5' color='000000'>6</TEXT>
+		<TEXT pos='150.00000,54.00000' direction='3' font='6' color='000000'>1</TEXT>
+		<TEXT pos='150.00000,58.00000' direction='3' font='6' color='000000'>2</TEXT>
+		<TEXT pos='150.00000,64.00000' direction='3' font='6' color='000000'>3</TEXT>
+		<TEXT pos='150.00000,68.00000' direction='3' font='6' color='000000'>4</TEXT>
+		<TEXT pos='150.00000,72.00000' direction='3' font='6' color='000000'>5</TEXT>
+		<TEXT pos='150.00000,76.00000' direction='3' font='6' color='000000'>6</TEXT>
 		<WIRE a='148.00000,58.00000' b='164.00000,58.00000'/>
 		<WIRE a='164.00000,48.00000' b='164.00000,58.00000'/>
 		<WIRE a='164.00000,48.00000' b='192.00000,48.00000'/>
 		<WIRE a='148.00000,54.00000' b='160.00000,54.00000'/>
 		<WIRE a='160.00000,54.00000' b='160.00000,44.00000'/>
 		<WIRE a='160.00000,44.00000' b='192.00000,44.00000'/>
-		<LABEL pos='192.00000,44.00000' direction='2' font='5' color='208000' style='2'>VBATT</LABEL>
-		<LABEL pos='192.00000,48.00000' direction='2' font='5' color='208000' style='2'>GND</LABEL>
-		<TEXT pos='192.00000,36.00000' direction='3' font='5' color='000000'>XT30-F</TEXT>
+		<LABEL pos='192.00000,44.00000' direction='2' font='6' color='208000' style='2'>VBATT</LABEL>
+		<LABEL pos='192.00000,48.00000' direction='2' font='6' color='208000' style='2'>GND</LABEL>
+		<TEXT pos='192.00000,36.00000' direction='3' font='6' color='000000'>XT30-F</TEXT>
 		<RECTANGLE a='208.00000,38.00000' b='224.00000,54.00000' style='3' fill='0'/>
-		<LABEL pos='224.00000,44.00000' direction='3' font='5' color='208000' style='2'>VBATT</LABEL>
-		<LABEL pos='224.00000,48.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
-		<TEXT pos='56.00000,76.00000' direction='3' font='5' color='000000'>28AWG RED ?cm</TEXT>
-		<TEXT pos='56.00000,80.00000' direction='3' font='5' color='000000'>28AWG WHT ?cm</TEXT>
+		<LABEL pos='224.00000,44.00000' direction='3' font='6' color='208000' style='2'>VBATT</LABEL>
+		<LABEL pos='224.00000,48.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
+		<TEXT pos='56.00000,76.00000' direction='3' font='6' color='000000'>28AWG RED ?cm</TEXT>
+		<TEXT pos='56.00000,80.00000' direction='3' font='6' color='000000'>28AWG WHT ?cm</TEXT>
 		<WIRE a='44.00000,80.00000' b='48.00000,80.00000'/>
 		<WIRE a='34.00000,80.00000' b='40.00000,80.00000'/>
-		<TEXT pos='56.00000,88.00000' direction='3' font='5' color='000000'>28AWG BLK ?cm</TEXT>
+		<TEXT pos='56.00000,88.00000' direction='3' font='6' color='000000'>28AWG BLK ?cm</TEXT>
 		<WIRE a='52.00000,80.00000' b='84.00000,80.00000'/>
 		<WIRE a='84.00000,80.00000' b='84.00000,68.00000'/>
 		<WIRE a='34.00000,84.00000' b='40.00000,84.00000'/>
 		<WIRE a='44.00000,84.00000' b='48.00000,84.00000'/>
-		<TEXT pos='56.00000,84.00000' direction='3' font='5' color='000000'>28AWG YLW ?cm</TEXT>
-		<TEXT pos='188.00000,76.00000' direction='3' font='5' color='000000'>28AWG RED ?cm</TEXT>
-		<TEXT pos='188.00000,80.00000' direction='3' font='5' color='000000'>28AWG WHT ?cm</TEXT>
-		<TEXT pos='188.00000,88.00000' direction='3' font='5' color='000000'>28AWG BLK ?cm</TEXT>
-		<TEXT pos='188.00000,84.00000' direction='3' font='5' color='000000'>28AWG YLW ?cm</TEXT>
-		<TEXT pos='214.00000,36.00000' direction='3' font='5' color='000000'>XT30-M</TEXT>
-		<TEXT pos='164.00000,44.00000' direction='3' font='5' color='000000'>22AWG RED ?cm</TEXT>
-		<TEXT pos='164.00000,48.00000' direction='3' font='5' color='000000'>22AWG BLK ?cm</TEXT>
+		<TEXT pos='56.00000,84.00000' direction='3' font='6' color='000000'>28AWG YLW ?cm</TEXT>
+		<TEXT pos='188.00000,76.00000' direction='3' font='6' color='000000'>28AWG RED ?cm</TEXT>
+		<TEXT pos='188.00000,80.00000' direction='3' font='6' color='000000'>28AWG WHT ?cm</TEXT>
+		<TEXT pos='188.00000,88.00000' direction='3' font='6' color='000000'>28AWG BLK ?cm</TEXT>
+		<TEXT pos='188.00000,84.00000' direction='3' font='6' color='000000'>28AWG YLW ?cm</TEXT>
+		<TEXT pos='214.00000,36.00000' direction='3' font='6' color='000000'>XT30-M</TEXT>
+		<TEXT pos='164.00000,44.00000' direction='3' font='6' color='000000'>22AWG RED ?cm</TEXT>
+		<TEXT pos='164.00000,48.00000' direction='3' font='6' color='000000'>22AWG BLK ?cm</TEXT>
 		<METAFILE a='202.00000,106.00000' b='278.00000,174.40000' id='1'/>
-		<TEXT pos='54.00000,44.00000' direction='3' font='5' color='000000'>22AWG RED ?cm</TEXT>
-		<TEXT pos='54.00000,48.00000' direction='3' font='5' color='000000'>22AWG BLK ?cm</TEXT>
-		<NOTE_TEXT a='2.00000,90.00000' b='16.00000,76.00000' direction='3' style='4' fill='5' font='4' color='FF0000' border_style='1'>To Pixhawk CAN2</NOTE_TEXT>
-		<NOTE_TEXT a='2.00000,54.00000' b='16.00000,40.00000' direction='3' style='4' fill='5' font='4' color='FF0000' border_style='1'>To Rear XT60 Breakout</NOTE_TEXT>
-		<NOTE_TEXT a='256.00000,88.00000' b='276.00000,74.00000' direction='3' style='4' fill='5' font='4' color='FF0000' border_style='1'>To Left Wing Single Servo Driver</NOTE_TEXT>
-		<TEXT pos='234.00000,76.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='234.00000,80.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='234.00000,84.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='234.00000,88.00000' direction='3' font='3' color='000000'>4</TEXT>
-		<TEXT pos='188.00000,44.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='188.00000,48.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='226.00000,44.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='226.00000,48.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<LABEL pos='260.00000,44.00000' direction='2' font='6' color='208000' style='1'>+</LABEL>
-		<LABEL pos='260.00000,48.00000' direction='2' font='7' color='208000' style='1'>-</LABEL>
+		<TEXT pos='54.00000,44.00000' direction='3' font='6' color='000000'>22AWG RED ?cm</TEXT>
+		<TEXT pos='54.00000,48.00000' direction='3' font='6' color='000000'>22AWG BLK ?cm</TEXT>
+		<NOTE_TEXT a='2.00000,90.00000' b='16.00000,76.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Pixhawk CAN2</NOTE_TEXT>
+		<NOTE_TEXT a='2.00000,54.00000' b='16.00000,40.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Rear XT60 Breakout</NOTE_TEXT>
+		<NOTE_TEXT a='256.00000,88.00000' b='276.00000,74.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Left Wing Single Servo Driver</NOTE_TEXT>
+		<TEXT pos='234.00000,76.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='234.00000,80.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='234.00000,84.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='234.00000,88.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='188.00000,44.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='188.00000,48.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='226.00000,44.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='226.00000,48.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<LABEL pos='260.00000,44.00000' direction='2' font='7' color='208000' style='1'>+</LABEL>
+		<LABEL pos='260.00000,48.00000' direction='2' font='8' color='208000' style='1'>-</LABEL>
 		<WIRE a='224.00000,44.00000' b='260.00000,44.00000'/>
 		<WIRE a='224.00000,48.00000' b='260.00000,48.00000'/>
-		<TEXT pos='250.00000,36.00000' direction='3' font='8' color='000000'>Single Servo Driver</TEXT>
-		<TEXT pos='258.00000,40.00000' direction='3' font='8' color='000000'>Solder Pads</TEXT>
-		<TEXT pos='234.00000,44.00000' direction='3' font='8' color='000000'>22AWG RED ?cm</TEXT>
-		<TEXT pos='234.00000,48.00000' direction='3' font='8' color='000000'>22AWG BLK ?cm</TEXT>
+		<TEXT pos='250.00000,36.00000' direction='3' font='9' color='000000'>Single Servo Driver</TEXT>
+		<TEXT pos='258.00000,40.00000' direction='3' font='9' color='000000'>Solder Pads</TEXT>
+		<TEXT pos='234.00000,44.00000' direction='3' font='9' color='000000'>22AWG RED ?cm</TEXT>
+		<TEXT pos='234.00000,48.00000' direction='3' font='9' color='000000'>22AWG BLK ?cm</TEXT>
 		<METAFILE a='6.00000,152.00000' b='78.00000,209.20000' id='2'/>
-		<TEXT pos='84.00000,20.00000' direction='3' font='9' color='000000'>Eclipse Power &amp; CAN to Left Wing Harness</TEXT>
-		<TEXT pos='262.00000,32.00000' direction='3' font='8' color='000000'>Left Wing</TEXT>
-		<TEXT pos='24.00000,124.00000' direction='3' font='3' color='000000'>JST GH 4pin</TEXT>
-		<TEXT pos='160.00000,104.00000' direction='3' font='3' color='000000'>JST GH 4pin</TEXT>
-		<TEXT pos='160.00000,148.00000' direction='3' font='3' color='000000'>JST GH 4pin</TEXT>
-		<TEXT pos='24.00000,128.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
-		<TEXT pos='160.00000,108.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
-		<TEXT pos='160.00000,152.00000' direction='3' font='3' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='84.00000,20.00000' direction='3' font='10' color='000000'>Eclipse Power &amp; CAN to Left Wing Harness</TEXT>
+		<TEXT pos='262.00000,32.00000' direction='3' font='9' color='000000'>Left Wing</TEXT>
+		<TEXT pos='24.00000,124.00000' direction='3' font='4' color='000000'>JST GH 4pin</TEXT>
+		<TEXT pos='160.00000,104.00000' direction='3' font='4' color='000000'>JST GH 4pin</TEXT>
+		<TEXT pos='160.00000,148.00000' direction='3' font='4' color='000000'>JST GH 4pin</TEXT>
+		<TEXT pos='24.00000,128.00000' direction='3' font='4' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='160.00000,108.00000' direction='3' font='4' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='160.00000,152.00000' direction='3' font='4' color='000000'>GHR-04V-S</TEXT>
 		<RECTANGLE a='24.00000,130.00000' b='42.00000,150.00000' style='3' fill='0'/>
-		<LABEL pos='42.00000,134.00000' direction='3' font='3' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='42.00000,138.00000' direction='3' font='3' color='208000' style='3'>CAN_H</LABEL>
-		<LABEL pos='42.00000,142.00000' direction='3' font='3' color='208000' style='3'>CAN_L</LABEL>
-		<LABEL pos='42.00000,146.00000' direction='3' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='42.00000,134.00000' direction='3' font='4' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='42.00000,138.00000' direction='3' font='4' color='208000' style='3'>CAN_H</LABEL>
+		<LABEL pos='42.00000,142.00000' direction='3' font='4' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='42.00000,146.00000' direction='3' font='4' color='208000' style='3'>GND</LABEL>
 		<RECTANGLE a='178.00000,130.00000' b='160.00000,110.00000' style='3' fill='0'/>
-		<LABEL pos='160.00000,114.00000' direction='2' font='3' color='208000' style='1'>5V</LABEL>
-		<LABEL pos='160.00000,118.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
-		<LABEL pos='160.00000,122.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
-		<LABEL pos='160.00000,126.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='160.00000,114.00000' direction='2' font='4' color='208000' style='1'>5V</LABEL>
+		<LABEL pos='160.00000,118.00000' direction='2' font='4' color='208000' style='3'>CAN_H</LABEL>
+		<LABEL pos='160.00000,122.00000' direction='2' font='4' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='160.00000,126.00000' direction='2' font='4' color='208000' style='3'>GND</LABEL>
 		<RECTANGLE a='178.00000,172.00000' b='160.00000,152.00000' style='3' fill='0'/>
-		<LABEL pos='160.00000,156.00000' direction='2' font='3' color='208000' style='1'>5V</LABEL>
-		<LABEL pos='160.00000,160.00000' direction='2' font='3' color='208000' style='3'>CAN_H</LABEL>
-		<LABEL pos='160.00000,164.00000' direction='2' font='3' color='208000' style='3'>CAN_L</LABEL>
-		<LABEL pos='160.00000,168.00000' direction='2' font='3' color='208000' style='3'>GND</LABEL>
+		<LABEL pos='160.00000,156.00000' direction='2' font='4' color='208000' style='1'>5V</LABEL>
+		<LABEL pos='160.00000,160.00000' direction='2' font='4' color='208000' style='3'>CAN_H</LABEL>
+		<LABEL pos='160.00000,164.00000' direction='2' font='4' color='208000' style='3'>CAN_L</LABEL>
+		<LABEL pos='160.00000,168.00000' direction='2' font='4' color='208000' style='3'>GND</LABEL>
 		<WIRE a='78.00000,138.00000' b='82.00000,138.00000'/>
 		<WIRE a='82.00000,138.00000' b='86.00000,142.00000'/>
 		<WIRE a='74.00000,142.00000' b='78.00000,138.00000'/>
@@ -2769,47 +2781,47 @@ AR2&lt;1SR2?1#R3?-+_ _ [.]87T&lt;RR     $E%3D2N0F&quot;&quot;
 		<WIRE a='118.00000,160.00000' b='124.00000,160.00000'/>
 		<WIRE a='124.00000,160.00000' b='128.00000,164.00000'/>
 		<WIRE a='128.00000,164.00000' b='160.00000,164.00000'/>
-		<TEXT pos='44.00000,134.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='44.00000,138.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='44.00000,142.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='44.00000,146.00000' direction='3' font='3' color='000000'>4</TEXT>
-		<TEXT pos='158.00000,114.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='158.00000,118.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='158.00000,122.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='158.00000,126.00000' direction='3' font='3' color='000000'>4</TEXT>
-		<TEXT pos='158.00000,156.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='158.00000,160.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='158.00000,164.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='158.00000,168.00000' direction='3' font='3' color='000000'>4</TEXT>
-		<TEXT pos='50.00000,134.00000' direction='3' font='3' color='000000'>28AWG RED ?cm</TEXT>
-		<TEXT pos='50.00000,138.00000' direction='3' font='3' color='000000'>28AWG WHT ?cm</TEXT>
-		<TEXT pos='50.00000,142.00000' direction='3' font='3' color='000000'>28AWG YLW ?cm</TEXT>
-		<TEXT pos='50.00000,146.00000' direction='3' font='3' color='000000'>28AWG BLK ?cm</TEXT>
-		<TEXT pos='132.00000,114.00000' direction='3' font='3' color='000000'>28AWG RED ?cm</TEXT>
-		<TEXT pos='132.00000,118.00000' direction='3' font='3' color='000000'>28AWG WHT ?cm</TEXT>
-		<TEXT pos='132.00000,122.00000' direction='3' font='3' color='000000'>28AWG YLW ?cm</TEXT>
-		<TEXT pos='132.00000,126.00000' direction='3' font='3' color='000000'>28AWG BLK ?cm</TEXT>
-		<TEXT pos='132.00000,156.00000' direction='3' font='3' color='000000'>28AWG RED ?cm</TEXT>
-		<TEXT pos='132.00000,160.00000' direction='3' font='3' color='000000'>28AWG WHT ?cm</TEXT>
-		<TEXT pos='132.00000,164.00000' direction='3' font='3' color='000000'>28AWG YLW ?cm</TEXT>
-		<TEXT pos='132.00000,168.00000' direction='3' font='3' color='000000'>28AWG BLK ?cm</TEXT>
-		<NOTE_TEXT a='2.00000,146.00000' b='20.00000,132.00000' direction='3' style='4' fill='3' font='4' color='FF0000' border_style='1'>To Left Wing Single Servo Driver</NOTE_TEXT>
-		<NOTE_TEXT a='182.00000,126.00000' b='200.00000,112.00000' direction='3' style='4' fill='4' font='4' color='FF0000' border_style='1'>To Pitot Tube
+		<TEXT pos='44.00000,134.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='44.00000,138.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='44.00000,142.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='44.00000,146.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='158.00000,114.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='158.00000,118.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='158.00000,122.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='158.00000,126.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='158.00000,156.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='158.00000,160.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='158.00000,164.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='158.00000,168.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='50.00000,134.00000' direction='3' font='4' color='000000'>28AWG RED ?cm</TEXT>
+		<TEXT pos='50.00000,138.00000' direction='3' font='4' color='000000'>28AWG WHT ?cm</TEXT>
+		<TEXT pos='50.00000,142.00000' direction='3' font='4' color='000000'>28AWG YLW ?cm</TEXT>
+		<TEXT pos='50.00000,146.00000' direction='3' font='4' color='000000'>28AWG BLK ?cm</TEXT>
+		<TEXT pos='132.00000,114.00000' direction='3' font='4' color='000000'>28AWG RED ?cm</TEXT>
+		<TEXT pos='132.00000,118.00000' direction='3' font='4' color='000000'>28AWG WHT ?cm</TEXT>
+		<TEXT pos='132.00000,122.00000' direction='3' font='4' color='000000'>28AWG YLW ?cm</TEXT>
+		<TEXT pos='132.00000,126.00000' direction='3' font='4' color='000000'>28AWG BLK ?cm</TEXT>
+		<TEXT pos='132.00000,156.00000' direction='3' font='4' color='000000'>28AWG RED ?cm</TEXT>
+		<TEXT pos='132.00000,160.00000' direction='3' font='4' color='000000'>28AWG WHT ?cm</TEXT>
+		<TEXT pos='132.00000,164.00000' direction='3' font='4' color='000000'>28AWG YLW ?cm</TEXT>
+		<TEXT pos='132.00000,168.00000' direction='3' font='4' color='000000'>28AWG BLK ?cm</TEXT>
+		<NOTE_TEXT a='2.00000,146.00000' b='20.00000,132.00000' direction='3' style='4' fill='2' font='5' color='FF0000' border_style='1'>To Left Wing Single Servo Driver</NOTE_TEXT>
+		<NOTE_TEXT a='182.00000,126.00000' b='200.00000,112.00000' direction='3' style='4' fill='3' font='5' color='FF0000' border_style='1'>To Pitot Tube
 </NOTE_TEXT>
-		<NOTE_TEXT a='182.00000,168.00000' b='200.00000,154.00000' direction='3' style='4' fill='5' font='4' color='FF0000' border_style='1'>To GPS</NOTE_TEXT>
+		<NOTE_TEXT a='182.00000,168.00000' b='200.00000,154.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To GPS</NOTE_TEXT>
 		<WIRE a='42.00000,138.00000' b='74.00000,138.00000'/>
-		<LABEL pos='94.00000,134.00000' direction='2' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='94.00000,138.00000' direction='2' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='94.00000,142.00000' direction='2' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='94.00000,146.00000' direction='2' font='5' color='208000' style='2'>GND</LABEL>
-		<LABEL pos='106.00000,114.00000' direction='3' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='106.00000,118.00000' direction='3' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='106.00000,122.00000' direction='3' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='106.00000,126.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
-		<LABEL pos='106.00000,156.00000' direction='3' font='5' color='208000' style='2'>5V</LABEL>
-		<LABEL pos='106.00000,160.00000' direction='3' font='5' color='208000' style='2'>CANH</LABEL>
-		<LABEL pos='106.00000,164.00000' direction='3' font='5' color='208000' style='2'>CANL</LABEL>
-		<LABEL pos='106.00000,168.00000' direction='3' font='5' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='94.00000,134.00000' direction='2' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='94.00000,138.00000' direction='2' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='94.00000,142.00000' direction='2' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='94.00000,146.00000' direction='2' font='6' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='106.00000,114.00000' direction='3' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='106.00000,118.00000' direction='3' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='106.00000,122.00000' direction='3' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='106.00000,126.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
+		<LABEL pos='106.00000,156.00000' direction='3' font='6' color='208000' style='2'>5V</LABEL>
+		<LABEL pos='106.00000,160.00000' direction='3' font='6' color='208000' style='2'>CANH</LABEL>
+		<LABEL pos='106.00000,164.00000' direction='3' font='6' color='208000' style='2'>CANL</LABEL>
+		<LABEL pos='106.00000,168.00000' direction='3' font='6' color='208000' style='2'>GND</LABEL>
 		<WIRE a='42.00000,134.00000' b='94.00000,134.00000'/>
 		<WIRE a='86.00000,138.00000' b='94.00000,138.00000'/>
 		<WIRE a='86.00000,142.00000' b='94.00000,142.00000'/>
@@ -2823,19 +2835,30 @@ AR2&lt;1SR2?1#R3?-+_ _ [.]87T&lt;RR     $E%3D2N0F&quot;&quot;
 		<WIRE a='114.00000,164.00000' b='106.00000,164.00000'/>
 		<WIRE a='160.00000,168.00000' b='106.00000,168.00000'/>
 		<RECTANGLE a='94.00000,108.00000' b='106.00000,174.00000' style='3' fill='0'/>
-		<TEXT pos='94.00000,108.00000' direction='3' font='0' color='000000'>CAN Breakout</TEXT>
-		<TEXT pos='90.00000,134.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='90.00000,138.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='90.00000,142.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='90.00000,146.00000' direction='3' font='3' color='000000'>4</TEXT>
-		<TEXT pos='108.00000,114.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='108.00000,118.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='108.00000,122.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='108.00000,126.00000' direction='3' font='3' color='000000'>4</TEXT>
-		<TEXT pos='108.00000,156.00000' direction='3' font='3' color='000000'>1</TEXT>
-		<TEXT pos='108.00000,160.00000' direction='3' font='3' color='000000'>2</TEXT>
-		<TEXT pos='108.00000,164.00000' direction='3' font='3' color='000000'>3</TEXT>
-		<TEXT pos='108.00000,168.00000' direction='3' font='3' color='000000'>4</TEXT>
+		<TEXT pos='94.00000,108.00000' direction='3' font='3' color='000000'>CAN Breakout</TEXT>
+		<TEXT pos='90.00000,134.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='90.00000,138.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='90.00000,142.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='90.00000,146.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='108.00000,114.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='108.00000,118.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='108.00000,122.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='108.00000,126.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='108.00000,156.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='108.00000,160.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='108.00000,164.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='108.00000,168.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='18.00000,32.00000' direction='3' font='3' color='000000'>P8</TEXT>
+		<TEXT pos='112.00000,42.00000' direction='3' font='3' color='000000'>P9</TEXT>
+		<TEXT pos='136.00000,42.00000' direction='3' font='3' color='000000'>P10</TEXT>
+		<TEXT pos='192.00000,32.00000' direction='3' font='3' color='000000'>P11</TEXT>
+		<TEXT pos='214.00000,32.00000' direction='3' font='3' color='000000'>P12</TEXT>
+		<TEXT pos='18.00000,60.00000' direction='3' font='3' color='000000'>J9</TEXT>
+		<TEXT pos='238.00000,62.00000' direction='3' font='3' color='000000'>J10</TEXT>
+		<TEXT pos='24.00000,120.00000' direction='3' font='3' color='000000'>J11</TEXT>
+		<TEXT pos='160.00000,100.00000' direction='3' font='3' color='000000'>J12</TEXT>
+		<TEXT pos='160.00000,144.00000' direction='3' font='3' color='000000'>J13</TEXT>
+		<TEXT pos='94.00000,104.00000' direction='3' font='3' color='000000'>B1</TEXT>
 	</TinyCAD>
 	<TinyCAD>
 		<NAME>Breakout to Right Wing</NAME>
@@ -2936,11 +2959,11 @@ AR2&lt;1SR2?1#R3?-+_ _ [.]87T&lt;RR     $E%3D2N0F&quot;&quot;
 			<INDEX>-1</INDEX>
 			<COLOR>000000</COLOR>
 		</FILL>
-		<FILL id='3'>
+		<FILL id='2'>
 			<INDEX>0</INDEX>
 			<COLOR>AFFFFF</COLOR>
 		</FILL>
-		<FILL id='4'>
+		<FILL id='3'>
 			<INDEX>0</INDEX>
 			<COLOR>AFFFFF</COLOR>
 		</FILL>
@@ -4900,11 +4923,11 @@ L8#&#039;&gt;K(#%&gt;+,&quot;%N/-&quot;EB,-RM@,=ZL@/7_-Q4 &#039;QD7Z(L     245.1
 		<WIRE a='114.00000,116.00000' b='36.00000,116.00000'/>
 		<WIRE a='42.00000,112.00000' b='36.00000,112.00000'/>
 		<WIRE a='42.00000,108.00000' b='36.00000,108.00000'/>
-		<NOTE_TEXT a='132.00000,118.00000' b='144.00000,102.00000' direction='3' style='4' fill='3' font='5' color='FF0000' border_style='1'>To Tail Servo Module</NOTE_TEXT>
-		<NOTE_TEXT a='240.00000,98.00000' b='260.00000,82.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Right Wing Single Servo Driver</NOTE_TEXT>
-		<NOTE_TEXT a='6.00000,76.00000' b='18.00000,60.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Middle CAN Splitter</NOTE_TEXT>
-		<NOTE_TEXT a='6.00000,116.00000' b='18.00000,100.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Middle CAN Splitter</NOTE_TEXT>
-		<NOTE_TEXT a='4.00000,40.00000' b='18.00000,24.00000' direction='3' style='4' fill='4' font='5' color='FF0000' border_style='1'>To Rear XT60 Breakout</NOTE_TEXT>
+		<NOTE_TEXT a='132.00000,118.00000' b='144.00000,102.00000' direction='3' style='4' fill='2' font='5' color='FF0000' border_style='1'>To Tail Servo Module</NOTE_TEXT>
+		<NOTE_TEXT a='240.00000,98.00000' b='260.00000,82.00000' direction='3' style='4' fill='3' font='5' color='FF0000' border_style='1'>To Right Wing Single Servo Driver</NOTE_TEXT>
+		<NOTE_TEXT a='6.00000,76.00000' b='18.00000,60.00000' direction='3' style='4' fill='3' font='5' color='FF0000' border_style='1'>To Middle CAN Splitter</NOTE_TEXT>
+		<NOTE_TEXT a='6.00000,116.00000' b='18.00000,100.00000' direction='3' style='4' fill='3' font='5' color='FF0000' border_style='1'>To Middle CAN Splitter</NOTE_TEXT>
+		<NOTE_TEXT a='4.00000,40.00000' b='18.00000,24.00000' direction='3' style='4' fill='3' font='5' color='FF0000' border_style='1'>To Rear XT60 Breakout</NOTE_TEXT>
 		<TEXT pos='196.00000,30.00000' direction='3' font='4' color='000000'>1</TEXT>
 		<TEXT pos='196.00000,34.00000' direction='3' font='4' color='000000'>2</TEXT>
 		<TEXT pos='240.00000,62.00000' direction='3' font='4' color='000000'>1</TEXT>
@@ -4965,7 +4988,7 @@ L8#&#039;&gt;K(#%&gt;+,&quot;%N/-&quot;EB,-RM@,=ZL@/7_-Q4 &#039;QD7Z(L     245.1
 		<WIRE a='242.00000,154.00000' b='168.00000,154.00000'/>
 		<WIRE a='174.00000,150.00000' b='168.00000,150.00000'/>
 		<WIRE a='174.00000,146.00000' b='168.00000,146.00000'/>
-		<NOTE_TEXT a='260.00000,154.00000' b='274.00000,142.00000' direction='3' style='4' fill='4' font='3' color='FF0000' border_style='1'>To GPS
+		<NOTE_TEXT a='260.00000,154.00000' b='274.00000,142.00000' direction='3' style='4' fill='3' font='3' color='FF0000' border_style='1'>To GPS
 </NOTE_TEXT>
 		<TEXT pos='238.00000,142.00000' direction='3' font='4' color='000000'>1</TEXT>
 		<TEXT pos='238.00000,146.00000' direction='3' font='4' color='000000'>2</TEXT>
@@ -4975,8 +4998,19 @@ L8#&#039;&gt;K(#%&gt;+,&quot;%N/-&quot;EB,-RM@,=ZL@/7_-Q4 &#039;QD7Z(L     245.1
 		<TEXT pos='170.00000,146.00000' direction='3' font='4' color='000000'>2</TEXT>
 		<TEXT pos='170.00000,150.00000' direction='3' font='4' color='000000'>3</TEXT>
 		<TEXT pos='170.00000,154.00000' direction='3' font='4' color='000000'>4</TEXT>
-		<NOTE_TEXT a='132.00000,154.00000' b='150.00000,142.00000' direction='3' style='4' fill='4' font='4' color='FF0000' border_style='1'>To Right 
+		<NOTE_TEXT a='132.00000,154.00000' b='150.00000,142.00000' direction='3' style='4' fill='3' font='4' color='FF0000' border_style='1'>To Right 
 Wing Single Servo Driver</NOTE_TEXT>
+		<TEXT pos='20.00000,18.00000' direction='3' font='3' color='000000'>P13</TEXT>
+		<TEXT pos='118.00000,28.00000' direction='3' font='3' color='000000'>P14</TEXT>
+		<TEXT pos='142.00000,28.00000' direction='3' font='3' color='000000'>P15</TEXT>
+		<TEXT pos='200.00000,18.00000' direction='3' font='3' color='000000'>P16</TEXT>
+		<TEXT pos='218.00000,18.00000' direction='3' font='3' color='000000'>P17</TEXT>
+		<TEXT pos='20.00000,46.00000' direction='3' font='3' color='000000'>J14</TEXT>
+		<TEXT pos='244.00000,46.00000' direction='3' font='3' color='000000'>J15</TEXT>
+		<TEXT pos='20.00000,88.00000' direction='3' font='3' color='000000'>J16</TEXT>
+		<TEXT pos='114.00000,90.00000' direction='3' font='3' color='000000'>J17</TEXT>
+		<TEXT pos='152.00000,126.00000' direction='3' font='3' color='000000'>J18</TEXT>
+		<TEXT pos='242.00000,128.00000' direction='3' font='3' color='000000'>J19</TEXT>
 	</TinyCAD>
 	<TinyCAD>
 		<NAME>Breakout to Tail</NAME>
@@ -7047,13 +7081,13 @@ L8#&#039;&gt;K(#%&gt;+,&quot;%N/-&quot;EB,-RM@,=ZL@/7_-Q4 &#039;QD7Z(L     245.1
 		<TEXT pos='184.00000,146.00000' direction='3' font='3' color='000000'>28AWG WHT ?cm</TEXT>
 		<TEXT pos='184.00000,154.00000' direction='3' font='3' color='000000'>28AWG BLK ?cm</TEXT>
 		<TEXT pos='184.00000,150.00000' direction='3' font='3' color='000000'>28AWG YLW ?cm</TEXT>
-		<TEXT pos='140.00000,130.00000' direction='3' font='4' color='000000'>JST-GH 4pin</TEXT>
+		<TEXT pos='140.00000,132.00000' direction='3' font='4' color='000000'>JST-GH 4pin</TEXT>
 		<RECTANGLE a='140.00000,136.00000' b='156.00000,160.00000' style='3' fill='0'/>
 		<LABEL pos='156.00000,142.00000' direction='3' font='4' color='208000' style='2'>5V</LABEL>
 		<LABEL pos='156.00000,146.00000' direction='3' font='4' color='208000' style='2'>CANH</LABEL>
 		<LABEL pos='156.00000,150.00000' direction='3' font='4' color='208000' style='2'>CANL</LABEL>
 		<LABEL pos='156.00000,154.00000' direction='3' font='4' color='208000' style='2'>GND</LABEL>
-		<TEXT pos='140.00000,134.00000' direction='3' font='4' color='000000'>GHR-04V-S</TEXT>
+		<TEXT pos='140.00000,136.00000' direction='3' font='4' color='000000'>GHR-04V-S</TEXT>
 		<WIRE a='178.00000,150.00000' b='174.00000,146.00000'/>
 		<WIRE a='174.00000,146.00000' b='166.00000,146.00000'/>
 		<WIRE a='166.00000,146.00000' b='162.00000,150.00000'/>
@@ -7074,5 +7108,15 @@ L8#&#039;&gt;K(#%&gt;+,&quot;%N/-&quot;EB,-RM@,=ZL@/7_-Q4 &#039;QD7Z(L     245.1
 		<TEXT pos='158.00000,154.00000' direction='3' font='4' color='000000'>4</TEXT>
 		<NOTE_TEXT a='254.00000,156.00000' b='274.00000,140.00000' direction='3' style='4' fill='6' font='3' color='FF0000' border_style='1'>To Magnetometer
 </NOTE_TEXT>
+		<TEXT pos='20.00000,20.00000' direction='3' font='3' color='000000'>P18</TEXT>
+		<TEXT pos='118.00000,30.00000' direction='3' font='3' color='000000'>P19</TEXT>
+		<TEXT pos='142.00000,30.00000' direction='3' font='3' color='000000'>P20</TEXT>
+		<TEXT pos='244.00000,20.00000' direction='3' font='3' color='000000'>P21</TEXT>
+		<TEXT pos='20.00000,48.00000' direction='3' font='3' color='000000'>J20</TEXT>
+		<TEXT pos='244.00000,50.00000' direction='3' font='3' color='000000'>J21</TEXT>
+		<TEXT pos='140.00000,88.00000' direction='3' font='3' color='000000'>J22</TEXT>
+		<TEXT pos='234.00000,90.00000' direction='3' font='3' color='000000'>J23</TEXT>
+		<TEXT pos='140.00000,128.00000' direction='3' font='3' color='000000'>J24</TEXT>
+		<TEXT pos='234.00000,128.00000' direction='3' font='3' color='000000'>J25</TEXT>
 	</TinyCAD>
 </TinyCADSheets>
