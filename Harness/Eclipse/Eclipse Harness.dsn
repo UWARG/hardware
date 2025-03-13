@@ -207,6 +207,16 @@ download the executable.-->
 			<DATE>2025-03-08</DATE>
 			<GRID spacing='100.00000' snap='1'/>
 		</DETAILS>
+		<FONT id='0'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
 		<FONT id='1'>
 			<HEIGHT>-10</HEIGHT>
 			<WIDTH>0</WIDTH>
@@ -390,8 +400,8 @@ download the executable.-->
 		<WIRE a='128.00000,100.00000' b='140.00000,100.00000'/>
 		<TEXT pos='62.00000,90.00000' direction='3' font='5' color='000000'>1</TEXT>
 		<TEXT pos='62.00000,100.00000' direction='3' font='5' color='000000'>2</TEXT>
-		<TEXT pos='140.00000,56.00000' direction='3' font='5' color='000000'>Flycolor X-Cross HV 80A ESC</TEXT>
-		<TEXT pos='140.00000,60.00000' direction='3' font='5' color='000000'>Solder Pads</TEXT>
+		<TEXT pos='140.00000,32.00000' direction='3' font='5' color='000000'>Flycolor X-Cross HV 80A ESC</TEXT>
+		<TEXT pos='140.00000,36.00000' direction='3' font='5' color='000000'>Solder Pads</TEXT>
 		<TEXT pos='88.00000,90.00000' direction='3' font='5' color='000000'>10AWG RED ?cm</TEXT>
 		<TEXT pos='88.00000,100.00000' direction='3' font='5' color='000000'>10AWG BLK ?cm</TEXT>
 		<NOTE_TEXT a='16.00000,134.00000' b='40.00000,96.00000' direction='3' style='6' fill='2' font='4' color='FF0000' border_style='1'>
@@ -414,7 +424,7 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		<TEXT pos='140.00000,122.00000' direction='3' font='4' color='000000'>Solder Pads</TEXT>
 		<TEXT pos='88.00000,128.00000' direction='3' font='4' color='000000'>22AWG RED ?cm</TEXT>
 		<TEXT pos='88.00000,132.00000' direction='3' font='4' color='000000'>22AWG BLK ?cm</TEXT>
-		<TEXT pos='92.00000,40.00000' direction='3' font='6' color='000000'>Eclipse ESC &amp; VTX Harness</TEXT>
+		<TEXT pos='94.00000,26.00000' direction='3' font='6' color='000000'>Eclipse ESC &amp; VTX Harness</TEXT>
 		<TEXT pos='206.24000,125.00000' direction='3' font='3' color='000000'>JST-GH 7pin</TEXT>
 		<RECTANGLE a='226.00000,142.00000' b='206.00000,130.00000' style='5' fill='0'/>
 		<LABEL pos='206.00000,136.00000' direction='2' font='3' color='208000' style='2'>Pixhawk TX</LABEL>
@@ -423,7 +433,6 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 
 </NOTE_TEXT>
 		<LABEL pos='156.00000,136.00000' direction='3' font='4' color='208000' style='2'>S/A</LABEL>
-		<WIRE a='206.00000,136.00000' b='158.00000,136.00000'/>
 		<RECTANGLE a='140.00000,122.00000' b='156.00000,158.00000' style='5' fill='0'/>
 		<TEXT pos='170.00000,136.00000' direction='3' font='3' color='000000'>28AWG GRN ?cm</TEXT>
 		<TEXT pos='202.00000,136.00000' direction='3' font='4' color='000000'>2</TEXT>
@@ -484,48 +493,56 @@ To Fuselage XT60 Breakout</NOTE_TEXT>
 		<WIRE a='198.00000,100.00000' b='202.00000,96.00000'/>
 		<WIRE a='202.00000,96.00000' b='206.00000,96.00000'/>
 		<WIRE a='206.00000,96.00000' b='210.00000,100.00000'/>
-		<WIRE a='214.00000,100.00000' b='214.00000,96.00000'/>
-		<WIRE a='214.00000,100.00000' b='210.00000,100.00000'/>
-		<WIRE a='214.00000,96.00000' b='210.00000,96.00000'/>
 		<WIRE a='210.00000,96.00000' b='206.00000,100.00000'/>
 		<WIRE a='206.00000,100.00000' b='202.00000,100.00000'/>
 		<WIRE a='202.00000,100.00000' b='198.00000,96.00000'/>
 		<WIRE a='198.00000,96.00000' b='172.00000,96.00000'/>
 		<TEXT pos='174.00000,96.00000' direction='3' font='4' color='000000'>28AWG YLW ?cm</TEXT>
 		<TEXT pos='174.00000,100.00000' direction='3' font='4' color='000000'>28AWG BLK ?cm</TEXT>
-		<LABEL pos='156.00000,66.00000' direction='3' font='3' color='208000' style='2'>Phase A</LABEL>
-		<LABEL pos='156.00000,70.00000' direction='3' font='3' color='208000' style='2'>Phase B</LABEL>
-		<LABEL pos='156.00000,74.00000' direction='3' font='3' color='208000' style='2'>Phase C</LABEL>
-		<RECTANGLE a='140.00000,60.00000' b='156.00000,106.00000' style='5' fill='0'/>
-		<WIRE a='156.00000,70.00000' b='194.00000,70.00000'/>
-		<WIRE a='156.00000,66.00000' b='194.00000,66.00000'/>
-		<LABEL pos='194.00000,66.00000' direction='2' font='7' color='208000' style='1'>Phase A</LABEL>
-		<LABEL pos='194.00000,70.00000' direction='2' font='7' color='208000' style='1'>Phase B</LABEL>
-		<LABEL pos='194.00000,74.00000' direction='2' font='7' color='208000' style='1'>Phase C</LABEL>
-		<WIRE a='156.00000,74.00000' b='194.00000,74.00000'/>
+		<LABEL pos='156.00000,42.00000' direction='3' font='3' color='208000' style='2'>Phase A</LABEL>
+		<LABEL pos='156.00000,46.00000' direction='3' font='3' color='208000' style='2'>Phase B</LABEL>
+		<LABEL pos='156.00000,50.00000' direction='3' font='3' color='208000' style='2'>Phase C</LABEL>
+		<RECTANGLE a='140.00000,38.00000' b='156.00000,106.00000' style='5' fill='0'/>
 		<NOTE_TEXT a='236.00000,104.00000' b='252.00000,92.00000' direction='3' style='6' fill='5' font='3' color='FF0000' border_style='1'>To Pixhawk PWM ports
 
 
 </NOTE_TEXT>
-		<NOTE_TEXT a='210.00000,76.00000' b='230.00000,64.00000' direction='3' style='6' fill='7' font='3' color='FF0000' border_style='1'>To Brushless DC motor leads
+		<NOTE_TEXT a='206.00000,52.00000' b='226.00000,40.00000' direction='3' style='6' fill='7' font='3' color='FF0000' border_style='1'>To Brushless DC motor
+
 
 
 </NOTE_TEXT>
 		<WIRE a='60.00000,100.00000' b='128.00000,100.00000'/>
-		<TEXT pos='164.00000,66.00000' direction='3' font='3' color='000000'>14AWG BLK ?cm</TEXT>
-		<TEXT pos='164.00000,70.00000' direction='3' font='3' color='000000'>14AWG WHT ?cm</TEXT>
-		<TEXT pos='164.00000,74.00000' direction='3' font='3' color='000000'>14AWG GRN ?cm</TEXT>
+		<TEXT pos='164.00000,42.00000' direction='3' font='3' color='000000'>14AWG BLK ?cm</TEXT>
+		<TEXT pos='164.00000,46.00000' direction='3' font='3' color='000000'>14AWG WHT ?cm</TEXT>
+		<TEXT pos='164.00000,50.00000' direction='3' font='3' color='000000'>14AWG GRN ?cm</TEXT>
 		<JUNCTION pos='128.00000,100.00000'/>
 		<JUNCTION pos='128.00000,90.00000'/>
-		<JUNCTION pos='214.00000,96.00000'/>
-		<JUNCTION pos='214.00000,100.00000'/>
 		<TEXT pos='44.00000,80.00000' direction='3' font='3' color='000000'>P6</TEXT>
 		<TEXT pos='44.00000,116.00000' direction='3' font='3' color='000000'>P7</TEXT>
 		<TEXT pos='78.00000,156.00000' direction='3' font='3' color='000000'>J3</TEXT>
 		<TEXT pos='206.00000,120.00000' direction='3' font='3' color='000000'>J4</TEXT>
-		<JUNCTION pos='206.00000,136.00000'/>
-		<WIRE a='208.00000,136.00000' b='206.00000,136.00000'/>
 		<TEXT pos='214.00000,86.00000' direction='3' font='3' color='000000'>T1</TEXT>
+		<RECTANGLE a='188.00000,36.00000' b='204.00000,56.00000' style='5' fill='0'/>
+		<TEXT pos='188.00000,36.00000' direction='3' font='0' color='000000'>Solder Joint</TEXT>
+		<WIRE a='156.00000,42.00000' b='204.00000,42.00000'/>
+		<WIRE a='156.00000,46.00000' b='204.00000,46.00000'/>
+		<WIRE a='156.00000,50.00000' b='204.00000,50.00000'/>
+		<WIRE a='210.00000,96.00000' b='214.00000,96.00000'/>
+		<WIRE a='214.00000,100.00000' b='210.00000,100.00000'/>
+		<WIRE a='156.00000,136.00000' b='206.00000,136.00000'/>
+		<TEXT pos='214.24000,61.00000' direction='3' font='3' color='000000'>JST-GH 6pin</TEXT>
+		<RECTANGLE a='234.00000,78.00000' b='214.00000,66.00000' style='5' fill='0'/>
+		<LABEL pos='214.00000,72.00000' direction='2' font='3' color='208000' style='2'>Pixhawk RX</LABEL>
+		<TEXT pos='213.48000,65.00000' direction='3' font='3' color='000000'>GHR-06V-S</TEXT>
+		<NOTE_TEXT a='236.00000,78.00000' b='250.00000,66.00000' direction='3' style='6' fill='3' font='3' color='FF0000' border_style='1'>To Pixhawk UART4
+
+</NOTE_TEXT>
+		<TEXT pos='174.00000,72.00000' direction='3' font='3' color='000000'>28AWG GRN ?cm</TEXT>
+		<TEXT pos='210.00000,72.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='214.00000,58.00000' direction='3' font='3' color='000000'>J26</TEXT>
+		<WIRE a='156.00000,72.00000' b='214.00000,72.00000'/>
+		<LABEL pos='156.00000,72.00000' direction='3' font='4' color='208000' style='2'>Tx</LABEL>
 	</TinyCAD>
 	<TinyCAD>
 		<NAME>Pixhawk Telem</NAME>
